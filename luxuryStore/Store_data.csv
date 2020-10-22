@@ -1,0 +1,4001 @@
+1001,Armani,Jeans,7,2000,15500,6
+1006,Dior,Pant Suit,12,2000,6000,8
+1011,Valentino,Hand Bag,2,3500,20500,7
+1016,Louis Vuitton,Hand Bag,1,4500,6000,6
+1021,Gucci,Dress,15,4500,10000,9
+1026,Burberry,Hand Bag,11,500,10000,9
+1031,Saint Laurent,Suit,4,4500,15500,7
+1036,Armani,Accessories,14,500,20500,4
+1041,Dior,Hand Bag,12,2000,15500,4
+1046,Valentino,Dress,10,4500,15500,10
+1051,Louis Vuitton,Jeans,8,2000,6000,1
+1056,Gucci,Hand Bag,7,3500,20500,6
+1061,Burberry,Dress,11,4500,20500,9
+1066,Saint Laurent,Accessories,6,2000,2500,2
+1071,Armani,Hand Bag,1,3500,20500,12
+1076,Dior,Accessories,10,4500,20500,1
+1081,Valentino,Jeans,9,2000,6000,1
+1086,Louis Vuitton,Jeans,14,2000,15500,2
+1091,Gucci,Suit,0,1000,15500,5
+1096,Burberry,Jeans,5,1200,15500,7
+1101,Saint Laurent,Jeans,9,2000,2500,11
+1106,Armani,Suit,11,2000,10000,12
+1111,Dior,Pant Suit,10,3500,2500,10
+1116,Valentino,Jeans,9,1000,2500,7
+1121,Louis Vuitton,Suit,7,2000,5000,10
+1126,Gucci,Pant Suit,1,1200,15500,6
+1131,Burberry,Accessories,9,500,15500,5
+1136,Saint Laurent,Accessories,9,3500,2500,5
+1141,Armani,Suit,3,3500,10000,3
+1146,Dior,Dress,10,1200,15500,11
+1151,Valentino,Hand Bag,9,2000,5000,6
+1156,Louis Vuitton,Dress,11,2000,10000,11
+1161,Gucci,Jeans,6,2000,6000,4
+1166,Burberry,Dress,15,1200,5000,11
+1171,Saint Laurent,Suit,14,2000,15500,8
+1176,Armani,Suit,15,4500,10000,11
+1181,Dior,Pant Suit,13,1000,15500,5
+1186,Valentino,Jeans,9,500,20500,2
+1191,Louis Vuitton,Pant Suit,3,500,20500,1
+1196,Gucci,Dress,11,3500,5000,2
+1201,Burberry,Hand Bag,2,1200,15500,2
+1206,Saint Laurent,Dress,8,1000,6000,6
+1211,Armani,Dress,14,500,10000,8
+1216,Dior,Jeans,4,1200,15500,8
+1221,Valentino,Suit,8,3500,10000,7
+1226,Louis Vuitton,Suit,8,3500,2500,2
+1231,Gucci,Suit,15,500,6000,10
+1236,Burberry,Suit,2,2000,6000,8
+1241,Saint Laurent,Suit,11,500,20500,8
+1246,Armani,Dress,5,500,2500,2
+1251,Dior,Dress,2,1200,10000,11
+1256,Valentino,Dress,1,500,20500,11
+1261,Louis Vuitton,Dress,0,500,20500,6
+1266,Gucci,Suit,12,2000,5000,10
+1271,Burberry,Accessories,10,1000,5000,11
+1276,Saint Laurent,Jeans,6,2000,10000,11
+1281,Armani,Dress,12,500,20500,7
+1286,Dior,Dress,14,2000,2500,11
+1291,Valentino,Dress,13,4500,20500,6
+1296,Louis Vuitton,Hand Bag,7,3500,15500,11
+1301,Gucci,Jeans,5,1000,6000,7
+1306,Burberry,Suit,14,2000,10000,7
+1311,Saint Laurent,Hand Bag,0,4500,20500,11
+1316,Armani,Suit,4,1200,15500,12
+1321,Dior,Jeans,7,2000,10000,5
+1326,Valentino,Pant Suit,8,3500,15500,5
+1331,Louis Vuitton,Hand Bag,13,2000,20500,8
+1336,Gucci,Accessories,10,500,15500,1
+1341,Burberry,Pant Suit,12,500,20500,9
+1346,Saint Laurent,Jeans,10,1200,6000,6
+1351,Armani,Hand Bag,3,500,6000,3
+1356,Dior,Jeans,7,500,20500,10
+1361,Valentino,Suit,7,3500,5000,9
+1366,Louis Vuitton,Dress,15,3500,6000,3
+1371,Gucci,Suit,12,1200,2500,11
+1376,Burberry,Accessories,4,2000,15500,12
+1381,Saint Laurent,Jeans,2,4500,5000,6
+1386,Armani,Dress,15,1000,5000,10
+1391,Dior,Hand Bag,9,3500,6000,12
+1396,Valentino,Jeans,1,1000,20500,8
+1401,Louis Vuitton,Hand Bag,5,1000,6000,11
+1406,Gucci,Accessories,6,1000,15500,4
+1411,Burberry,Jeans,13,1200,20500,1
+1416,Saint Laurent,Dress,12,1200,6000,3
+1421,Armani,Suit,2,2000,15500,9
+1426,Dior,Suit,10,2000,5000,9
+1431,Valentino,Jeans,1,1000,2500,9
+1436,Louis Vuitton,Accessories,7,2000,15500,8
+1441,Gucci,Accessories,5,1200,15500,4
+1446,Burberry,Hand Bag,7,500,5000,12
+1451,Saint Laurent,Suit,7,500,5000,7
+1456,Armani,Pant Suit,15,1200,15500,7
+1461,Dior,Dress,13,2000,6000,12
+1466,Valentino,Jeans,9,1200,10000,8
+1471,Louis Vuitton,Jeans,3,2000,10000,3
+1476,Gucci,Jeans,5,4500,15500,11
+1481,Burberry,Dress,3,4500,6000,12
+1486,Saint Laurent,Jeans,1,3500,5000,1
+1491,Armani,Jeans,2,1000,15500,1
+1496,Dior,Accessories,11,500,6000,10
+1501,Valentino,Suit,3,4500,10000,5
+1506,Louis Vuitton,Jeans,7,4500,6000,3
+1511,Gucci,Accessories,10,500,5000,4
+1516,Burberry,Jeans,10,1200,6000,8
+1521,Saint Laurent,Suit,6,1000,20500,12
+1526,Armani,Pant Suit,2,1000,2500,5
+1531,Dior,Dress,13,3500,6000,12
+1536,Valentino,Dress,3,500,15500,7
+1541,Louis Vuitton,Dress,2,1000,20500,1
+1546,Gucci,Suit,14,1000,6000,10
+1551,Burberry,Pant Suit,6,2000,2500,12
+1556,Saint Laurent,Accessories,11,4500,2500,7
+1561,Armani,Accessories,15,1200,20500,12
+1566,Dior,Pant Suit,8,1200,6000,3
+1571,Valentino,Dress,8,4500,2500,9
+1576,Louis Vuitton,Pant Suit,15,500,20500,8
+1581,Gucci,Jeans,15,4500,5000,4
+1586,Burberry,Pant Suit,1,500,10000,4
+1591,Saint Laurent,Pant Suit,7,4500,5000,4
+1596,Armani,Jeans,4,1200,6000,7
+1601,Dior,Hand Bag,5,2000,6000,6
+1606,Valentino,Jeans,12,1200,20500,7
+1611,Louis Vuitton,Pant Suit,9,1200,6000,10
+1616,Gucci,Suit,6,500,6000,6
+1621,Burberry,Dress,6,3500,15500,11
+1626,Saint Laurent,Hand Bag,8,2000,15500,10
+1631,Armani,Suit,5,4500,2500,12
+1636,Dior,Dress,11,1000,2500,9
+1641,Valentino,Suit,14,1200,10000,12
+1646,Louis Vuitton,Hand Bag,7,1000,20500,1
+1651,Gucci,Hand Bag,11,1200,10000,3
+1656,Burberry,Hand Bag,10,3500,20500,8
+1661,Saint Laurent,Pant Suit,1,1000,10000,10
+1666,Armani,Suit,6,1000,20500,4
+1671,Dior,Accessories,10,4500,20500,6
+1676,Valentino,Jeans,2,500,20500,11
+1681,Louis Vuitton,Jeans,12,3500,2500,12
+1686,Gucci,Suit,0,3500,15500,5
+1691,Burberry,Hand Bag,14,3500,6000,12
+1696,Saint Laurent,Accessories,3,3500,15500,1
+1701,Armani,Suit,9,1000,5000,10
+1706,Dior,Hand Bag,2,1200,2500,11
+1711,Valentino,Hand Bag,8,500,20500,7
+1716,Louis Vuitton,Pant Suit,0,2000,6000,11
+1721,Gucci,Jeans,1,3500,5000,3
+1726,Burberry,Dress,9,4500,20500,8
+1731,Saint Laurent,Jeans,11,3500,5000,7
+1736,Armani,Jeans,12,1000,2500,9
+1741,Dior,Hand Bag,5,1000,10000,5
+1746,Valentino,Pant Suit,3,2000,10000,8
+1751,Louis Vuitton,Pant Suit,3,500,2500,10
+1756,Gucci,Suit,9,1000,2500,4
+1761,Burberry,Suit,9,1000,2500,8
+1766,Saint Laurent,Pant Suit,13,4500,6000,1
+1771,Armani,Suit,15,3500,5000,8
+1776,Dior,Accessories,2,2000,6000,10
+1781,Valentino,Jeans,6,4500,15500,1
+1786,Louis Vuitton,Suit,8,500,5000,10
+1791,Gucci,Dress,5,3500,10000,8
+1796,Burberry,Suit,5,500,20500,12
+1801,Saint Laurent,Jeans,0,1000,15500,7
+1806,Armani,Hand Bag,14,3500,10000,12
+1811,Dior,Hand Bag,9,3500,15500,4
+1816,Valentino,Jeans,14,500,10000,10
+1821,Louis Vuitton,Suit,1,1000,20500,5
+1826,Gucci,Hand Bag,1,1200,15500,4
+1831,Burberry,Suit,13,1000,6000,7
+1836,Saint Laurent,Pant Suit,5,1200,10000,3
+1841,Armani,Jeans,3,500,5000,11
+1846,Dior,Suit,5,2000,6000,8
+1851,Valentino,Pant Suit,5,1200,15500,11
+1856,Louis Vuitton,Pant Suit,0,500,20500,3
+1861,Gucci,Pant Suit,2,4500,6000,2
+1866,Burberry,Jeans,12,500,5000,8
+1871,Saint Laurent,Accessories,11,1000,6000,4
+1876,Armani,Suit,2,4500,5000,2
+1881,Dior,Pant Suit,2,1200,10000,3
+1886,Valentino,Jeans,3,4500,15500,10
+1891,Louis Vuitton,Jeans,4,3500,15500,9
+1896,Gucci,Accessories,2,3500,6000,3
+1901,Burberry,Dress,4,1000,6000,5
+1906,Saint Laurent,Pant Suit,15,1000,10000,7
+1911,Armani,Pant Suit,4,1200,6000,7
+1916,Dior,Jeans,14,500,5000,8
+1921,Valentino,Suit,10,1000,2500,6
+1926,Louis Vuitton,Pant Suit,15,4500,2500,5
+1931,Gucci,Jeans,15,4500,15500,7
+1936,Burberry,Jeans,11,500,5000,3
+1941,Saint Laurent,Dress,1,3500,2500,8
+1946,Armani,Accessories,1,4500,20500,3
+1951,Dior,Accessories,9,1000,10000,9
+1956,Valentino,Jeans,8,3500,2500,3
+1961,Louis Vuitton,Dress,6,3500,6000,9
+1966,Gucci,Pant Suit,0,500,20500,12
+1971,Burberry,Jeans,15,4500,20500,1
+1976,Saint Laurent,Jeans,7,4500,10000,1
+1981,Armani,Dress,3,4500,6000,9
+1986,Dior,Dress,0,500,5000,11
+1991,Valentino,Jeans,13,3500,20500,5
+1996,Louis Vuitton,Accessories,5,1000,6000,7
+2001,Gucci,Jeans,4,500,6000,3
+2006,Burberry,Suit,0,500,10000,10
+2011,Saint Laurent,Suit,1,4500,10000,11
+2016,Armani,Jeans,3,500,6000,11
+2021,Dior,Accessories,14,1000,6000,12
+2026,Valentino,Accessories,15,500,10000,4
+2031,Louis Vuitton,Accessories,13,1200,5000,7
+2036,Gucci,Pant Suit,4,3500,2500,6
+2041,Burberry,Dress,5,3500,6000,1
+2046,Saint Laurent,Accessories,4,500,10000,9
+2051,Armani,Dress,4,3500,6000,12
+2056,Dior,Accessories,13,1000,15500,3
+2061,Valentino,Suit,5,1200,5000,3
+2066,Louis Vuitton,Suit,8,500,10000,6
+2071,Gucci,Pant Suit,10,1200,2500,3
+2076,Burberry,Pant Suit,4,3500,15500,4
+2081,Saint Laurent,Suit,14,3500,5000,8
+2086,Armani,Dress,4,2000,6000,9
+2091,Dior,Dress,3,500,15500,7
+2096,Valentino,Suit,7,1000,2500,4
+2101,Louis Vuitton,Accessories,8,2000,10000,9
+2106,Gucci,Dress,13,3500,15500,5
+2111,Burberry,Suit,11,1000,2500,10
+2116,Saint Laurent,Dress,15,3500,5000,11
+2121,Armani,Hand Bag,9,2000,20500,5
+2126,Dior,Dress,9,1000,10000,7
+2131,Valentino,Dress,15,2000,5000,7
+2136,Louis Vuitton,Suit,11,2000,2500,1
+2141,Gucci,Accessories,6,500,10000,2
+2146,Burberry,Jeans,13,1000,10000,6
+2151,Saint Laurent,Suit,2,500,2500,4
+2156,Armani,Jeans,2,1200,10000,6
+2161,Dior,Suit,12,1000,6000,2
+2166,Valentino,Dress,14,1000,6000,3
+2171,Louis Vuitton,Accessories,8,1000,20500,6
+2176,Gucci,Jeans,4,1200,5000,4
+2181,Burberry,Pant Suit,3,1200,15500,11
+2186,Saint Laurent,Hand Bag,3,4500,6000,4
+2191,Armani,Pant Suit,4,1000,6000,3
+2196,Dior,Accessories,9,4500,15500,2
+2201,Valentino,Accessories,8,1200,20500,7
+2206,Louis Vuitton,Dress,14,2000,5000,10
+2211,Gucci,Dress,3,1200,20500,6
+2216,Burberry,Dress,12,4500,6000,4
+2221,Saint Laurent,Accessories,2,1200,10000,9
+2226,Armani,Suit,10,2000,15500,7
+2231,Dior,Suit,7,4500,20500,6
+2236,Valentino,Accessories,5,2000,6000,10
+2241,Louis Vuitton,Suit,13,2000,2500,6
+2246,Gucci,Jeans,9,1200,20500,8
+2251,Burberry,Jeans,15,4500,2500,11
+2256,Saint Laurent,Pant Suit,8,4500,5000,2
+2261,Armani,Suit,4,500,6000,8
+2266,Dior,Accessories,13,2000,10000,10
+2271,Valentino,Jeans,1,500,20500,4
+2276,Louis Vuitton,Jeans,6,1000,20500,12
+2281,Gucci,Pant Suit,14,500,5000,10
+2286,Burberry,Pant Suit,1,500,2500,2
+2291,Saint Laurent,Suit,11,1200,6000,7
+2296,Armani,Suit,9,1000,20500,6
+2301,Dior,Jeans,0,2000,2500,4
+2306,Valentino,Dress,5,500,6000,1
+2311,Louis Vuitton,Jeans,15,1200,15500,4
+2316,Gucci,Dress,8,1200,6000,5
+2321,Burberry,Suit,15,500,6000,6
+2326,Saint Laurent,Pant Suit,0,500,5000,11
+2331,Armani,Hand Bag,12,500,20500,4
+2336,Dior,Hand Bag,4,1000,20500,10
+2341,Valentino,Hand Bag,10,1200,2500,12
+2346,Louis Vuitton,Pant Suit,4,1200,6000,11
+2351,Gucci,Pant Suit,9,1000,20500,10
+2356,Burberry,Jeans,12,3500,15500,1
+2361,Saint Laurent,Accessories,2,2000,20500,2
+2366,Armani,Dress,8,1200,20500,7
+2371,Dior,Pant Suit,10,500,20500,3
+2376,Valentino,Accessories,5,4500,20500,3
+2381,Louis Vuitton,Jeans,11,4500,2500,9
+2386,Gucci,Jeans,3,4500,6000,1
+2391,Burberry,Accessories,7,1200,2500,10
+2396,Saint Laurent,Dress,9,1200,20500,12
+2401,Armani,Suit,12,1000,20500,2
+2406,Dior,Accessories,8,2000,20500,6
+2411,Valentino,Suit,2,2000,2500,11
+2416,Louis Vuitton,Accessories,14,3500,5000,2
+2421,Gucci,Hand Bag,7,3500,15500,2
+2426,Burberry,Pant Suit,6,1200,10000,3
+2431,Saint Laurent,Suit,5,500,5000,10
+2436,Armani,Suit,9,1200,10000,8
+2441,Dior,Hand Bag,10,500,20500,7
+2446,Valentino,Hand Bag,8,4500,10000,5
+2451,Louis Vuitton,Jeans,11,500,2500,9
+2456,Gucci,Jeans,14,500,15500,10
+2461,Burberry,Dress,14,2000,6000,12
+2466,Saint Laurent,Accessories,7,1000,6000,10
+2471,Armani,Accessories,8,4500,2500,3
+2476,Dior,Hand Bag,9,2000,2500,3
+2481,Valentino,Accessories,15,3500,6000,3
+2486,Louis Vuitton,Hand Bag,7,2000,6000,5
+2491,Gucci,Jeans,8,1200,10000,10
+2496,Burberry,Suit,1,4500,15500,9
+2501,Saint Laurent,Accessories,14,1200,20500,7
+2506,Armani,Pant Suit,5,1000,10000,3
+2511,Dior,Accessories,0,1000,5000,11
+2516,Valentino,Suit,9,4500,5000,12
+2521,Louis Vuitton,Pant Suit,2,500,2500,6
+2526,Gucci,Hand Bag,2,4500,2500,11
+2531,Burberry,Jeans,2,1000,20500,12
+2536,Saint Laurent,Jeans,2,500,5000,11
+2541,Armani,Accessories,6,3500,5000,11
+2546,Dior,Dress,12,3500,10000,3
+2551,Valentino,Hand Bag,12,4500,20500,6
+2556,Louis Vuitton,Suit,3,3500,15500,7
+2561,Gucci,Dress,4,4500,2500,4
+2566,Burberry,Hand Bag,6,1000,6000,3
+2571,Saint Laurent,Hand Bag,15,500,2500,7
+2576,Armani,Hand Bag,13,1200,6000,12
+2581,Dior,Pant Suit,3,2000,15500,1
+2586,Valentino,Suit,2,4500,2500,10
+2591,Louis Vuitton,Suit,1,1000,15500,1
+2596,Gucci,Dress,7,1200,2500,3
+2601,Burberry,Jeans,2,3500,10000,5
+2606,Saint Laurent,Pant Suit,0,500,2500,1
+2611,Armani,Pant Suit,1,1000,2500,7
+2616,Dior,Dress,11,3500,10000,6
+2621,Valentino,Pant Suit,12,1000,5000,6
+2626,Louis Vuitton,Suit,10,2000,10000,2
+2631,Gucci,Pant Suit,1,4500,15500,10
+2636,Burberry,Dress,3,500,2500,1
+2641,Saint Laurent,Hand Bag,8,3500,2500,3
+2646,Armani,Pant Suit,7,500,5000,5
+2651,Dior,Accessories,14,4500,20500,6
+2656,Valentino,Accessories,3,4500,6000,7
+2661,Louis Vuitton,Dress,7,1000,6000,11
+2666,Gucci,Accessories,1,1200,15500,6
+2671,Burberry,Jeans,8,2000,5000,10
+2676,Saint Laurent,Suit,3,4500,5000,4
+2681,Armani,Dress,1,4500,5000,12
+2686,Dior,Suit,9,1200,5000,5
+2691,Valentino,Hand Bag,8,1000,10000,1
+2696,Louis Vuitton,Jeans,9,3500,20500,6
+2701,Gucci,Jeans,15,2000,6000,11
+2706,Burberry,Dress,7,1000,5000,4
+2711,Saint Laurent,Accessories,10,2000,2500,6
+2716,Armani,Pant Suit,11,4500,2500,5
+2721,Dior,Jeans,14,4500,10000,9
+2726,Valentino,Suit,0,1200,5000,9
+2731,Louis Vuitton,Dress,12,2000,2500,1
+2736,Gucci,Hand Bag,12,500,15500,12
+2741,Burberry,Suit,1,1200,6000,8
+2746,Saint Laurent,Accessories,5,2000,20500,12
+2751,Armani,Jeans,11,1000,2500,12
+2756,Dior,Suit,10,3500,15500,9
+2761,Valentino,Accessories,4,500,6000,7
+2766,Louis Vuitton,Dress,4,3500,5000,12
+2771,Gucci,Pant Suit,8,1200,15500,11
+2776,Burberry,Accessories,0,500,5000,10
+2781,Saint Laurent,Suit,14,2000,15500,10
+2786,Armani,Dress,5,3500,6000,10
+2791,Dior,Pant Suit,12,3500,2500,1
+2796,Valentino,Hand Bag,14,4500,20500,12
+2801,Louis Vuitton,Suit,3,1000,2500,8
+2806,Gucci,Pant Suit,8,4500,20500,4
+2811,Burberry,Accessories,9,2000,6000,4
+2816,Saint Laurent,Dress,5,1200,2500,8
+2821,Armani,Pant Suit,10,3500,15500,2
+2826,Dior,Accessories,7,2000,2500,1
+2831,Valentino,Suit,5,1000,10000,6
+2836,Louis Vuitton,Hand Bag,4,2000,10000,10
+2841,Gucci,Hand Bag,12,500,5000,2
+2846,Burberry,Accessories,6,1200,6000,7
+2851,Saint Laurent,Hand Bag,4,3500,10000,10
+2856,Armani,Jeans,9,500,6000,9
+2861,Dior,Jeans,12,500,15500,2
+2866,Valentino,Pant Suit,5,1000,10000,7
+2871,Louis Vuitton,Pant Suit,3,1000,5000,2
+2876,Gucci,Jeans,6,1200,5000,12
+2881,Burberry,Dress,9,2000,20500,10
+2886,Saint Laurent,Pant Suit,9,1000,5000,4
+2891,Armani,Pant Suit,13,1200,15500,10
+2896,Dior,Jeans,9,4500,20500,1
+2901,Valentino,Dress,14,2000,10000,7
+2906,Louis Vuitton,Hand Bag,7,2000,2500,5
+2911,Gucci,Dress,2,1000,15500,9
+2916,Burberry,Jeans,8,500,6000,7
+2921,Saint Laurent,Hand Bag,7,1200,15500,3
+2926,Armani,Suit,6,2000,2500,4
+2931,Dior,Pant Suit,0,500,20500,9
+2936,Valentino,Dress,8,4500,20500,9
+2941,Louis Vuitton,Accessories,3,4500,20500,6
+2946,Gucci,Pant Suit,4,4500,10000,1
+2951,Burberry,Suit,5,1200,6000,9
+2956,Saint Laurent,Hand Bag,10,1000,2500,1
+2961,Armani,Jeans,6,1200,6000,3
+2966,Dior,Jeans,10,2000,2500,1
+2971,Valentino,Jeans,8,3500,10000,3
+2976,Louis Vuitton,Hand Bag,1,3500,6000,10
+2981,Gucci,Accessories,7,500,10000,8
+2986,Burberry,Jeans,14,2000,20500,8
+2991,Saint Laurent,Suit,15,1000,20500,7
+2996,Armani,Dress,3,4500,15500,9
+3001,Dior,Hand Bag,0,1200,10000,3
+3006,Valentino,Accessories,1,1200,10000,7
+3011,Louis Vuitton,Accessories,3,3500,10000,6
+3016,Gucci,Suit,7,3500,2500,5
+3021,Burberry,Pant Suit,5,2000,2500,4
+3026,Saint Laurent,Hand Bag,2,2000,2500,11
+3031,Armani,Hand Bag,2,2000,10000,3
+3036,Dior,Suit,3,3500,10000,8
+3041,Valentino,Pant Suit,10,1200,15500,3
+3046,Louis Vuitton,Dress,15,2000,5000,3
+3051,Gucci,Jeans,1,2000,6000,7
+3056,Burberry,Accessories,13,1200,20500,2
+3061,Saint Laurent,Suit,15,4500,10000,10
+3066,Armani,Hand Bag,6,3500,15500,10
+3071,Dior,Hand Bag,1,1200,10000,12
+3076,Valentino,Hand Bag,6,2000,2500,3
+3081,Louis Vuitton,Accessories,10,1000,20500,11
+3086,Gucci,Jeans,4,4500,20500,5
+3091,Burberry,Dress,12,1200,10000,12
+3096,Saint Laurent,Accessories,11,500,20500,4
+3101,Armani,Jeans,14,4500,15500,11
+3106,Dior,Dress,9,4500,10000,6
+3111,Valentino,Accessories,6,2000,6000,5
+3116,Louis Vuitton,Pant Suit,9,500,15500,5
+3121,Gucci,Pant Suit,8,1200,20500,4
+3126,Burberry,Hand Bag,8,500,2500,8
+3131,Saint Laurent,Jeans,12,1200,6000,9
+3136,Armani,Pant Suit,13,1200,2500,1
+3141,Dior,Accessories,0,3500,15500,6
+3146,Valentino,Hand Bag,3,3500,5000,8
+3151,Louis Vuitton,Pant Suit,10,4500,5000,10
+3156,Gucci,Accessories,2,4500,2500,6
+3161,Burberry,Dress,3,500,10000,5
+3166,Saint Laurent,Accessories,0,1000,10000,11
+3171,Armani,Pant Suit,15,2000,20500,7
+3176,Dior,Accessories,11,3500,20500,8
+3181,Valentino,Dress,4,1200,20500,10
+3186,Louis Vuitton,Suit,1,4500,2500,6
+3191,Gucci,Hand Bag,6,1200,15500,7
+3196,Burberry,Hand Bag,3,3500,2500,3
+3201,Saint Laurent,Accessories,15,2000,6000,4
+3206,Armani,Suit,11,3500,20500,6
+3211,Dior,Jeans,7,4500,15500,5
+3216,Valentino,Dress,5,3500,2500,11
+3221,Louis Vuitton,Suit,6,4500,15500,1
+3226,Gucci,Suit,4,3500,15500,10
+3231,Burberry,Suit,7,1000,2500,3
+3236,Saint Laurent,Jeans,10,1200,2500,12
+3241,Armani,Pant Suit,13,3500,20500,4
+3246,Dior,Hand Bag,2,3500,20500,7
+3251,Valentino,Suit,14,500,15500,7
+3256,Louis Vuitton,Accessories,6,500,5000,9
+3261,Gucci,Hand Bag,2,3500,2500,1
+3266,Burberry,Accessories,0,1200,10000,7
+3271,Saint Laurent,Suit,6,2000,5000,9
+3276,Armani,Suit,0,500,20500,12
+3281,Dior,Suit,13,500,6000,6
+3286,Valentino,Pant Suit,5,2000,10000,5
+3291,Louis Vuitton,Dress,4,500,6000,4
+3296,Gucci,Jeans,2,1200,20500,11
+3301,Burberry,Pant Suit,6,1000,20500,3
+3306,Saint Laurent,Accessories,7,2000,15500,10
+3311,Armani,Jeans,12,3500,10000,6
+3316,Dior,Dress,10,1000,20500,1
+3321,Valentino,Pant Suit,14,2000,6000,10
+3326,Louis Vuitton,Accessories,6,4500,20500,5
+3331,Gucci,Pant Suit,2,4500,6000,12
+3336,Burberry,Hand Bag,13,1200,6000,7
+3341,Saint Laurent,Pant Suit,5,4500,2500,3
+3346,Armani,Hand Bag,2,3500,20500,7
+3351,Dior,Suit,13,4500,6000,4
+3356,Valentino,Jeans,8,500,2500,2
+3361,Louis Vuitton,Hand Bag,15,500,15500,12
+3366,Gucci,Jeans,12,1000,15500,4
+3371,Burberry,Jeans,10,1200,5000,10
+3376,Saint Laurent,Dress,3,4500,15500,3
+3381,Armani,Jeans,14,1200,2500,2
+3386,Dior,Jeans,11,4500,5000,11
+3391,Valentino,Accessories,0,1000,5000,5
+3396,Louis Vuitton,Pant Suit,3,2000,15500,3
+3401,Gucci,Pant Suit,2,1200,6000,5
+3406,Burberry,Hand Bag,9,500,15500,9
+3411,Saint Laurent,Dress,9,500,6000,11
+3416,Armani,Jeans,1,500,5000,2
+3421,Dior,Accessories,7,3500,20500,12
+3426,Valentino,Suit,2,1200,5000,10
+3431,Louis Vuitton,Pant Suit,8,2000,2500,11
+3436,Gucci,Dress,14,500,2500,9
+3441,Burberry,Jeans,0,1200,10000,4
+3446,Saint Laurent,Pant Suit,7,1000,2500,3
+3451,Armani,Dress,14,3500,10000,1
+3456,Dior,Accessories,14,500,2500,1
+3461,Valentino,Pant Suit,3,3500,5000,10
+3466,Louis Vuitton,Suit,3,3500,20500,3
+3471,Gucci,Dress,11,1000,10000,3
+3476,Burberry,Pant Suit,1,500,20500,1
+3481,Saint Laurent,Jeans,9,1000,10000,8
+3486,Armani,Accessories,15,1000,2500,7
+3491,Dior,Dress,8,1000,20500,9
+3496,Valentino,Pant Suit,9,2000,15500,6
+3501,Louis Vuitton,Dress,1,4500,5000,4
+3506,Gucci,Dress,0,1200,15500,6
+3511,Burberry,Dress,6,2000,2500,1
+3516,Saint Laurent,Accessories,14,1200,6000,5
+3521,Armani,Dress,9,3500,5000,4
+3526,Dior,Accessories,2,2000,5000,11
+3531,Valentino,Pant Suit,6,4500,2500,12
+3536,Louis Vuitton,Suit,5,4500,10000,7
+3541,Gucci,Suit,8,3500,5000,5
+3546,Burberry,Accessories,3,2000,5000,1
+3551,Saint Laurent,Jeans,8,4500,2500,3
+3556,Armani,Jeans,3,1000,2500,7
+3561,Dior,Pant Suit,12,1000,15500,3
+3566,Valentino,Pant Suit,13,1000,10000,5
+3571,Louis Vuitton,Jeans,9,4500,5000,1
+3576,Gucci,Jeans,14,1200,15500,3
+3581,Burberry,Accessories,5,500,5000,4
+3586,Saint Laurent,Dress,9,3500,10000,9
+3591,Armani,Dress,9,500,5000,1
+3596,Dior,Suit,10,500,15500,5
+3601,Valentino,Pant Suit,11,1000,15500,4
+3606,Louis Vuitton,Accessories,2,500,20500,6
+3611,Gucci,Jeans,2,1000,10000,4
+3616,Burberry,Hand Bag,15,1200,10000,6
+3621,Saint Laurent,Suit,0,1000,6000,9
+3626,Armani,Hand Bag,3,500,2500,11
+3631,Dior,Pant Suit,13,2000,10000,4
+3636,Valentino,Suit,9,1000,5000,9
+3641,Louis Vuitton,Hand Bag,5,3500,5000,5
+3646,Gucci,Suit,8,500,15500,9
+3651,Burberry,Jeans,7,500,6000,5
+3656,Saint Laurent,Jeans,8,3500,15500,7
+3661,Armani,Accessories,12,4500,10000,7
+3666,Dior,Jeans,0,4500,6000,4
+3671,Valentino,Pant Suit,2,500,15500,10
+3676,Louis Vuitton,Hand Bag,11,500,10000,2
+3681,Gucci,Suit,12,4500,10000,11
+3686,Burberry,Pant Suit,4,4500,5000,8
+3691,Saint Laurent,Hand Bag,0,1200,6000,3
+3696,Armani,Pant Suit,7,1000,15500,3
+3701,Dior,Accessories,10,1200,20500,4
+3706,Valentino,Pant Suit,1,3500,15500,8
+3711,Louis Vuitton,Jeans,3,3500,20500,8
+3716,Gucci,Pant Suit,11,4500,5000,3
+3721,Burberry,Pant Suit,13,1000,2500,5
+3726,Saint Laurent,Jeans,15,4500,2500,10
+3731,Armani,Accessories,2,3500,5000,12
+3736,Dior,Accessories,12,2000,6000,7
+3741,Valentino,Dress,14,3500,5000,7
+3746,Louis Vuitton,Jeans,2,2000,20500,3
+3751,Gucci,Dress,2,1200,20500,12
+3756,Burberry,Jeans,8,2000,2500,8
+3761,Saint Laurent,Hand Bag,9,500,2500,12
+3766,Armani,Pant Suit,10,2000,6000,2
+3771,Dior,Jeans,8,1200,6000,9
+3776,Valentino,Dress,4,2000,6000,3
+3781,Louis Vuitton,Jeans,12,2000,2500,10
+3786,Gucci,Jeans,9,1000,10000,12
+3791,Burberry,Dress,7,4500,5000,7
+3796,Saint Laurent,Dress,1,1000,15500,3
+3801,Armani,Suit,7,3500,10000,7
+3806,Dior,Pant Suit,15,500,20500,5
+3811,Valentino,Jeans,8,1000,15500,3
+3816,Louis Vuitton,Accessories,10,4500,15500,9
+3821,Gucci,Dress,7,2000,20500,8
+3826,Burberry,Dress,6,500,10000,12
+3831,Saint Laurent,Pant Suit,10,2000,20500,3
+3836,Armani,Jeans,5,2000,15500,9
+3841,Dior,Jeans,11,3500,6000,8
+3846,Valentino,Accessories,1,1200,15500,4
+3851,Louis Vuitton,Accessories,9,4500,5000,6
+3856,Gucci,Suit,2,500,6000,6
+3861,Burberry,Jeans,10,3500,10000,1
+3866,Saint Laurent,Dress,14,1200,20500,2
+3871,Armani,Hand Bag,8,2000,15500,2
+3876,Dior,Hand Bag,7,500,2500,5
+3881,Valentino,Hand Bag,7,1000,10000,3
+3886,Louis Vuitton,Suit,1,2000,5000,9
+3891,Gucci,Suit,13,500,2500,8
+3896,Burberry,Dress,3,2000,6000,5
+3901,Saint Laurent,Accessories,7,3500,10000,7
+3906,Armani,Pant Suit,11,1000,15500,8
+3911,Dior,Pant Suit,5,1200,10000,10
+3916,Valentino,Accessories,6,2000,15500,7
+3921,Louis Vuitton,Dress,7,3500,2500,3
+3926,Gucci,Suit,0,3500,6000,12
+3931,Burberry,Accessories,6,3500,10000,8
+3936,Saint Laurent,Accessories,4,4500,10000,8
+3941,Armani,Dress,3,2000,6000,10
+3946,Dior,Pant Suit,9,500,2500,1
+3951,Valentino,Jeans,6,4500,20500,5
+3956,Louis Vuitton,Pant Suit,2,1200,10000,8
+3961,Gucci,Dress,0,1000,10000,6
+3966,Burberry,Jeans,6,1000,20500,2
+3971,Saint Laurent,Pant Suit,10,1000,15500,4
+3976,Armani,Pant Suit,12,4500,20500,2
+3981,Dior,Accessories,0,500,20500,10
+3986,Valentino,Jeans,0,1200,15500,2
+3991,Louis Vuitton,Hand Bag,15,500,10000,2
+3996,Gucci,Hand Bag,8,1000,5000,4
+4001,Burberry,Suit,6,500,5000,11
+4006,Saint Laurent,Accessories,6,500,10000,12
+4011,Armani,Accessories,5,3500,6000,9
+4016,Dior,Dress,11,1000,6000,10
+4021,Valentino,Hand Bag,6,4500,6000,4
+4026,Louis Vuitton,Hand Bag,0,500,15500,1
+4031,Gucci,Suit,10,500,5000,6
+4036,Burberry,Pant Suit,13,1000,2500,12
+4041,Saint Laurent,Pant Suit,1,500,2500,10
+4046,Armani,Pant Suit,2,500,5000,2
+4051,Dior,Accessories,9,1000,15500,8
+4056,Valentino,Suit,8,4500,10000,5
+4061,Louis Vuitton,Jeans,1,1000,6000,6
+4066,Gucci,Dress,12,2000,10000,5
+4071,Burberry,Suit,10,2000,5000,6
+4076,Saint Laurent,Jeans,4,1200,20500,9
+4081,Armani,Accessories,7,500,10000,8
+4086,Dior,Hand Bag,13,4500,15500,12
+4091,Valentino,Accessories,2,4500,15500,11
+4096,Louis Vuitton,Accessories,7,1200,2500,1
+4101,Gucci,Hand Bag,13,1200,10000,6
+4106,Burberry,Dress,11,500,20500,10
+4111,Saint Laurent,Accessories,14,3500,2500,5
+4116,Armani,Dress,14,1200,20500,1
+4121,Dior,Pant Suit,6,500,20500,1
+4126,Valentino,Hand Bag,2,1200,2500,11
+4131,Louis Vuitton,Jeans,0,1200,15500,8
+4136,Gucci,Suit,3,500,15500,8
+4141,Burberry,Pant Suit,0,1000,15500,4
+4146,Saint Laurent,Pant Suit,13,3500,2500,10
+4151,Armani,Jeans,3,3500,6000,12
+4156,Dior,Hand Bag,7,1200,20500,1
+4161,Valentino,Jeans,9,1200,10000,7
+4166,Louis Vuitton,Pant Suit,3,2000,15500,9
+4171,Gucci,Hand Bag,8,500,2500,10
+4176,Burberry,Accessories,8,500,5000,11
+4181,Saint Laurent,Hand Bag,11,2000,2500,9
+4186,Armani,Suit,7,500,15500,8
+4191,Dior,Jeans,14,1200,2500,1
+4196,Valentino,Jeans,14,4500,10000,6
+4201,Louis Vuitton,Hand Bag,1,4500,6000,9
+4206,Gucci,Hand Bag,7,1200,2500,8
+4211,Burberry,Accessories,10,4500,6000,8
+4216,Saint Laurent,Hand Bag,5,1200,6000,10
+4221,Armani,Accessories,0,1200,6000,10
+4226,Dior,Dress,7,2000,10000,4
+4231,Valentino,Hand Bag,7,2000,15500,1
+4236,Louis Vuitton,Jeans,7,1200,10000,2
+4241,Gucci,Jeans,1,1000,10000,3
+4246,Burberry,Suit,5,2000,2500,5
+4251,Saint Laurent,Hand Bag,5,3500,20500,5
+4256,Armani,Jeans,0,500,10000,8
+4261,Dior,Dress,0,500,5000,1
+4266,Valentino,Jeans,8,1000,20500,5
+4271,Louis Vuitton,Suit,0,1200,6000,7
+4276,Gucci,Jeans,10,1200,10000,9
+4281,Burberry,Jeans,13,4500,20500,12
+4286,Saint Laurent,Pant Suit,9,2000,6000,10
+4291,Armani,Jeans,11,1000,15500,11
+4296,Dior,Hand Bag,14,2000,5000,1
+4301,Valentino,Accessories,8,500,15500,9
+4306,Louis Vuitton,Accessories,6,2000,15500,6
+4311,Gucci,Pant Suit,8,1200,6000,10
+4316,Burberry,Pant Suit,4,3500,6000,10
+4321,Saint Laurent,Dress,4,500,2500,4
+4326,Armani,Suit,1,4500,5000,3
+4331,Dior,Dress,0,500,5000,8
+4336,Valentino,Jeans,15,2000,10000,10
+4341,Louis Vuitton,Dress,9,1000,2500,9
+4346,Gucci,Hand Bag,4,1200,2500,4
+4351,Burberry,Hand Bag,14,2000,10000,10
+4356,Saint Laurent,Hand Bag,0,1200,6000,4
+4361,Armani,Accessories,4,500,5000,7
+4366,Dior,Pant Suit,2,1000,2500,9
+4371,Valentino,Jeans,3,1200,2500,3
+4376,Louis Vuitton,Jeans,10,3500,15500,7
+4381,Gucci,Suit,13,4500,10000,8
+4386,Burberry,Suit,10,500,10000,11
+4391,Saint Laurent,Accessories,3,1200,20500,4
+4396,Armani,Dress,0,3500,20500,11
+4401,Dior,Dress,3,3500,10000,1
+4406,Valentino,Accessories,6,1200,15500,12
+4411,Louis Vuitton,Jeans,14,2000,15500,3
+4416,Gucci,Jeans,6,3500,2500,6
+4421,Burberry,Dress,12,1000,6000,8
+4426,Saint Laurent,Dress,5,1200,15500,2
+4431,Armani,Jeans,9,500,2500,5
+4436,Dior,Hand Bag,7,3500,10000,7
+4441,Valentino,Pant Suit,12,500,20500,10
+4446,Louis Vuitton,Hand Bag,0,1200,20500,3
+4451,Gucci,Accessories,1,500,20500,12
+4456,Burberry,Dress,5,2000,20500,2
+4461,Saint Laurent,Pant Suit,9,2000,10000,1
+4466,Armani,Hand Bag,9,3500,2500,5
+4471,Dior,Hand Bag,14,2000,15500,11
+4476,Valentino,Jeans,5,4500,5000,8
+4481,Louis Vuitton,Pant Suit,15,2000,2500,5
+4486,Gucci,Hand Bag,1,4500,5000,12
+4491,Burberry,Dress,0,1200,2500,12
+4496,Saint Laurent,Suit,9,2000,6000,1
+4501,Armani,Pant Suit,0,1200,15500,10
+4506,Dior,Hand Bag,14,3500,15500,2
+4511,Valentino,Accessories,14,2000,6000,7
+4516,Louis Vuitton,Pant Suit,15,1000,5000,5
+4521,Gucci,Accessories,12,4500,10000,9
+4526,Burberry,Accessories,9,3500,2500,3
+4531,Saint Laurent,Jeans,5,3500,5000,4
+4536,Armani,Hand Bag,3,1000,15500,3
+4541,Dior,Pant Suit,7,1200,20500,10
+4546,Valentino,Hand Bag,1,3500,10000,10
+4551,Louis Vuitton,Suit,3,500,15500,5
+4556,Gucci,Jeans,2,4500,2500,9
+4561,Burberry,Dress,14,2000,6000,9
+4566,Saint Laurent,Accessories,9,1000,10000,2
+4571,Armani,Suit,5,3500,15500,8
+4576,Dior,Hand Bag,4,3500,2500,9
+4581,Valentino,Suit,4,2000,20500,2
+4586,Louis Vuitton,Hand Bag,15,4500,20500,12
+4591,Gucci,Dress,9,4500,20500,11
+4596,Burberry,Jeans,9,3500,20500,11
+4601,Saint Laurent,Accessories,9,1000,20500,12
+4606,Armani,Jeans,2,4500,5000,6
+4611,Dior,Hand Bag,13,1200,2500,2
+4616,Valentino,Pant Suit,0,2000,10000,10
+4621,Louis Vuitton,Dress,4,500,20500,4
+4626,Gucci,Accessories,12,500,2500,10
+4631,Burberry,Jeans,13,4500,10000,6
+4636,Saint Laurent,Hand Bag,5,1000,2500,9
+4641,Armani,Pant Suit,8,500,2500,1
+4646,Dior,Dress,7,3500,6000,9
+4651,Valentino,Hand Bag,8,1200,15500,12
+4656,Louis Vuitton,Jeans,2,2000,6000,1
+4661,Gucci,Pant Suit,9,500,6000,8
+4666,Burberry,Accessories,4,1200,6000,8
+4671,Saint Laurent,Suit,13,1200,2500,4
+4676,Armani,Accessories,5,2000,10000,5
+4681,Dior,Accessories,15,500,6000,6
+4686,Valentino,Jeans,5,4500,5000,5
+4691,Louis Vuitton,Hand Bag,5,500,10000,10
+4696,Gucci,Hand Bag,15,4500,2500,6
+4701,Burberry,Jeans,13,2000,5000,3
+4706,Saint Laurent,Accessories,13,1200,10000,9
+4711,Armani,Pant Suit,12,4500,10000,12
+4716,Dior,Pant Suit,7,4500,10000,10
+4721,Valentino,Pant Suit,1,3500,15500,6
+4726,Louis Vuitton,Jeans,7,4500,10000,3
+4731,Gucci,Dress,10,1200,10000,2
+4736,Burberry,Accessories,14,4500,10000,5
+4741,Saint Laurent,Suit,14,2000,10000,12
+4746,Armani,Jeans,2,2000,20500,6
+4751,Dior,Jeans,14,1000,6000,4
+4756,Valentino,Dress,2,1200,6000,9
+4761,Louis Vuitton,Suit,10,500,6000,2
+4766,Gucci,Hand Bag,8,1200,10000,5
+4771,Burberry,Accessories,14,1200,15500,10
+4776,Saint Laurent,Hand Bag,3,2000,5000,2
+4781,Armani,Jeans,9,500,2500,6
+4786,Dior,Suit,5,1200,15500,12
+4791,Valentino,Dress,4,1200,6000,12
+4796,Louis Vuitton,Pant Suit,11,1000,5000,12
+4801,Gucci,Accessories,14,500,10000,4
+4806,Burberry,Accessories,0,3500,2500,2
+4811,Saint Laurent,Hand Bag,5,1200,15500,3
+4816,Armani,Dress,9,500,10000,5
+4821,Dior,Hand Bag,8,1200,10000,10
+4826,Valentino,Jeans,1,3500,15500,9
+4831,Louis Vuitton,Dress,2,3500,6000,7
+4836,Gucci,Jeans,12,1000,10000,12
+4841,Burberry,Jeans,8,2000,6000,12
+4846,Saint Laurent,Accessories,5,4500,2500,8
+4851,Armani,Accessories,1,500,5000,11
+4856,Dior,Hand Bag,6,1200,15500,1
+4861,Valentino,Suit,10,3500,15500,9
+4866,Louis Vuitton,Jeans,14,4500,15500,6
+4871,Gucci,Dress,11,2000,2500,11
+4876,Burberry,Hand Bag,11,500,15500,12
+4881,Saint Laurent,Accessories,6,500,2500,2
+4886,Armani,Accessories,10,3500,20500,9
+4891,Dior,Accessories,6,3500,5000,7
+4896,Valentino,Hand Bag,5,3500,10000,7
+4901,Louis Vuitton,Accessories,8,500,6000,5
+4906,Gucci,Jeans,5,4500,2500,2
+4911,Burberry,Suit,5,500,6000,12
+4916,Saint Laurent,Suit,1,4500,10000,10
+4921,Armani,Hand Bag,3,4500,10000,6
+4926,Dior,Jeans,6,1200,20500,5
+4931,Valentino,Hand Bag,14,2000,20500,4
+4936,Louis Vuitton,Dress,10,3500,15500,1
+4941,Gucci,Pant Suit,14,4500,20500,7
+4946,Burberry,Accessories,9,1000,20500,12
+4951,Saint Laurent,Hand Bag,11,1000,10000,11
+4956,Armani,Suit,14,500,20500,6
+4961,Dior,Dress,10,500,6000,8
+4966,Valentino,Pant Suit,9,1000,5000,4
+4971,Louis Vuitton,Pant Suit,5,4500,2500,10
+4976,Gucci,Jeans,2,3500,2500,11
+4981,Burberry,Dress,11,3500,20500,5
+4986,Saint Laurent,Accessories,13,1000,20500,12
+4991,Armani,Accessories,9,2000,20500,3
+4996,Dior,Pant Suit,5,1000,6000,12
+5001,Valentino,Dress,7,4500,6000,2
+5006,Louis Vuitton,Jeans,1,1200,2500,4
+5011,Gucci,Dress,10,2000,5000,9
+5016,Burberry,Jeans,8,3500,15500,12
+5021,Saint Laurent,Accessories,15,4500,20500,8
+5026,Armani,Pant Suit,4,3500,15500,12
+5031,Dior,Pant Suit,1,4500,20500,9
+5036,Valentino,Pant Suit,7,1000,15500,5
+5041,Louis Vuitton,Suit,15,1200,2500,7
+5046,Gucci,Hand Bag,2,1200,20500,9
+5051,Burberry,Dress,1,2000,6000,8
+5056,Saint Laurent,Pant Suit,5,500,2500,6
+5061,Armani,Jeans,9,4500,15500,12
+5066,Dior,Hand Bag,0,1200,15500,6
+5071,Valentino,Dress,6,3500,5000,3
+5076,Louis Vuitton,Dress,3,500,20500,4
+5081,Gucci,Hand Bag,5,3500,6000,6
+5086,Burberry,Hand Bag,2,500,20500,3
+5091,Saint Laurent,Jeans,10,1200,15500,7
+5096,Armani,Suit,5,500,5000,11
+5101,Dior,Suit,4,3500,15500,6
+5106,Valentino,Suit,7,1200,15500,4
+5111,Louis Vuitton,Jeans,6,500,2500,8
+5116,Gucci,Jeans,7,500,6000,10
+5121,Burberry,Dress,13,2000,10000,3
+5126,Saint Laurent,Pant Suit,8,1200,6000,2
+5131,Armani,Pant Suit,4,1000,15500,9
+5136,Dior,Hand Bag,15,1000,2500,10
+5141,Valentino,Pant Suit,8,1200,6000,11
+5146,Louis Vuitton,Suit,11,4500,2500,9
+5151,Gucci,Jeans,2,1000,10000,8
+5156,Burberry,Dress,2,500,6000,11
+5161,Saint Laurent,Dress,6,1200,10000,9
+5166,Armani,Pant Suit,6,1200,5000,12
+5171,Dior,Hand Bag,7,4500,2500,10
+5176,Valentino,Hand Bag,11,1000,2500,7
+5181,Louis Vuitton,Hand Bag,11,4500,10000,3
+5186,Gucci,Suit,15,1200,10000,2
+5191,Burberry,Pant Suit,3,4500,6000,2
+5196,Saint Laurent,Jeans,5,500,15500,1
+5201,Armani,Suit,4,4500,20500,5
+5206,Dior,Suit,12,3500,20500,7
+5211,Valentino,Pant Suit,8,3500,6000,9
+5216,Louis Vuitton,Jeans,13,2000,15500,10
+5221,Gucci,Dress,8,1200,6000,8
+5226,Burberry,Accessories,0,500,6000,11
+5231,Saint Laurent,Pant Suit,13,1000,5000,7
+5236,Armani,Pant Suit,6,2000,20500,9
+5241,Dior,Dress,2,1000,6000,3
+5246,Valentino,Dress,11,1200,6000,2
+5251,Louis Vuitton,Pant Suit,11,4500,20500,2
+5256,Gucci,Pant Suit,9,3500,5000,9
+5261,Burberry,Hand Bag,10,1000,2500,12
+5266,Saint Laurent,Hand Bag,5,1000,2500,2
+5271,Armani,Pant Suit,14,1200,20500,1
+5276,Dior,Jeans,2,500,5000,10
+5281,Valentino,Hand Bag,5,1200,20500,9
+5286,Louis Vuitton,Dress,8,1200,5000,4
+5291,Gucci,Suit,11,500,20500,8
+5296,Burberry,Hand Bag,8,1000,6000,2
+5301,Saint Laurent,Hand Bag,13,3500,15500,1
+5306,Armani,Dress,2,4500,2500,9
+5311,Dior,Dress,7,2000,10000,3
+5316,Valentino,Jeans,6,4500,2500,5
+5321,Louis Vuitton,Suit,11,3500,2500,6
+5326,Gucci,Accessories,9,1000,20500,8
+5331,Burberry,Jeans,6,500,10000,7
+5336,Saint Laurent,Hand Bag,15,2000,5000,4
+5341,Armani,Dress,3,500,6000,3
+5346,Dior,Jeans,15,1000,5000,10
+5351,Valentino,Pant Suit,13,1000,2500,4
+5356,Louis Vuitton,Hand Bag,4,1200,10000,3
+5361,Gucci,Accessories,0,1200,15500,7
+5366,Burberry,Accessories,2,4500,20500,10
+5371,Saint Laurent,Accessories,12,4500,10000,1
+5376,Armani,Pant Suit,3,3500,10000,8
+5381,Dior,Jeans,8,2000,6000,8
+5386,Valentino,Accessories,12,2000,6000,5
+5391,Louis Vuitton,Hand Bag,9,3500,20500,8
+5396,Gucci,Pant Suit,11,4500,6000,6
+5401,Burberry,Suit,9,3500,6000,7
+5406,Saint Laurent,Pant Suit,12,1200,20500,2
+5411,Armani,Suit,6,4500,2500,8
+5416,Dior,Suit,0,4500,2500,3
+5421,Valentino,Jeans,15,1200,15500,6
+5426,Louis Vuitton,Suit,5,3500,2500,7
+5431,Gucci,Pant Suit,6,500,2500,10
+5436,Burberry,Accessories,6,500,20500,9
+5441,Saint Laurent,Dress,13,4500,10000,4
+5446,Armani,Pant Suit,12,1000,15500,1
+5451,Dior,Pant Suit,8,500,10000,2
+5456,Valentino,Jeans,11,500,2500,12
+5461,Louis Vuitton,Suit,9,3500,10000,12
+5466,Gucci,Jeans,14,3500,2500,11
+5471,Burberry,Pant Suit,4,2000,10000,2
+5476,Saint Laurent,Suit,7,500,10000,11
+5481,Armani,Accessories,6,3500,5000,12
+5486,Dior,Accessories,5,1000,15500,4
+5491,Valentino,Jeans,11,3500,10000,10
+5496,Louis Vuitton,Pant Suit,14,3500,2500,9
+5501,Gucci,Accessories,9,500,15500,10
+5506,Burberry,Jeans,10,500,6000,2
+5511,Saint Laurent,Accessories,1,500,15500,8
+5516,Armani,Hand Bag,14,4500,15500,10
+5521,Dior,Accessories,9,1000,5000,10
+5526,Valentino,Jeans,14,1200,5000,10
+5531,Louis Vuitton,Pant Suit,2,1200,2500,3
+5536,Gucci,Pant Suit,13,3500,5000,2
+5541,Burberry,Hand Bag,7,500,20500,1
+5546,Saint Laurent,Suit,5,2000,2500,1
+5551,Armani,Hand Bag,6,1200,6000,1
+5556,Dior,Hand Bag,14,1200,2500,12
+5561,Valentino,Jeans,6,4500,20500,2
+5566,Louis Vuitton,Suit,8,4500,6000,4
+5571,Gucci,Pant Suit,11,4500,5000,5
+5576,Burberry,Pant Suit,2,1000,20500,11
+5581,Saint Laurent,Hand Bag,5,2000,10000,3
+5586,Armani,Hand Bag,11,4500,15500,12
+5591,Dior,Suit,6,3500,5000,6
+5596,Valentino,Suit,0,3500,10000,3
+5601,Louis Vuitton,Pant Suit,9,1200,10000,5
+5606,Gucci,Hand Bag,7,500,5000,12
+5611,Burberry,Dress,6,4500,10000,4
+5616,Saint Laurent,Jeans,10,1000,20500,2
+5621,Armani,Jeans,9,1000,5000,5
+5626,Dior,Suit,12,4500,20500,11
+5631,Valentino,Suit,8,3500,15500,6
+5636,Louis Vuitton,Hand Bag,9,3500,6000,12
+5641,Gucci,Accessories,2,3500,2500,4
+5646,Burberry,Jeans,7,2000,20500,3
+5651,Saint Laurent,Dress,15,2000,10000,9
+5656,Armani,Dress,9,500,10000,7
+5661,Dior,Jeans,13,1000,6000,10
+5666,Valentino,Accessories,9,2000,5000,3
+5671,Louis Vuitton,Jeans,6,2000,5000,4
+5676,Gucci,Dress,3,1000,2500,4
+5681,Burberry,Suit,10,4500,15500,1
+5686,Saint Laurent,Suit,10,4500,20500,1
+5691,Armani,Dress,0,4500,15500,2
+5696,Dior,Dress,7,4500,10000,8
+5701,Valentino,Jeans,1,3500,2500,4
+5706,Louis Vuitton,Suit,2,500,20500,3
+5711,Gucci,Accessories,6,1200,15500,4
+5716,Burberry,Hand Bag,7,2000,15500,8
+5721,Saint Laurent,Suit,7,500,20500,3
+5726,Armani,Suit,9,3500,15500,6
+5731,Dior,Dress,13,4500,6000,10
+5736,Valentino,Jeans,12,3500,2500,5
+5741,Louis Vuitton,Jeans,12,500,6000,10
+5746,Gucci,Suit,6,500,6000,9
+5751,Burberry,Jeans,11,2000,15500,6
+5756,Saint Laurent,Jeans,6,1200,2500,6
+5761,Armani,Pant Suit,10,2000,10000,5
+5766,Dior,Jeans,1,1000,10000,5
+5771,Valentino,Jeans,6,500,5000,12
+5776,Louis Vuitton,Suit,8,1200,20500,3
+5781,Gucci,Jeans,6,500,2500,12
+5786,Burberry,Pant Suit,6,4500,10000,12
+5791,Saint Laurent,Dress,11,1200,2500,9
+5796,Armani,Accessories,2,3500,5000,10
+5801,Dior,Dress,11,500,6000,7
+5806,Valentino,Accessories,13,500,20500,5
+5811,Louis Vuitton,Jeans,10,2000,10000,3
+5816,Gucci,Suit,3,3500,10000,9
+5821,Burberry,Pant Suit,12,3500,6000,10
+5826,Saint Laurent,Jeans,15,500,10000,11
+5831,Armani,Accessories,12,1000,5000,1
+5836,Dior,Hand Bag,1,2000,10000,8
+5841,Valentino,Suit,14,3500,5000,12
+5846,Louis Vuitton,Jeans,8,3500,6000,12
+5851,Gucci,Hand Bag,10,3500,10000,8
+5856,Burberry,Dress,7,3500,10000,7
+5861,Saint Laurent,Pant Suit,5,2000,5000,5
+5866,Armani,Pant Suit,12,2000,15500,7
+5871,Dior,Accessories,7,4500,10000,10
+5876,Valentino,Hand Bag,12,4500,5000,10
+5881,Louis Vuitton,Jeans,13,2000,2500,6
+5886,Gucci,Suit,9,3500,10000,11
+5891,Burberry,Suit,3,1000,10000,6
+5896,Saint Laurent,Suit,10,3500,6000,5
+5901,Armani,Hand Bag,5,500,6000,6
+5906,Dior,Hand Bag,2,500,15500,10
+5911,Valentino,Jeans,7,1200,6000,4
+5916,Louis Vuitton,Hand Bag,6,1000,10000,6
+5921,Gucci,Jeans,0,2000,5000,4
+5926,Burberry,Suit,15,1200,5000,11
+5931,Saint Laurent,Accessories,10,500,10000,3
+5936,Armani,Dress,1,3500,15500,4
+5941,Dior,Suit,5,1200,20500,10
+5946,Valentino,Hand Bag,1,1200,6000,10
+5951,Louis Vuitton,Suit,4,3500,2500,12
+5956,Gucci,Suit,4,500,2500,6
+5961,Burberry,Jeans,10,4500,10000,11
+5966,Saint Laurent,Pant Suit,10,4500,2500,5
+5971,Armani,Suit,3,1000,2500,3
+5976,Dior,Accessories,14,3500,20500,1
+5981,Valentino,Dress,5,2000,2500,3
+5986,Louis Vuitton,Accessories,11,2000,5000,11
+5991,Gucci,Suit,13,2000,6000,5
+5996,Burberry,Dress,8,3500,2500,1
+1001,Armani,Accessories,9,2000,15500,1
+1006,Dior,Suit,13,1200,2500,7
+1011,Valentino,Jeans,2,1200,10000,7
+1016,Louis Vuitton,Pant Suit,12,1000,10000,6
+1021,Gucci,Hand Bag,5,1200,6000,4
+1026,Burberry,Suit,14,4500,15500,4
+1031,Saint Laurent,Jeans,7,500,6000,10
+1036,Armani,Hand Bag,11,1000,10000,12
+1041,Dior,Suit,6,500,6000,2
+1046,Valentino,Hand Bag,0,3500,10000,9
+1051,Louis Vuitton,Accessories,10,2000,10000,5
+1056,Gucci,Accessories,3,3500,5000,4
+1061,Burberry,Pant Suit,14,3500,6000,4
+1066,Saint Laurent,Dress,10,1200,10000,12
+1071,Armani,Accessories,13,4500,5000,1
+1076,Dior,Jeans,4,500,15500,10
+1081,Valentino,Accessories,9,1200,2500,3
+1086,Louis Vuitton,Jeans,1,1000,15500,2
+1091,Gucci,Dress,2,4500,2500,5
+1096,Burberry,Jeans,3,2000,6000,11
+1101,Saint Laurent,Suit,9,2000,5000,7
+1106,Armani,Jeans,11,500,10000,11
+1111,Dior,Hand Bag,5,1000,10000,2
+1116,Valentino,Dress,14,2000,5000,10
+1121,Louis Vuitton,Suit,4,2000,6000,12
+1126,Gucci,Accessories,15,1000,6000,3
+1131,Burberry,Hand Bag,15,1200,5000,4
+1136,Saint Laurent,Jeans,2,4500,2500,3
+1141,Armani,Dress,5,1000,6000,12
+1146,Dior,Accessories,7,3500,6000,9
+1151,Valentino,Hand Bag,9,2000,6000,9
+1156,Louis Vuitton,Hand Bag,9,1200,15500,11
+1161,Gucci,Suit,8,1000,6000,12
+1166,Burberry,Suit,1,3500,2500,1
+1171,Saint Laurent,Dress,6,2000,10000,2
+1176,Armani,Dress,11,2000,10000,9
+1181,Dior,Hand Bag,0,1200,6000,4
+1186,Valentino,Accessories,6,3500,10000,5
+1191,Louis Vuitton,Suit,3,4500,10000,1
+1196,Gucci,Dress,6,4500,6000,11
+1201,Burberry,Hand Bag,10,500,5000,7
+1206,Saint Laurent,Suit,7,1200,10000,9
+1211,Armani,Accessories,14,500,6000,12
+1216,Dior,Suit,9,4500,5000,1
+1221,Valentino,Suit,9,3500,6000,5
+1226,Louis Vuitton,Dress,7,2000,20500,12
+1231,Gucci,Suit,1,2000,6000,7
+1236,Burberry,Accessories,11,500,5000,5
+1241,Saint Laurent,Jeans,15,500,20500,10
+1246,Armani,Pant Suit,9,3500,2500,5
+1251,Dior,Jeans,14,2000,2500,2
+1256,Valentino,Dress,5,1000,10000,9
+1261,Louis Vuitton,Suit,7,3500,15500,11
+1266,Gucci,Hand Bag,7,500,15500,1
+1271,Burberry,Suit,12,2000,6000,11
+1276,Saint Laurent,Hand Bag,12,3500,10000,4
+1281,Armani,Hand Bag,2,1200,15500,9
+1286,Dior,Pant Suit,7,2000,15500,10
+1291,Valentino,Pant Suit,7,2000,5000,7
+1296,Louis Vuitton,Pant Suit,12,3500,15500,4
+1301,Gucci,Suit,13,2000,10000,1
+1306,Burberry,Hand Bag,9,3500,15500,1
+1311,Saint Laurent,Accessories,12,500,20500,1
+1316,Armani,Hand Bag,1,1200,6000,11
+1321,Dior,Hand Bag,13,2000,20500,11
+1326,Valentino,Dress,1,1200,20500,1
+1331,Louis Vuitton,Jeans,5,2000,5000,5
+1336,Gucci,Accessories,3,2000,10000,2
+1341,Burberry,Hand Bag,5,500,5000,8
+1346,Saint Laurent,Jeans,4,1000,6000,3
+1351,Armani,Suit,5,500,6000,11
+1356,Dior,Hand Bag,1,4500,20500,11
+1361,Valentino,Accessories,10,4500,5000,11
+1366,Louis Vuitton,Dress,8,2000,20500,6
+1371,Gucci,Dress,9,4500,15500,11
+1376,Burberry,Suit,15,500,20500,6
+1381,Saint Laurent,Dress,6,1200,6000,1
+1386,Armani,Suit,10,4500,5000,1
+1391,Dior,Pant Suit,10,2000,5000,7
+1396,Valentino,Suit,7,3500,15500,6
+1401,Louis Vuitton,Pant Suit,8,4500,2500,12
+1406,Gucci,Jeans,7,1000,20500,9
+1411,Burberry,Dress,15,1000,10000,9
+1416,Saint Laurent,Dress,10,1200,20500,4
+1421,Armani,Suit,3,1200,15500,7
+1426,Dior,Accessories,3,500,10000,5
+1431,Valentino,Suit,7,1200,5000,12
+1436,Louis Vuitton,Hand Bag,5,1000,5000,10
+1441,Gucci,Accessories,6,3500,20500,4
+1446,Burberry,Accessories,2,1000,2500,10
+1451,Saint Laurent,Hand Bag,4,2000,5000,11
+1456,Armani,Hand Bag,11,3500,15500,6
+1461,Dior,Accessories,6,1200,20500,5
+1466,Valentino,Dress,9,4500,10000,2
+1471,Louis Vuitton,Jeans,12,1000,5000,10
+1476,Gucci,Pant Suit,7,2000,20500,1
+1481,Burberry,Hand Bag,13,1000,6000,1
+1486,Saint Laurent,Pant Suit,5,4500,5000,8
+1491,Armani,Suit,1,4500,2500,2
+1496,Dior,Dress,11,1200,5000,11
+1501,Valentino,Accessories,15,500,6000,6
+1506,Louis Vuitton,Jeans,2,2000,2500,2
+1511,Gucci,Pant Suit,5,2000,5000,10
+1516,Burberry,Dress,5,4500,2500,10
+1521,Saint Laurent,Jeans,10,3500,6000,2
+1526,Armani,Hand Bag,4,1200,20500,10
+1531,Dior,Jeans,11,3500,6000,11
+1536,Valentino,Jeans,12,1000,10000,8
+1541,Louis Vuitton,Hand Bag,0,4500,5000,1
+1546,Gucci,Dress,4,2000,6000,11
+1551,Burberry,Hand Bag,9,500,20500,10
+1556,Saint Laurent,Pant Suit,7,2000,10000,6
+1561,Armani,Jeans,8,1200,20500,8
+1566,Dior,Pant Suit,8,500,6000,11
+1571,Valentino,Pant Suit,11,1200,10000,2
+1576,Louis Vuitton,Suit,15,3500,5000,10
+1581,Gucci,Suit,12,4500,15500,8
+1586,Burberry,Pant Suit,0,500,20500,11
+1591,Saint Laurent,Jeans,11,1200,6000,3
+1596,Armani,Dress,13,1000,10000,11
+1601,Dior,Suit,8,1200,10000,8
+1606,Valentino,Jeans,14,3500,5000,11
+1611,Louis Vuitton,Pant Suit,13,4500,15500,1
+1616,Gucci,Hand Bag,6,1200,2500,4
+1621,Burberry,Jeans,10,2000,6000,6
+1626,Saint Laurent,Dress,13,2000,15500,11
+1631,Armani,Dress,9,1200,20500,3
+1636,Dior,Jeans,8,3500,10000,1
+1641,Valentino,Pant Suit,0,500,10000,10
+1646,Louis Vuitton,Accessories,8,2000,15500,1
+1651,Gucci,Jeans,1,500,15500,12
+1656,Burberry,Suit,13,500,5000,7
+1661,Saint Laurent,Accessories,15,3500,6000,6
+1666,Armani,Jeans,10,1200,5000,10
+1671,Dior,Pant Suit,11,1200,20500,10
+1676,Valentino,Suit,6,2000,10000,3
+1681,Louis Vuitton,Suit,4,1200,15500,6
+1686,Gucci,Hand Bag,9,1200,10000,4
+1691,Burberry,Dress,15,1200,10000,1
+1696,Saint Laurent,Accessories,9,1200,20500,3
+1701,Armani,Hand Bag,4,4500,2500,10
+1706,Dior,Hand Bag,14,1000,10000,5
+1711,Valentino,Dress,4,500,5000,11
+1716,Louis Vuitton,Jeans,13,1200,20500,2
+1721,Gucci,Pant Suit,15,4500,20500,9
+1726,Burberry,Suit,6,4500,2500,7
+1731,Saint Laurent,Jeans,3,4500,15500,11
+1736,Armani,Suit,12,4500,15500,3
+1741,Dior,Dress,2,500,6000,1
+1746,Valentino,Jeans,14,1000,5000,4
+1751,Louis Vuitton,Hand Bag,5,1200,6000,3
+1756,Gucci,Suit,2,3500,10000,6
+1761,Burberry,Suit,10,500,5000,7
+1766,Saint Laurent,Jeans,3,500,15500,12
+1771,Armani,Jeans,2,500,20500,3
+1776,Dior,Jeans,8,4500,5000,1
+1781,Valentino,Dress,2,500,20500,1
+1786,Louis Vuitton,Jeans,8,2000,15500,12
+1791,Gucci,Jeans,3,2000,6000,7
+1796,Burberry,Jeans,4,2000,5000,2
+1801,Saint Laurent,Suit,3,1000,5000,2
+1806,Armani,Suit,8,500,2500,2
+1811,Dior,Hand Bag,15,2000,6000,11
+1816,Valentino,Accessories,4,3500,20500,7
+1821,Louis Vuitton,Pant Suit,12,1200,10000,2
+1826,Gucci,Hand Bag,12,4500,20500,11
+1831,Burberry,Accessories,6,4500,6000,3
+1836,Saint Laurent,Pant Suit,3,1000,10000,4
+1841,Armani,Hand Bag,15,2000,5000,8
+1846,Dior,Pant Suit,0,4500,10000,1
+1851,Valentino,Suit,1,500,5000,8
+1856,Louis Vuitton,Jeans,9,1000,20500,3
+1861,Gucci,Suit,6,500,20500,1
+1866,Burberry,Dress,0,500,20500,4
+1871,Saint Laurent,Dress,2,3500,5000,6
+1876,Armani,Jeans,12,1200,10000,10
+1881,Dior,Dress,5,3500,5000,4
+1886,Valentino,Pant Suit,14,3500,6000,1
+1891,Louis Vuitton,Suit,13,1000,10000,12
+1896,Gucci,Accessories,6,500,6000,7
+1901,Burberry,Suit,9,500,6000,9
+1906,Saint Laurent,Hand Bag,14,1000,10000,5
+1911,Armani,Suit,14,1000,2500,10
+1916,Dior,Suit,3,1200,15500,4
+1921,Valentino,Pant Suit,9,4500,5000,8
+1926,Louis Vuitton,Suit,6,500,2500,7
+1931,Gucci,Suit,8,2000,10000,9
+1936,Burberry,Jeans,6,1200,2500,4
+1941,Saint Laurent,Jeans,14,3500,15500,8
+1946,Armani,Pant Suit,9,4500,15500,10
+1951,Dior,Dress,4,2000,20500,9
+1956,Valentino,Jeans,10,1000,15500,6
+1961,Louis Vuitton,Dress,4,500,6000,9
+1966,Gucci,Accessories,9,2000,5000,8
+1971,Burberry,Hand Bag,6,2000,10000,3
+1976,Saint Laurent,Pant Suit,5,1200,6000,5
+1981,Armani,Jeans,12,2000,2500,1
+1986,Dior,Suit,0,2000,2500,11
+1991,Valentino,Hand Bag,4,3500,10000,6
+1996,Louis Vuitton,Suit,13,4500,6000,4
+2001,Gucci,Pant Suit,8,1000,6000,6
+2006,Burberry,Dress,8,2000,6000,11
+2011,Saint Laurent,Hand Bag,6,1000,10000,6
+2016,Armani,Accessories,0,1000,20500,10
+2021,Dior,Suit,6,3500,2500,2
+2026,Valentino,Accessories,5,3500,20500,12
+2031,Louis Vuitton,Hand Bag,11,2000,15500,1
+2036,Gucci,Jeans,13,3500,5000,5
+2041,Burberry,Dress,13,500,20500,12
+2046,Saint Laurent,Accessories,14,500,20500,5
+2051,Armani,Dress,3,2000,5000,2
+2056,Dior,Accessories,0,500,2500,5
+2061,Valentino,Hand Bag,13,2000,10000,5
+2066,Louis Vuitton,Hand Bag,13,3500,5000,11
+2071,Gucci,Hand Bag,3,1000,5000,3
+2076,Burberry,Dress,15,1200,2500,5
+2081,Saint Laurent,Dress,12,1200,10000,2
+2086,Armani,Accessories,10,500,6000,2
+2091,Dior,Hand Bag,9,500,5000,3
+2096,Valentino,Jeans,5,500,6000,4
+2101,Louis Vuitton,Pant Suit,11,500,15500,2
+2106,Gucci,Hand Bag,10,2000,6000,8
+2111,Burberry,Accessories,4,4500,20500,10
+2116,Saint Laurent,Hand Bag,2,3500,10000,3
+2121,Armani,Dress,3,2000,6000,4
+2126,Dior,Pant Suit,9,4500,5000,6
+2131,Valentino,Pant Suit,3,3500,6000,12
+2136,Louis Vuitton,Pant Suit,5,500,2500,1
+2141,Gucci,Dress,5,2000,10000,5
+2146,Burberry,Dress,15,4500,6000,9
+2151,Saint Laurent,Dress,5,1200,20500,1
+2156,Armani,Suit,7,4500,10000,9
+2161,Dior,Accessories,11,3500,15500,3
+2166,Valentino,Hand Bag,15,1200,6000,2
+2171,Louis Vuitton,Hand Bag,7,4500,2500,3
+2176,Gucci,Hand Bag,9,4500,5000,9
+2181,Burberry,Jeans,4,3500,10000,5
+2186,Saint Laurent,Suit,3,2000,15500,11
+2191,Armani,Pant Suit,12,1200,20500,7
+2196,Dior,Accessories,15,3500,2500,1
+2201,Valentino,Jeans,13,3500,10000,6
+2206,Louis Vuitton,Suit,8,1000,20500,1
+2211,Gucci,Pant Suit,2,1000,15500,7
+2216,Burberry,Pant Suit,9,4500,20500,12
+2221,Saint Laurent,Hand Bag,10,500,6000,9
+2226,Armani,Suit,7,1000,5000,2
+2231,Dior,Hand Bag,5,2000,20500,10
+2236,Valentino,Pant Suit,4,2000,6000,2
+2241,Louis Vuitton,Suit,0,2000,6000,11
+2246,Gucci,Hand Bag,5,1000,5000,9
+2251,Burberry,Suit,5,4500,2500,12
+2256,Saint Laurent,Jeans,8,2000,5000,4
+2261,Armani,Pant Suit,14,1200,10000,1
+2266,Dior,Hand Bag,8,1000,20500,6
+2271,Valentino,Suit,11,1000,10000,3
+2276,Louis Vuitton,Hand Bag,7,500,6000,5
+2281,Gucci,Jeans,1,1000,10000,4
+2286,Burberry,Suit,7,1200,15500,8
+2291,Saint Laurent,Accessories,1,3500,5000,4
+2296,Armani,Hand Bag,9,1200,5000,11
+2301,Dior,Suit,8,3500,2500,5
+2306,Valentino,Dress,13,2000,5000,7
+2311,Louis Vuitton,Dress,15,3500,6000,7
+2316,Gucci,Hand Bag,3,3500,20500,12
+2321,Burberry,Dress,9,2000,15500,3
+2326,Saint Laurent,Pant Suit,1,500,15500,9
+2331,Armani,Suit,6,500,5000,3
+2336,Dior,Suit,6,3500,5000,6
+2341,Valentino,Pant Suit,10,1000,20500,3
+2346,Louis Vuitton,Pant Suit,13,2000,6000,11
+2351,Gucci,Hand Bag,13,500,6000,4
+2356,Burberry,Dress,0,3500,20500,1
+2361,Saint Laurent,Jeans,3,1200,15500,12
+2366,Armani,Suit,7,1000,2500,5
+2371,Dior,Jeans,7,4500,15500,5
+2376,Valentino,Jeans,14,1000,2500,4
+2381,Louis Vuitton,Dress,9,1200,6000,9
+2386,Gucci,Accessories,2,2000,2500,9
+2391,Burberry,Jeans,0,1000,10000,6
+2396,Saint Laurent,Pant Suit,15,3500,10000,11
+2401,Armani,Accessories,14,3500,10000,9
+2406,Dior,Accessories,7,500,6000,4
+2411,Valentino,Suit,9,1200,2500,2
+2416,Louis Vuitton,Pant Suit,11,1000,5000,1
+2421,Gucci,Dress,0,500,20500,9
+2426,Burberry,Dress,1,3500,15500,8
+2431,Saint Laurent,Hand Bag,9,4500,20500,11
+2436,Armani,Accessories,2,4500,6000,4
+2441,Dior,Hand Bag,11,1200,20500,2
+2446,Valentino,Dress,14,1200,5000,5
+2451,Louis Vuitton,Pant Suit,10,3500,20500,7
+2456,Gucci,Suit,15,1200,20500,10
+2461,Burberry,Dress,7,1000,15500,9
+2466,Saint Laurent,Pant Suit,0,2000,6000,5
+2471,Armani,Jeans,14,4500,15500,3
+2476,Dior,Dress,6,1000,2500,12
+2481,Valentino,Suit,13,4500,6000,11
+2486,Louis Vuitton,Accessories,7,1200,20500,11
+2491,Gucci,Dress,1,1200,10000,12
+2496,Burberry,Dress,1,4500,10000,4
+2501,Saint Laurent,Jeans,2,500,10000,1
+2506,Armani,Dress,12,2000,20500,5
+2511,Dior,Jeans,7,3500,5000,12
+2516,Valentino,Dress,0,4500,10000,2
+2521,Louis Vuitton,Jeans,2,4500,6000,8
+2526,Gucci,Accessories,15,3500,20500,7
+2531,Burberry,Accessories,2,1000,2500,6
+2536,Saint Laurent,Pant Suit,8,500,20500,12
+2541,Armani,Hand Bag,7,3500,6000,11
+2546,Dior,Jeans,14,4500,6000,2
+2551,Valentino,Accessories,14,3500,20500,1
+2556,Louis Vuitton,Dress,15,1200,20500,3
+2561,Gucci,Dress,4,1000,20500,8
+2566,Burberry,Suit,11,3500,2500,11
+2571,Saint Laurent,Dress,10,500,15500,5
+2576,Armani,Pant Suit,11,1000,5000,9
+2581,Dior,Hand Bag,11,3500,10000,5
+2586,Valentino,Pant Suit,7,2000,2500,9
+2591,Louis Vuitton,Dress,5,1200,10000,8
+2596,Gucci,Accessories,6,1000,2500,7
+2601,Burberry,Jeans,15,500,6000,10
+2606,Saint Laurent,Jeans,0,500,2500,9
+2611,Armani,Dress,7,500,10000,10
+2616,Dior,Dress,12,500,10000,8
+2621,Valentino,Accessories,12,2000,15500,10
+2626,Louis Vuitton,Pant Suit,11,2000,6000,12
+2631,Gucci,Hand Bag,11,2000,6000,7
+2636,Burberry,Pant Suit,15,1200,10000,9
+2641,Saint Laurent,Pant Suit,4,4500,2500,5
+2646,Armani,Suit,6,500,6000,11
+2651,Dior,Suit,7,4500,6000,4
+2656,Valentino,Jeans,8,1000,20500,8
+2661,Louis Vuitton,Suit,13,500,15500,3
+2666,Gucci,Hand Bag,8,4500,5000,4
+2671,Burberry,Accessories,14,3500,20500,3
+2676,Saint Laurent,Hand Bag,15,1200,20500,8
+2681,Armani,Suit,4,1000,2500,10
+2686,Dior,Suit,12,1200,5000,3
+2691,Valentino,Dress,14,4500,15500,3
+2696,Louis Vuitton,Jeans,11,1000,10000,7
+2701,Gucci,Jeans,10,500,20500,9
+2706,Burberry,Pant Suit,0,2000,10000,2
+2711,Saint Laurent,Dress,0,500,15500,2
+2716,Armani,Suit,1,1200,6000,8
+2721,Dior,Dress,5,4500,15500,5
+2726,Valentino,Hand Bag,2,3500,2500,12
+2731,Louis Vuitton,Hand Bag,3,2000,6000,4
+2736,Gucci,Accessories,8,3500,2500,5
+2741,Burberry,Jeans,13,500,20500,6
+2746,Saint Laurent,Accessories,6,500,2500,8
+2751,Armani,Accessories,10,3500,5000,5
+2756,Dior,Hand Bag,3,2000,5000,6
+2761,Valentino,Jeans,8,2000,6000,1
+2766,Louis Vuitton,Dress,12,4500,6000,7
+2771,Gucci,Pant Suit,2,2000,5000,10
+2776,Burberry,Jeans,14,3500,2500,10
+2781,Saint Laurent,Suit,7,500,2500,8
+2786,Armani,Jeans,3,1200,2500,9
+2791,Dior,Jeans,1,500,5000,1
+2796,Valentino,Jeans,4,1200,6000,5
+2801,Louis Vuitton,Accessories,15,1000,2500,11
+2806,Gucci,Suit,4,3500,5000,3
+2811,Burberry,Dress,11,2000,6000,5
+2816,Saint Laurent,Suit,15,500,10000,9
+2821,Armani,Dress,7,500,2500,11
+2826,Dior,Suit,10,4500,2500,1
+2831,Valentino,Jeans,4,1000,6000,8
+2836,Louis Vuitton,Dress,13,1200,2500,8
+2841,Gucci,Dress,9,4500,2500,9
+2846,Burberry,Suit,1,3500,2500,5
+2851,Saint Laurent,Suit,8,1000,5000,5
+2856,Armani,Hand Bag,0,1200,2500,2
+2861,Dior,Pant Suit,6,500,15500,10
+2866,Valentino,Suit,13,500,5000,4
+2871,Louis Vuitton,Jeans,2,1200,15500,1
+2876,Gucci,Dress,12,2000,10000,8
+2881,Burberry,Suit,6,4500,5000,6
+2886,Saint Laurent,Dress,13,1000,10000,12
+2891,Armani,Dress,10,1000,6000,4
+2896,Dior,Hand Bag,14,500,10000,3
+2901,Valentino,Hand Bag,10,2000,20500,8
+2906,Louis Vuitton,Hand Bag,8,1200,6000,1
+2911,Gucci,Hand Bag,5,500,6000,3
+2916,Burberry,Accessories,5,1000,2500,12
+2921,Saint Laurent,Hand Bag,3,4500,10000,2
+2926,Armani,Suit,1,3500,20500,4
+2931,Dior,Suit,0,1000,2500,12
+2936,Valentino,Suit,10,2000,5000,2
+2941,Louis Vuitton,Suit,11,1200,10000,12
+2946,Gucci,Pant Suit,2,3500,15500,3
+2951,Burberry,Suit,2,3500,20500,6
+2956,Saint Laurent,Pant Suit,12,500,6000,9
+2961,Armani,Suit,1,3500,20500,11
+2966,Dior,Dress,13,1200,5000,7
+2971,Valentino,Pant Suit,5,4500,15500,2
+2976,Louis Vuitton,Dress,6,1000,2500,1
+2981,Gucci,Accessories,7,1000,10000,8
+2986,Burberry,Jeans,15,500,6000,1
+2991,Saint Laurent,Dress,5,3500,20500,7
+2996,Armani,Hand Bag,15,1000,2500,7
+3001,Dior,Jeans,3,2000,20500,12
+3006,Valentino,Hand Bag,1,500,15500,10
+3011,Louis Vuitton,Suit,4,1000,10000,4
+3016,Gucci,Pant Suit,11,500,2500,4
+3021,Burberry,Jeans,4,3500,15500,3
+3026,Saint Laurent,Dress,4,1200,20500,2
+3031,Armani,Dress,1,2000,5000,10
+3036,Dior,Suit,5,3500,6000,8
+3041,Valentino,Dress,13,4500,5000,9
+3046,Louis Vuitton,Suit,8,3500,5000,11
+3051,Gucci,Pant Suit,3,2000,2500,9
+3056,Burberry,Suit,0,3500,20500,10
+3061,Saint Laurent,Jeans,10,1000,10000,3
+3066,Armani,Dress,9,3500,2500,1
+3071,Dior,Hand Bag,9,500,5000,6
+3076,Valentino,Accessories,14,500,10000,9
+3081,Louis Vuitton,Jeans,12,1000,10000,1
+3086,Gucci,Dress,7,1000,2500,9
+3091,Burberry,Jeans,7,2000,6000,4
+3096,Saint Laurent,Accessories,15,4500,15500,1
+3101,Armani,Hand Bag,10,3500,15500,12
+3106,Dior,Dress,9,4500,2500,5
+3111,Valentino,Hand Bag,0,1000,2500,5
+3116,Louis Vuitton,Accessories,2,1000,15500,6
+3121,Gucci,Hand Bag,5,3500,2500,3
+3126,Burberry,Suit,9,4500,20500,9
+3131,Saint Laurent,Suit,8,3500,20500,7
+3136,Armani,Dress,3,1200,20500,2
+3141,Dior,Pant Suit,7,3500,2500,12
+3146,Valentino,Jeans,11,3500,20500,1
+3151,Louis Vuitton,Pant Suit,0,1200,5000,2
+3156,Gucci,Jeans,9,1000,6000,7
+3161,Burberry,Jeans,15,4500,15500,2
+3166,Saint Laurent,Pant Suit,5,2000,5000,12
+3171,Armani,Suit,5,1000,15500,7
+3176,Dior,Dress,6,3500,20500,5
+3181,Valentino,Pant Suit,15,2000,2500,6
+3186,Louis Vuitton,Dress,10,500,10000,1
+3191,Gucci,Jeans,13,2000,20500,12
+3196,Burberry,Jeans,10,4500,10000,7
+3201,Saint Laurent,Dress,10,4500,15500,4
+3206,Armani,Jeans,6,1000,2500,10
+3211,Dior,Dress,11,3500,10000,2
+3216,Valentino,Pant Suit,9,3500,15500,10
+3221,Louis Vuitton,Hand Bag,14,4500,5000,6
+3226,Gucci,Accessories,9,1000,2500,5
+3231,Burberry,Suit,4,4500,10000,2
+3236,Saint Laurent,Hand Bag,3,4500,20500,4
+3241,Armani,Pant Suit,8,1000,2500,4
+3246,Dior,Pant Suit,8,4500,10000,9
+3251,Valentino,Jeans,7,3500,5000,6
+3256,Louis Vuitton,Pant Suit,3,3500,2500,10
+3261,Gucci,Accessories,8,1200,5000,11
+3266,Burberry,Suit,13,3500,20500,2
+3271,Saint Laurent,Jeans,4,500,20500,2
+3276,Armani,Hand Bag,5,2000,5000,11
+3281,Dior,Jeans,0,3500,10000,12
+3286,Valentino,Dress,1,3500,2500,5
+3291,Louis Vuitton,Pant Suit,3,4500,6000,5
+3296,Gucci,Pant Suit,8,1200,5000,10
+3301,Burberry,Hand Bag,9,3500,20500,2
+3306,Saint Laurent,Suit,15,2000,6000,8
+3311,Armani,Dress,13,1000,2500,5
+3316,Dior,Pant Suit,2,1200,2500,6
+3321,Valentino,Jeans,14,4500,6000,10
+3326,Louis Vuitton,Jeans,13,3500,10000,6
+3331,Gucci,Suit,13,1200,10000,8
+3336,Burberry,Jeans,8,4500,5000,5
+3341,Saint Laurent,Pant Suit,15,1000,20500,4
+3346,Armani,Accessories,4,4500,20500,12
+3351,Dior,Pant Suit,2,4500,15500,8
+3356,Valentino,Dress,3,4500,15500,4
+3361,Louis Vuitton,Hand Bag,11,500,20500,9
+3366,Gucci,Hand Bag,3,500,20500,1
+3371,Burberry,Suit,1,4500,5000,6
+3376,Saint Laurent,Hand Bag,4,2000,15500,11
+3381,Armani,Pant Suit,6,2000,15500,11
+3386,Dior,Hand Bag,0,3500,20500,2
+3391,Valentino,Jeans,11,2000,5000,5
+3396,Louis Vuitton,Accessories,6,1200,15500,5
+3401,Gucci,Dress,3,4500,20500,1
+3406,Burberry,Accessories,0,1000,15500,1
+3411,Saint Laurent,Hand Bag,2,500,10000,2
+3416,Armani,Suit,13,1200,6000,3
+3421,Dior,Accessories,8,1200,20500,12
+3426,Valentino,Accessories,12,1000,6000,2
+3431,Louis Vuitton,Accessories,5,1200,15500,12
+3436,Gucci,Pant Suit,3,500,15500,2
+3441,Burberry,Hand Bag,15,3500,20500,5
+3446,Saint Laurent,Accessories,2,1000,20500,2
+3451,Armani,Accessories,12,2000,10000,7
+3456,Dior,Jeans,8,4500,10000,10
+3461,Valentino,Jeans,0,1000,10000,1
+3466,Louis Vuitton,Jeans,15,1000,5000,4
+3471,Gucci,Hand Bag,5,4500,15500,11
+3476,Burberry,Jeans,2,4500,5000,3
+3481,Saint Laurent,Pant Suit,2,500,2500,5
+3486,Armani,Dress,6,4500,20500,1
+3491,Dior,Accessories,6,1000,2500,5
+3496,Valentino,Dress,8,2000,6000,10
+3501,Louis Vuitton,Accessories,13,4500,5000,6
+3506,Gucci,Dress,12,3500,6000,10
+3511,Burberry,Dress,11,2000,6000,10
+3516,Saint Laurent,Jeans,11,1200,5000,1
+3521,Armani,Hand Bag,1,1000,2500,2
+3526,Dior,Pant Suit,10,2000,2500,9
+3531,Valentino,Hand Bag,13,1200,2500,7
+3536,Louis Vuitton,Hand Bag,4,1000,2500,8
+3541,Gucci,Hand Bag,6,1200,6000,4
+3546,Burberry,Hand Bag,10,3500,5000,2
+3551,Saint Laurent,Dress,8,500,5000,2
+3556,Armani,Suit,12,1200,2500,7
+3561,Dior,Accessories,11,500,15500,6
+3566,Valentino,Dress,12,1200,10000,10
+3571,Louis Vuitton,Accessories,13,1200,2500,8
+3576,Gucci,Hand Bag,11,1200,2500,4
+3581,Burberry,Suit,1,500,20500,5
+3586,Saint Laurent,Hand Bag,1,1200,10000,4
+3591,Armani,Hand Bag,5,1200,15500,4
+3596,Dior,Pant Suit,7,500,2500,8
+3601,Valentino,Accessories,7,500,15500,5
+3606,Louis Vuitton,Accessories,8,4500,15500,8
+3611,Gucci,Dress,0,2000,2500,12
+3616,Burberry,Dress,6,3500,15500,4
+3621,Saint Laurent,Hand Bag,13,500,20500,2
+3626,Armani,Dress,0,500,15500,9
+3631,Dior,Pant Suit,13,500,15500,3
+3636,Valentino,Suit,12,2000,10000,10
+3641,Louis Vuitton,Jeans,2,500,2500,6
+3646,Gucci,Pant Suit,8,3500,6000,9
+3651,Burberry,Pant Suit,4,3500,15500,3
+3656,Saint Laurent,Jeans,3,500,10000,5
+3661,Armani,Pant Suit,14,4500,2500,3
+3666,Dior,Accessories,9,1000,5000,4
+3671,Valentino,Accessories,5,4500,10000,9
+3676,Louis Vuitton,Suit,14,1000,2500,5
+3681,Gucci,Jeans,3,3500,2500,3
+3686,Burberry,Pant Suit,13,1000,20500,10
+3691,Saint Laurent,Pant Suit,14,2000,5000,10
+3696,Armani,Dress,15,500,15500,12
+3701,Dior,Jeans,10,1000,20500,8
+3706,Valentino,Hand Bag,1,500,5000,7
+3711,Louis Vuitton,Suit,7,2000,20500,9
+3716,Gucci,Dress,11,2000,15500,7
+3721,Burberry,Accessories,11,500,2500,4
+3726,Saint Laurent,Jeans,11,1000,20500,3
+3731,Armani,Dress,11,500,20500,6
+3736,Dior,Jeans,4,3500,5000,12
+3741,Valentino,Suit,9,4500,5000,7
+3746,Louis Vuitton,Accessories,0,3500,20500,4
+3751,Gucci,Hand Bag,0,500,2500,6
+3756,Burberry,Hand Bag,10,4500,2500,6
+3761,Saint Laurent,Hand Bag,6,500,20500,4
+3766,Armani,Dress,0,1000,20500,10
+3771,Dior,Suit,0,4500,2500,1
+3776,Valentino,Jeans,3,500,5000,2
+3781,Louis Vuitton,Hand Bag,8,500,15500,3
+3786,Gucci,Jeans,4,500,10000,1
+3791,Burberry,Pant Suit,1,500,10000,4
+3796,Saint Laurent,Hand Bag,6,1200,20500,12
+3801,Armani,Jeans,1,4500,15500,7
+3806,Dior,Accessories,15,3500,2500,10
+3811,Valentino,Pant Suit,5,4500,6000,10
+3816,Louis Vuitton,Dress,12,500,5000,7
+3821,Gucci,Accessories,15,1200,10000,11
+3826,Burberry,Dress,10,1200,20500,1
+3831,Saint Laurent,Dress,15,3500,5000,2
+3836,Armani,Pant Suit,1,4500,20500,4
+3841,Dior,Jeans,7,4500,10000,3
+3846,Valentino,Pant Suit,10,1200,6000,12
+3851,Louis Vuitton,Suit,4,1000,2500,8
+3856,Gucci,Suit,5,4500,15500,8
+3861,Burberry,Pant Suit,15,4500,20500,3
+3866,Saint Laurent,Dress,0,3500,20500,4
+3871,Armani,Pant Suit,13,1200,10000,7
+3876,Dior,Hand Bag,13,500,6000,3
+3881,Valentino,Hand Bag,6,1000,5000,8
+3886,Louis Vuitton,Pant Suit,9,1200,2500,12
+3891,Gucci,Dress,8,4500,10000,12
+3896,Burberry,Accessories,2,3500,10000,6
+3901,Saint Laurent,Accessories,5,2000,6000,7
+3906,Armani,Jeans,0,500,10000,3
+3911,Dior,Accessories,14,500,2500,7
+3916,Valentino,Suit,4,4500,15500,10
+3921,Louis Vuitton,Pant Suit,4,3500,5000,11
+3926,Gucci,Hand Bag,13,2000,2500,11
+3931,Burberry,Pant Suit,0,500,10000,12
+3936,Saint Laurent,Accessories,0,2000,15500,4
+3941,Armani,Suit,5,2000,20500,8
+3946,Dior,Hand Bag,11,2000,10000,1
+3951,Valentino,Pant Suit,10,4500,10000,12
+3956,Louis Vuitton,Hand Bag,11,1000,5000,3
+3961,Gucci,Hand Bag,5,2000,10000,5
+3966,Burberry,Pant Suit,3,4500,10000,2
+3971,Saint Laurent,Pant Suit,12,4500,5000,8
+3976,Armani,Accessories,12,500,2500,3
+3981,Dior,Accessories,14,500,6000,10
+3986,Valentino,Jeans,14,4500,15500,4
+3991,Louis Vuitton,Accessories,3,2000,15500,7
+3996,Gucci,Accessories,3,2000,10000,9
+4001,Burberry,Accessories,9,3500,5000,12
+4006,Saint Laurent,Accessories,0,4500,10000,9
+4011,Armani,Suit,8,500,6000,8
+4016,Dior,Hand Bag,11,3500,15500,10
+4021,Valentino,Jeans,3,1200,6000,6
+4026,Louis Vuitton,Suit,0,4500,5000,4
+4031,Gucci,Jeans,0,2000,15500,9
+4036,Burberry,Jeans,11,1000,10000,11
+4041,Saint Laurent,Jeans,0,1000,6000,3
+4046,Armani,Pant Suit,12,2000,2500,2
+4051,Dior,Dress,0,500,15500,9
+4056,Valentino,Jeans,11,2000,2500,11
+4061,Louis Vuitton,Dress,5,1200,2500,9
+4066,Gucci,Accessories,6,2000,10000,3
+4071,Burberry,Suit,5,3500,6000,7
+4076,Saint Laurent,Dress,4,500,6000,6
+4081,Armani,Dress,0,4500,10000,12
+4086,Dior,Pant Suit,3,2000,6000,9
+4091,Valentino,Suit,15,4500,10000,12
+4096,Louis Vuitton,Accessories,11,500,20500,8
+4101,Gucci,Hand Bag,5,1200,15500,3
+4106,Burberry,Hand Bag,9,4500,20500,5
+4111,Saint Laurent,Pant Suit,10,1000,2500,11
+4116,Armani,Pant Suit,4,1000,6000,6
+4121,Dior,Dress,14,1200,15500,6
+4126,Valentino,Hand Bag,5,1000,5000,1
+4131,Louis Vuitton,Accessories,2,2000,5000,1
+4136,Gucci,Jeans,13,1000,10000,7
+4141,Burberry,Pant Suit,6,2000,10000,10
+4146,Saint Laurent,Accessories,15,1200,20500,11
+4151,Armani,Hand Bag,9,4500,6000,6
+4156,Dior,Pant Suit,15,2000,20500,10
+4161,Valentino,Hand Bag,14,3500,10000,4
+4166,Louis Vuitton,Pant Suit,9,1000,6000,4
+4171,Gucci,Suit,10,1000,10000,2
+4176,Burberry,Jeans,12,2000,15500,12
+4181,Saint Laurent,Jeans,9,1200,10000,6
+4186,Armani,Dress,4,2000,20500,8
+4191,Dior,Dress,4,500,2500,8
+4196,Valentino,Jeans,7,1200,6000,2
+4201,Louis Vuitton,Suit,6,3500,10000,4
+4206,Gucci,Hand Bag,12,1000,2500,4
+4211,Burberry,Dress,10,3500,2500,5
+4216,Saint Laurent,Pant Suit,6,1000,2500,5
+4221,Armani,Jeans,9,4500,20500,7
+4226,Dior,Pant Suit,11,4500,15500,9
+4231,Valentino,Accessories,10,500,5000,12
+4236,Louis Vuitton,Dress,3,2000,5000,10
+4241,Gucci,Jeans,7,1200,20500,5
+4246,Burberry,Suit,9,4500,5000,1
+4251,Saint Laurent,Suit,4,3500,2500,7
+4256,Armani,Dress,15,4500,2500,2
+4261,Dior,Pant Suit,13,1200,2500,3
+4266,Valentino,Dress,2,3500,2500,8
+4271,Louis Vuitton,Pant Suit,9,1000,15500,12
+4276,Gucci,Jeans,2,3500,15500,11
+4281,Burberry,Suit,5,2000,5000,11
+4286,Saint Laurent,Jeans,2,4500,2500,5
+4291,Armani,Pant Suit,4,500,15500,5
+4296,Dior,Jeans,12,2000,5000,3
+4301,Valentino,Pant Suit,2,4500,2500,7
+4306,Louis Vuitton,Suit,2,2000,10000,7
+4311,Gucci,Accessories,14,1200,15500,1
+4316,Burberry,Dress,13,2000,2500,4
+4321,Saint Laurent,Suit,13,1200,10000,4
+4326,Armani,Hand Bag,14,2000,20500,3
+4331,Dior,Pant Suit,2,2000,15500,9
+4336,Valentino,Accessories,12,2000,2500,11
+4341,Louis Vuitton,Pant Suit,6,500,6000,1
+4346,Gucci,Hand Bag,6,1200,2500,9
+4351,Burberry,Jeans,11,4500,15500,9
+4356,Saint Laurent,Pant Suit,6,500,20500,1
+4361,Armani,Pant Suit,8,4500,10000,12
+4366,Dior,Accessories,14,4500,5000,7
+4371,Valentino,Suit,12,2000,6000,12
+4376,Louis Vuitton,Suit,11,1000,6000,12
+4381,Gucci,Pant Suit,9,2000,5000,5
+4386,Burberry,Dress,12,2000,6000,6
+4391,Saint Laurent,Dress,7,500,20500,6
+4396,Armani,Jeans,0,1000,20500,7
+4401,Dior,Accessories,9,4500,6000,3
+4406,Valentino,Suit,10,2000,5000,12
+4411,Louis Vuitton,Jeans,1,2000,15500,8
+4416,Gucci,Dress,15,2000,5000,3
+4421,Burberry,Jeans,15,2000,6000,10
+4426,Saint Laurent,Pant Suit,10,1000,10000,7
+4431,Armani,Accessories,5,500,10000,10
+4436,Dior,Suit,11,1000,20500,5
+4441,Valentino,Pant Suit,5,1000,20500,6
+4446,Louis Vuitton,Hand Bag,5,2000,2500,6
+4451,Gucci,Hand Bag,8,3500,2500,2
+4456,Burberry,Suit,7,2000,2500,1
+4461,Saint Laurent,Dress,6,3500,2500,8
+4466,Armani,Suit,15,2000,5000,11
+4471,Dior,Jeans,12,4500,10000,12
+4476,Valentino,Accessories,7,1200,6000,11
+4481,Louis Vuitton,Pant Suit,0,500,10000,8
+4486,Gucci,Accessories,8,2000,6000,5
+4491,Burberry,Jeans,0,2000,5000,10
+4496,Saint Laurent,Jeans,10,1200,2500,5
+4501,Armani,Suit,3,1000,20500,4
+4506,Dior,Jeans,3,1200,15500,5
+4511,Valentino,Accessories,1,500,2500,5
+4516,Louis Vuitton,Accessories,1,500,2500,12
+4521,Gucci,Accessories,15,1200,5000,2
+4526,Burberry,Pant Suit,12,2000,6000,8
+4531,Saint Laurent,Pant Suit,0,4500,6000,6
+4536,Armani,Hand Bag,13,4500,20500,3
+4541,Dior,Dress,14,1200,5000,3
+4546,Valentino,Hand Bag,11,1200,10000,3
+4551,Louis Vuitton,Suit,0,1200,6000,6
+4556,Gucci,Pant Suit,12,1000,20500,11
+4561,Burberry,Pant Suit,7,500,2500,9
+4566,Saint Laurent,Pant Suit,13,4500,10000,12
+4571,Armani,Hand Bag,14,2000,10000,11
+4576,Dior,Jeans,4,500,10000,7
+4581,Valentino,Dress,6,3500,20500,4
+4586,Louis Vuitton,Accessories,8,3500,10000,2
+4591,Gucci,Pant Suit,11,500,2500,7
+4596,Burberry,Hand Bag,14,3500,5000,8
+4601,Saint Laurent,Accessories,14,1000,6000,8
+4606,Armani,Hand Bag,14,4500,6000,12
+4611,Dior,Hand Bag,12,1200,6000,1
+4616,Valentino,Jeans,8,1000,2500,11
+4621,Louis Vuitton,Dress,3,2000,5000,8
+4626,Gucci,Dress,10,500,20500,5
+4631,Burberry,Suit,3,3500,6000,2
+4636,Saint Laurent,Pant Suit,5,3500,10000,2
+4641,Armani,Hand Bag,3,1200,5000,8
+4646,Dior,Hand Bag,1,1200,5000,2
+4651,Valentino,Accessories,10,2000,10000,4
+4656,Louis Vuitton,Hand Bag,11,2000,15500,12
+4661,Gucci,Pant Suit,14,1000,2500,12
+4666,Burberry,Jeans,7,500,15500,5
+4671,Saint Laurent,Accessories,15,2000,6000,2
+4676,Armani,Dress,11,1000,6000,10
+4681,Dior,Hand Bag,14,4500,5000,7
+4686,Valentino,Jeans,1,2000,5000,6
+4691,Louis Vuitton,Hand Bag,10,1200,6000,4
+4696,Gucci,Jeans,7,1000,5000,3
+4701,Burberry,Dress,3,4500,20500,2
+4706,Saint Laurent,Jeans,5,2000,20500,11
+4711,Armani,Hand Bag,10,3500,2500,4
+4716,Dior,Jeans,9,4500,15500,10
+4721,Valentino,Accessories,3,500,20500,5
+4726,Louis Vuitton,Pant Suit,10,500,20500,7
+4731,Gucci,Hand Bag,7,3500,20500,10
+4736,Burberry,Pant Suit,0,500,10000,8
+4741,Saint Laurent,Suit,10,1000,15500,2
+4746,Armani,Dress,2,3500,2500,7
+4751,Dior,Jeans,12,4500,15500,9
+4756,Valentino,Hand Bag,1,1200,5000,3
+4761,Louis Vuitton,Pant Suit,4,500,5000,12
+4766,Gucci,Accessories,14,1000,15500,8
+4771,Burberry,Accessories,4,3500,15500,3
+4776,Saint Laurent,Hand Bag,1,1000,15500,7
+4781,Armani,Dress,3,1200,15500,2
+4786,Dior,Hand Bag,1,2000,10000,3
+4791,Valentino,Jeans,11,3500,10000,4
+4796,Louis Vuitton,Dress,15,2000,10000,1
+4801,Gucci,Pant Suit,7,4500,6000,10
+4806,Burberry,Dress,12,4500,5000,8
+4811,Saint Laurent,Pant Suit,10,1000,2500,12
+4816,Armani,Jeans,5,3500,2500,2
+4821,Dior,Dress,2,2000,5000,4
+4826,Valentino,Pant Suit,11,1000,2500,6
+4831,Louis Vuitton,Pant Suit,14,500,15500,8
+4836,Gucci,Dress,7,4500,15500,3
+4841,Burberry,Hand Bag,14,1200,20500,9
+4846,Saint Laurent,Pant Suit,11,4500,20500,7
+4851,Armani,Dress,12,2000,10000,10
+4856,Dior,Pant Suit,15,500,20500,2
+4861,Valentino,Pant Suit,4,2000,6000,10
+4866,Louis Vuitton,Accessories,7,1000,15500,9
+4871,Gucci,Suit,4,1200,15500,12
+4876,Burberry,Jeans,7,1000,20500,3
+4881,Saint Laurent,Dress,11,1000,20500,9
+4886,Armani,Jeans,2,3500,5000,7
+4891,Dior,Hand Bag,14,3500,20500,7
+4896,Valentino,Hand Bag,4,2000,2500,1
+4901,Louis Vuitton,Accessories,9,2000,20500,11
+4906,Gucci,Hand Bag,3,3500,20500,8
+4911,Burberry,Accessories,1,500,6000,8
+4916,Saint Laurent,Suit,0,3500,5000,4
+4921,Armani,Suit,4,2000,15500,10
+4926,Dior,Hand Bag,14,1000,20500,10
+4931,Valentino,Accessories,5,2000,2500,5
+4936,Louis Vuitton,Pant Suit,12,1200,20500,1
+4941,Gucci,Jeans,12,1000,2500,11
+4946,Burberry,Dress,15,1200,6000,2
+4951,Saint Laurent,Hand Bag,8,2000,2500,8
+4956,Armani,Hand Bag,12,1200,15500,5
+4961,Dior,Pant Suit,3,1000,10000,7
+4966,Valentino,Suit,7,2000,15500,8
+4971,Louis Vuitton,Accessories,4,4500,6000,4
+4976,Gucci,Jeans,10,3500,2500,5
+4981,Burberry,Dress,5,4500,20500,12
+4986,Saint Laurent,Dress,15,2000,5000,8
+4991,Armani,Suit,6,500,5000,6
+4996,Dior,Suit,2,2000,20500,2
+5001,Valentino,Pant Suit,0,2000,20500,2
+5006,Louis Vuitton,Hand Bag,5,2000,6000,8
+5011,Gucci,Suit,10,3500,15500,1
+5016,Burberry,Hand Bag,0,3500,15500,2
+5021,Saint Laurent,Accessories,13,1000,20500,5
+5026,Armani,Accessories,6,4500,6000,11
+5031,Dior,Jeans,7,4500,5000,9
+5036,Valentino,Jeans,11,500,5000,10
+5041,Louis Vuitton,Hand Bag,7,4500,15500,3
+5046,Gucci,Jeans,11,3500,10000,7
+5051,Burberry,Jeans,3,2000,6000,1
+5056,Saint Laurent,Dress,9,4500,2500,8
+5061,Armani,Hand Bag,11,500,20500,2
+5066,Dior,Pant Suit,8,1000,2500,6
+5071,Valentino,Hand Bag,8,500,6000,9
+5076,Louis Vuitton,Dress,10,1000,5000,10
+5081,Gucci,Hand Bag,11,2000,6000,4
+5086,Burberry,Jeans,2,1200,15500,7
+5091,Saint Laurent,Hand Bag,9,2000,20500,10
+5096,Armani,Dress,2,3500,10000,7
+5101,Dior,Dress,10,3500,20500,9
+5106,Valentino,Jeans,2,4500,10000,9
+5111,Louis Vuitton,Pant Suit,5,1200,15500,6
+5116,Gucci,Hand Bag,4,4500,5000,3
+5121,Burberry,Pant Suit,13,3500,15500,3
+5126,Saint Laurent,Accessories,13,500,15500,7
+5131,Armani,Jeans,2,3500,5000,1
+5136,Dior,Pant Suit,12,2000,6000,3
+5141,Valentino,Hand Bag,14,2000,2500,12
+5146,Louis Vuitton,Pant Suit,9,1200,20500,6
+5151,Gucci,Pant Suit,0,2000,10000,4
+5156,Burberry,Hand Bag,0,1000,2500,6
+5161,Saint Laurent,Hand Bag,6,1000,5000,2
+5166,Armani,Hand Bag,12,4500,15500,7
+5171,Dior,Hand Bag,11,500,5000,2
+5176,Valentino,Dress,14,2000,6000,8
+5181,Louis Vuitton,Jeans,6,1200,2500,11
+5186,Gucci,Hand Bag,3,1000,10000,1
+5191,Burberry,Jeans,11,2000,5000,11
+5196,Saint Laurent,Suit,5,4500,20500,11
+5201,Armani,Dress,10,1000,6000,3
+5206,Dior,Jeans,8,1000,2500,3
+5211,Valentino,Jeans,2,1200,15500,6
+5216,Louis Vuitton,Jeans,7,1000,6000,7
+5221,Gucci,Jeans,11,500,10000,11
+5226,Burberry,Pant Suit,12,500,2500,2
+5231,Saint Laurent,Suit,15,2000,5000,12
+5236,Armani,Suit,0,1000,5000,3
+5241,Dior,Dress,7,1200,10000,6
+5246,Valentino,Suit,4,2000,6000,1
+5251,Louis Vuitton,Dress,1,1200,5000,5
+5256,Gucci,Dress,2,2000,15500,8
+5261,Burberry,Hand Bag,12,3500,15500,4
+5266,Saint Laurent,Pant Suit,8,3500,2500,11
+5271,Armani,Pant Suit,14,1000,2500,11
+5276,Dior,Pant Suit,14,500,10000,6
+5281,Valentino,Dress,4,2000,15500,3
+5286,Louis Vuitton,Hand Bag,9,500,5000,5
+5291,Gucci,Pant Suit,2,3500,10000,6
+5296,Burberry,Dress,11,1000,10000,11
+5301,Saint Laurent,Accessories,14,3500,20500,9
+5306,Armani,Accessories,0,4500,20500,1
+5311,Dior,Suit,4,2000,10000,7
+5316,Valentino,Jeans,1,2000,15500,8
+5321,Louis Vuitton,Accessories,0,4500,6000,3
+5326,Gucci,Pant Suit,9,1000,15500,6
+5331,Burberry,Dress,14,1000,20500,8
+5336,Saint Laurent,Pant Suit,12,3500,15500,9
+5341,Armani,Accessories,8,2000,6000,7
+5346,Dior,Jeans,12,1000,15500,8
+5351,Valentino,Accessories,3,4500,5000,3
+5356,Louis Vuitton,Accessories,1,1200,5000,3
+5361,Gucci,Jeans,0,1000,10000,7
+5366,Burberry,Dress,10,500,15500,8
+5371,Saint Laurent,Suit,13,4500,20500,10
+5376,Armani,Suit,15,1000,10000,6
+5381,Dior,Pant Suit,2,500,20500,9
+5386,Valentino,Pant Suit,2,1000,6000,1
+5391,Louis Vuitton,Hand Bag,8,500,15500,8
+5396,Gucci,Pant Suit,2,2000,15500,6
+5401,Burberry,Hand Bag,2,1000,20500,3
+5406,Saint Laurent,Accessories,15,4500,5000,3
+5411,Armani,Dress,10,500,2500,6
+5416,Dior,Jeans,11,500,20500,4
+5421,Valentino,Pant Suit,11,3500,2500,6
+5426,Louis Vuitton,Dress,3,2000,2500,11
+5431,Gucci,Jeans,8,1200,20500,11
+5436,Burberry,Pant Suit,1,1200,6000,9
+5441,Saint Laurent,Jeans,13,4500,6000,11
+5446,Armani,Hand Bag,9,4500,20500,8
+5451,Dior,Pant Suit,8,2000,10000,3
+5456,Valentino,Jeans,5,4500,20500,10
+5461,Louis Vuitton,Suit,12,500,5000,12
+5466,Gucci,Pant Suit,15,500,2500,10
+5471,Burberry,Suit,14,3500,20500,3
+5476,Saint Laurent,Hand Bag,12,2000,6000,4
+5481,Armani,Jeans,7,2000,10000,7
+5486,Dior,Jeans,12,2000,10000,3
+5491,Valentino,Accessories,2,4500,2500,1
+5496,Louis Vuitton,Dress,15,500,5000,3
+5501,Gucci,Accessories,11,500,10000,5
+5506,Burberry,Dress,14,500,15500,4
+5511,Saint Laurent,Jeans,6,3500,20500,1
+5516,Armani,Dress,6,1200,15500,4
+5521,Dior,Jeans,0,3500,20500,8
+5526,Valentino,Dress,0,3500,6000,12
+5531,Louis Vuitton,Hand Bag,14,1000,6000,8
+5536,Gucci,Suit,11,1000,10000,5
+5541,Burberry,Pant Suit,14,1200,2500,5
+5546,Saint Laurent,Pant Suit,2,1200,2500,9
+5551,Armani,Jeans,10,500,15500,12
+5556,Dior,Accessories,13,3500,20500,5
+5561,Valentino,Dress,4,3500,10000,12
+5566,Louis Vuitton,Jeans,1,2000,6000,7
+5571,Gucci,Accessories,4,3500,6000,9
+5576,Burberry,Dress,12,3500,20500,2
+5581,Saint Laurent,Pant Suit,8,1200,15500,5
+5586,Armani,Jeans,11,2000,15500,3
+5591,Dior,Jeans,11,1000,5000,3
+5596,Valentino,Hand Bag,1,500,20500,5
+5601,Louis Vuitton,Pant Suit,15,1000,10000,6
+5606,Gucci,Accessories,9,2000,20500,10
+5611,Burberry,Pant Suit,2,1000,20500,6
+5616,Saint Laurent,Suit,12,4500,20500,3
+5621,Armani,Pant Suit,1,3500,6000,1
+5626,Dior,Jeans,14,2000,5000,7
+5631,Valentino,Dress,6,1000,15500,12
+5636,Louis Vuitton,Hand Bag,7,2000,15500,11
+5641,Gucci,Accessories,4,4500,20500,8
+5646,Burberry,Accessories,13,2000,6000,12
+5651,Saint Laurent,Accessories,3,3500,10000,4
+5656,Armani,Hand Bag,6,1000,20500,10
+5661,Dior,Suit,7,1000,5000,7
+5666,Valentino,Dress,13,1000,5000,5
+5671,Louis Vuitton,Accessories,6,2000,15500,9
+5676,Gucci,Jeans,11,1200,6000,11
+5681,Burberry,Suit,8,1000,15500,10
+5686,Saint Laurent,Dress,1,1200,10000,1
+5691,Armani,Suit,14,3500,6000,1
+5696,Dior,Hand Bag,14,2000,20500,6
+5701,Valentino,Jeans,5,3500,5000,6
+5706,Louis Vuitton,Hand Bag,14,4500,10000,4
+5711,Gucci,Hand Bag,0,500,6000,12
+5716,Burberry,Pant Suit,4,4500,5000,2
+5721,Saint Laurent,Hand Bag,13,4500,2500,5
+5726,Armani,Accessories,1,1200,15500,5
+5731,Dior,Accessories,1,4500,15500,5
+5736,Valentino,Accessories,6,1000,10000,9
+5741,Louis Vuitton,Dress,14,500,2500,6
+5746,Gucci,Accessories,12,2000,2500,8
+5751,Burberry,Accessories,13,500,5000,7
+5756,Saint Laurent,Dress,15,2000,20500,10
+5761,Armani,Jeans,13,3500,2500,1
+5766,Dior,Pant Suit,14,4500,2500,4
+5771,Valentino,Pant Suit,12,3500,6000,4
+5776,Louis Vuitton,Jeans,13,500,6000,10
+5781,Gucci,Pant Suit,4,3500,10000,9
+5786,Burberry,Jeans,10,500,5000,3
+5791,Saint Laurent,Pant Suit,1,3500,2500,9
+5796,Armani,Accessories,4,3500,10000,2
+5801,Dior,Suit,13,4500,20500,6
+5806,Valentino,Dress,15,2000,15500,2
+5811,Louis Vuitton,Accessories,5,2000,10000,9
+5816,Gucci,Dress,10,4500,6000,10
+5821,Burberry,Suit,11,2000,15500,11
+5826,Saint Laurent,Jeans,3,4500,6000,9
+5831,Armani,Jeans,13,1000,20500,1
+5836,Dior,Pant Suit,11,500,2500,4
+5841,Valentino,Hand Bag,11,1200,15500,2
+5846,Louis Vuitton,Dress,12,1000,10000,11
+5851,Gucci,Dress,4,4500,6000,8
+5856,Burberry,Dress,8,500,2500,1
+5861,Saint Laurent,Pant Suit,5,3500,6000,12
+5866,Armani,Suit,4,2000,2500,4
+5871,Dior,Accessories,12,1200,2500,4
+5876,Valentino,Jeans,7,1200,6000,4
+5881,Louis Vuitton,Hand Bag,4,1200,2500,9
+5886,Gucci,Hand Bag,14,500,10000,1
+5891,Burberry,Jeans,14,3500,10000,12
+5896,Saint Laurent,Hand Bag,9,1200,6000,6
+5901,Armani,Dress,12,500,6000,1
+5906,Dior,Suit,4,3500,15500,7
+5911,Valentino,Accessories,5,4500,2500,11
+5916,Louis Vuitton,Suit,10,1000,2500,9
+5921,Gucci,Accessories,5,1000,15500,2
+5926,Burberry,Hand Bag,13,3500,2500,6
+5931,Saint Laurent,Hand Bag,10,4500,6000,7
+5936,Armani,Suit,7,2000,15500,2
+5941,Dior,Suit,0,2000,6000,12
+5946,Valentino,Hand Bag,6,1200,10000,3
+5951,Louis Vuitton,Jeans,4,3500,15500,3
+5956,Gucci,Suit,5,3500,5000,9
+5961,Burberry,Suit,13,1000,5000,7
+5966,Saint Laurent,Hand Bag,13,2000,10000,1
+5971,Armani,Accessories,2,500,5000,4
+5976,Dior,Pant Suit,0,3500,15500,4
+5981,Valentino,Accessories,2,500,2500,5
+5986,Louis Vuitton,Hand Bag,15,3500,6000,2
+5991,Gucci,Dress,11,1200,15500,6
+5996,Burberry,Pant Suit,12,1000,5000,3
+1001,Armani,Jeans,5,2000,20500,9
+1006,Dior,Hand Bag,6,2000,15500,2
+1011,Valentino,Accessories,7,2000,5000,6
+1016,Louis Vuitton,Dress,2,4500,10000,9
+1021,Gucci,Dress,0,1000,20500,12
+1026,Burberry,Dress,3,500,10000,3
+1031,Saint Laurent,Suit,4,4500,5000,8
+1036,Armani,Hand Bag,7,500,20500,8
+1041,Dior,Pant Suit,5,500,6000,2
+1046,Valentino,Hand Bag,3,2000,15500,9
+1051,Louis Vuitton,Jeans,5,2000,20500,11
+1056,Gucci,Accessories,14,500,6000,10
+1061,Burberry,Jeans,9,2000,2500,2
+1066,Saint Laurent,Accessories,8,1000,10000,4
+1071,Armani,Suit,9,1200,5000,1
+1076,Dior,Dress,3,2000,20500,11
+1081,Valentino,Hand Bag,15,1200,2500,3
+1086,Louis Vuitton,Accessories,0,3500,6000,8
+1091,Gucci,Dress,14,2000,5000,5
+1096,Burberry,Dress,9,1200,15500,3
+1101,Saint Laurent,Accessories,11,1200,20500,7
+1106,Armani,Pant Suit,12,500,15500,8
+1111,Dior,Dress,11,3500,2500,5
+1116,Valentino,Pant Suit,12,4500,10000,11
+1121,Louis Vuitton,Dress,14,1200,2500,7
+1126,Gucci,Hand Bag,11,500,10000,11
+1131,Burberry,Jeans,10,4500,20500,5
+1136,Saint Laurent,Dress,10,1000,2500,2
+1141,Armani,Suit,10,500,10000,10
+1146,Dior,Pant Suit,10,2000,6000,12
+1151,Valentino,Pant Suit,13,4500,5000,6
+1156,Louis Vuitton,Jeans,11,500,20500,9
+1161,Gucci,Pant Suit,6,1000,20500,3
+1166,Burberry,Hand Bag,4,2000,2500,8
+1171,Saint Laurent,Accessories,10,4500,2500,7
+1176,Armani,Dress,8,4500,10000,10
+1181,Dior,Suit,4,4500,20500,9
+1186,Valentino,Hand Bag,9,2000,15500,8
+1191,Louis Vuitton,Hand Bag,6,3500,2500,11
+1196,Gucci,Accessories,13,4500,20500,3
+1201,Burberry,Hand Bag,8,3500,15500,12
+1206,Saint Laurent,Dress,9,4500,5000,12
+1211,Armani,Hand Bag,2,3500,20500,9
+1216,Dior,Suit,12,2000,6000,1
+1221,Valentino,Suit,11,3500,10000,1
+1226,Louis Vuitton,Suit,1,4500,2500,2
+1231,Gucci,Hand Bag,14,500,15500,5
+1236,Burberry,Jeans,10,500,2500,2
+1241,Saint Laurent,Pant Suit,9,2000,10000,5
+1246,Armani,Accessories,6,500,5000,6
+1251,Dior,Pant Suit,4,2000,15500,1
+1256,Valentino,Jeans,4,3500,10000,4
+1261,Louis Vuitton,Hand Bag,6,3500,2500,4
+1266,Gucci,Pant Suit,3,1200,6000,6
+1271,Burberry,Pant Suit,5,4500,2500,11
+1276,Saint Laurent,Dress,6,1000,20500,5
+1281,Armani,Suit,1,4500,15500,1
+1286,Dior,Accessories,12,2000,5000,4
+1291,Valentino,Hand Bag,10,2000,10000,1
+1296,Louis Vuitton,Hand Bag,3,2000,5000,6
+1301,Gucci,Accessories,2,500,2500,6
+1306,Burberry,Jeans,10,4500,2500,1
+1311,Saint Laurent,Pant Suit,5,1200,2500,5
+1316,Armani,Accessories,7,3500,20500,7
+1321,Dior,Dress,7,500,10000,8
+1326,Valentino,Jeans,2,1200,20500,9
+1331,Louis Vuitton,Hand Bag,6,500,5000,10
+1336,Gucci,Dress,0,1200,10000,11
+1341,Burberry,Pant Suit,11,500,5000,10
+1346,Saint Laurent,Dress,1,500,5000,12
+1351,Armani,Dress,7,1200,15500,9
+1356,Dior,Accessories,11,500,6000,6
+1361,Valentino,Hand Bag,7,2000,10000,12
+1366,Louis Vuitton,Pant Suit,4,1200,2500,2
+1371,Gucci,Dress,3,4500,20500,4
+1376,Burberry,Accessories,13,4500,15500,12
+1381,Saint Laurent,Pant Suit,2,500,20500,3
+1386,Armani,Accessories,13,4500,10000,5
+1391,Dior,Accessories,0,1000,15500,8
+1396,Valentino,Jeans,0,1200,15500,6
+1401,Louis Vuitton,Accessories,7,1200,6000,8
+1406,Gucci,Suit,12,2000,10000,8
+1411,Burberry,Dress,11,500,15500,2
+1416,Saint Laurent,Jeans,2,4500,20500,8
+1421,Armani,Hand Bag,6,2000,2500,1
+1426,Dior,Dress,3,500,2500,12
+1431,Valentino,Hand Bag,14,4500,10000,11
+1436,Louis Vuitton,Accessories,15,500,5000,5
+1441,Gucci,Hand Bag,10,4500,2500,4
+1446,Burberry,Jeans,4,3500,2500,9
+1451,Saint Laurent,Hand Bag,1,2000,2500,12
+1456,Armani,Hand Bag,12,1000,10000,11
+1461,Dior,Hand Bag,6,2000,20500,1
+1466,Valentino,Hand Bag,7,4500,6000,4
+1471,Louis Vuitton,Accessories,0,1000,2500,1
+1476,Gucci,Dress,7,1200,20500,1
+1481,Burberry,Hand Bag,1,500,20500,1
+1486,Saint Laurent,Dress,6,4500,2500,5
+1491,Armani,Dress,5,4500,5000,6
+1496,Dior,Pant Suit,2,1200,2500,4
+1501,Valentino,Accessories,9,2000,10000,3
+1506,Louis Vuitton,Suit,12,4500,6000,2
+1511,Gucci,Dress,8,500,10000,5
+1516,Burberry,Accessories,2,1200,10000,3
+1521,Saint Laurent,Pant Suit,11,500,15500,7
+1526,Armani,Suit,9,1200,15500,7
+1531,Dior,Jeans,1,2000,5000,11
+1536,Valentino,Suit,12,500,10000,6
+1541,Louis Vuitton,Accessories,14,500,15500,2
+1546,Gucci,Accessories,13,3500,10000,10
+1551,Burberry,Jeans,1,4500,2500,7
+1556,Saint Laurent,Suit,3,1000,5000,1
+1561,Armani,Jeans,13,1200,6000,12
+1566,Dior,Jeans,9,500,10000,10
+1571,Valentino,Hand Bag,1,1200,2500,2
+1576,Louis Vuitton,Jeans,0,4500,10000,9
+1581,Gucci,Pant Suit,0,4500,10000,12
+1586,Burberry,Pant Suit,9,4500,15500,4
+1591,Saint Laurent,Suit,11,1200,15500,5
+1596,Armani,Hand Bag,6,1200,6000,1
+1601,Dior,Jeans,8,500,20500,9
+1606,Valentino,Jeans,2,1000,10000,5
+1611,Louis Vuitton,Accessories,1,500,10000,2
+1616,Gucci,Accessories,11,2000,20500,11
+1621,Burberry,Hand Bag,6,1200,20500,8
+1626,Saint Laurent,Dress,10,500,20500,3
+1631,Armani,Hand Bag,4,1200,15500,5
+1636,Dior,Suit,5,2000,10000,10
+1641,Valentino,Pant Suit,6,2000,20500,12
+1646,Louis Vuitton,Hand Bag,5,1200,20500,1
+1651,Gucci,Hand Bag,10,3500,2500,11
+1656,Burberry,Pant Suit,0,1200,6000,3
+1661,Saint Laurent,Accessories,6,1000,5000,11
+1666,Armani,Suit,9,4500,15500,6
+1671,Dior,Pant Suit,15,2000,2500,6
+1676,Valentino,Pant Suit,6,1200,20500,2
+1681,Louis Vuitton,Jeans,1,4500,6000,2
+1686,Gucci,Dress,14,2000,6000,6
+1691,Burberry,Dress,3,3500,5000,7
+1696,Saint Laurent,Accessories,1,500,15500,1
+1701,Armani,Accessories,8,4500,2500,11
+1706,Dior,Dress,4,4500,15500,2
+1711,Valentino,Suit,8,4500,10000,6
+1716,Louis Vuitton,Suit,9,1200,5000,7
+1721,Gucci,Jeans,14,500,5000,7
+1726,Burberry,Pant Suit,2,1200,5000,8
+1731,Saint Laurent,Dress,15,1000,20500,7
+1736,Armani,Hand Bag,10,1000,15500,2
+1741,Dior,Dress,1,3500,15500,10
+1746,Valentino,Pant Suit,1,1200,20500,10
+1751,Louis Vuitton,Dress,4,1000,15500,10
+1756,Gucci,Pant Suit,10,1000,6000,11
+1761,Burberry,Pant Suit,11,1200,6000,9
+1766,Saint Laurent,Accessories,14,500,10000,2
+1771,Armani,Pant Suit,7,1000,5000,11
+1776,Dior,Accessories,12,3500,6000,9
+1781,Valentino,Jeans,2,500,15500,10
+1786,Louis Vuitton,Jeans,4,1200,5000,8
+1791,Gucci,Accessories,14,3500,20500,1
+1796,Burberry,Hand Bag,13,1200,15500,2
+1801,Saint Laurent,Pant Suit,12,4500,6000,10
+1806,Armani,Suit,4,1200,10000,3
+1811,Dior,Dress,3,1000,6000,8
+1816,Valentino,Dress,7,500,15500,12
+1821,Louis Vuitton,Accessories,13,2000,15500,12
+1826,Gucci,Accessories,2,4500,20500,10
+1831,Burberry,Accessories,0,3500,5000,7
+1836,Saint Laurent,Suit,9,2000,6000,1
+1841,Armani,Accessories,1,500,10000,3
+1846,Dior,Accessories,0,2000,2500,12
+1851,Valentino,Dress,3,1000,20500,2
+1856,Louis Vuitton,Suit,11,2000,20500,12
+1861,Gucci,Hand Bag,8,3500,2500,9
+1866,Burberry,Suit,13,1200,15500,3
+1871,Saint Laurent,Jeans,15,1000,20500,1
+1876,Armani,Pant Suit,7,500,5000,4
+1881,Dior,Hand Bag,8,1000,2500,2
+1886,Valentino,Dress,4,1200,2500,7
+1891,Louis Vuitton,Jeans,14,2000,5000,10
+1896,Gucci,Dress,2,4500,6000,8
+1901,Burberry,Dress,13,1200,6000,4
+1906,Saint Laurent,Pant Suit,13,4500,20500,4
+1911,Armani,Jeans,9,500,15500,3
+1916,Dior,Dress,0,1000,5000,10
+1921,Valentino,Pant Suit,8,2000,15500,6
+1926,Louis Vuitton,Hand Bag,12,1200,2500,9
+1931,Gucci,Hand Bag,1,2000,5000,10
+1936,Burberry,Hand Bag,12,1000,10000,6
+1941,Saint Laurent,Jeans,12,500,15500,1
+1946,Armani,Hand Bag,6,2000,10000,1
+1951,Dior,Suit,15,500,20500,11
+1956,Valentino,Pant Suit,4,3500,10000,2
+1961,Louis Vuitton,Hand Bag,12,3500,20500,4
+1966,Gucci,Suit,2,500,5000,7
+1971,Burberry,Hand Bag,6,4500,2500,1
+1976,Saint Laurent,Accessories,7,1200,6000,4
+1981,Armani,Jeans,4,1000,15500,1
+1986,Dior,Pant Suit,7,500,15500,7
+1991,Valentino,Accessories,10,1200,5000,12
+1996,Louis Vuitton,Dress,9,1200,5000,8
+2001,Gucci,Jeans,7,4500,20500,2
+2006,Burberry,Suit,7,2000,15500,4
+2011,Saint Laurent,Jeans,8,4500,5000,9
+2016,Armani,Pant Suit,5,1200,6000,11
+2021,Dior,Jeans,1,1200,5000,5
+2026,Valentino,Jeans,11,3500,15500,7
+2031,Louis Vuitton,Pant Suit,15,1000,10000,4
+2036,Gucci,Suit,9,2000,15500,1
+2041,Burberry,Accessories,12,4500,2500,12
+2046,Saint Laurent,Dress,3,500,6000,2
+2051,Armani,Suit,10,3500,20500,11
+2056,Dior,Accessories,1,3500,6000,11
+2061,Valentino,Jeans,2,500,15500,6
+2066,Louis Vuitton,Suit,0,1000,10000,1
+2071,Gucci,Dress,3,3500,20500,5
+2076,Burberry,Jeans,14,4500,20500,8
+2081,Saint Laurent,Hand Bag,3,1200,20500,9
+2086,Armani,Accessories,4,2000,10000,3
+2091,Dior,Dress,9,500,2500,12
+2096,Valentino,Accessories,1,500,15500,12
+2101,Louis Vuitton,Suit,2,1000,15500,7
+2106,Gucci,Pant Suit,3,500,15500,6
+2111,Burberry,Pant Suit,11,2000,20500,5
+2116,Saint Laurent,Jeans,7,1000,20500,2
+2121,Armani,Hand Bag,7,500,5000,12
+2126,Dior,Pant Suit,4,1000,2500,12
+2131,Valentino,Hand Bag,3,1000,5000,2
+2136,Louis Vuitton,Hand Bag,10,2000,6000,10
+2141,Gucci,Hand Bag,15,1200,15500,8
+2146,Burberry,Jeans,8,1200,20500,6
+2151,Saint Laurent,Hand Bag,2,500,10000,4
+2156,Armani,Hand Bag,15,3500,6000,4
+2161,Dior,Dress,15,500,5000,2
+2166,Valentino,Pant Suit,7,1000,5000,2
+2171,Louis Vuitton,Pant Suit,4,3500,5000,2
+2176,Gucci,Dress,4,500,10000,11
+2181,Burberry,Pant Suit,6,4500,20500,2
+2186,Saint Laurent,Jeans,1,4500,6000,5
+2191,Armani,Hand Bag,0,3500,15500,8
+2196,Dior,Accessories,1,2000,10000,10
+2201,Valentino,Suit,5,4500,10000,4
+2206,Louis Vuitton,Hand Bag,0,2000,10000,8
+2211,Gucci,Hand Bag,7,1000,6000,7
+2216,Burberry,Dress,6,1200,5000,3
+2221,Saint Laurent,Jeans,3,500,5000,8
+2226,Armani,Accessories,7,2000,15500,2
+2231,Dior,Accessories,7,3500,6000,12
+2236,Valentino,Suit,9,3500,10000,10
+2241,Louis Vuitton,Accessories,3,1200,6000,7
+2246,Gucci,Dress,15,3500,15500,12
+2251,Burberry,Jeans,10,1000,6000,2
+2256,Saint Laurent,Hand Bag,3,2000,6000,4
+2261,Armani,Pant Suit,6,500,10000,9
+2266,Dior,Suit,6,1000,2500,7
+2271,Valentino,Suit,4,1200,2500,7
+2276,Louis Vuitton,Accessories,2,1000,6000,1
+2281,Gucci,Jeans,5,3500,10000,7
+2286,Burberry,Suit,15,500,2500,12
+2291,Saint Laurent,Accessories,0,4500,15500,5
+2296,Armani,Hand Bag,1,1000,5000,10
+2301,Dior,Jeans,7,4500,2500,5
+2306,Valentino,Dress,13,4500,20500,9
+2311,Louis Vuitton,Pant Suit,12,500,5000,3
+2316,Gucci,Hand Bag,9,4500,6000,5
+2321,Burberry,Dress,8,500,2500,7
+2326,Saint Laurent,Hand Bag,8,2000,20500,3
+2331,Armani,Accessories,11,3500,2500,3
+2336,Dior,Pant Suit,5,2000,6000,1
+2341,Valentino,Hand Bag,5,4500,15500,3
+2346,Louis Vuitton,Hand Bag,1,4500,6000,2
+2351,Gucci,Dress,7,1000,10000,4
+2356,Burberry,Accessories,9,500,15500,2
+2361,Saint Laurent,Jeans,8,1000,20500,10
+2366,Armani,Dress,4,1000,5000,5
+2371,Dior,Pant Suit,5,4500,20500,5
+2376,Valentino,Accessories,4,1200,5000,4
+2381,Louis Vuitton,Dress,6,1000,20500,8
+2386,Gucci,Dress,1,4500,6000,3
+2391,Burberry,Suit,0,4500,5000,1
+2396,Saint Laurent,Accessories,10,2000,20500,7
+2401,Armani,Hand Bag,10,500,10000,5
+2406,Dior,Suit,5,3500,5000,7
+2411,Valentino,Jeans,4,500,6000,11
+2416,Louis Vuitton,Pant Suit,8,2000,6000,5
+2421,Gucci,Pant Suit,2,4500,15500,3
+2426,Burberry,Hand Bag,15,2000,15500,9
+2431,Saint Laurent,Suit,6,2000,6000,11
+2436,Armani,Pant Suit,6,3500,15500,4
+2441,Dior,Pant Suit,6,1200,15500,12
+2446,Valentino,Suit,11,4500,2500,7
+2451,Louis Vuitton,Dress,5,4500,10000,12
+2456,Gucci,Hand Bag,8,1200,5000,10
+2461,Burberry,Jeans,1,2000,6000,10
+2466,Saint Laurent,Accessories,9,1000,15500,4
+2471,Armani,Pant Suit,15,3500,20500,5
+2476,Dior,Jeans,13,3500,20500,8
+2481,Valentino,Suit,15,3500,10000,6
+2486,Louis Vuitton,Suit,9,500,15500,5
+2491,Gucci,Accessories,12,2000,5000,2
+2496,Burberry,Hand Bag,8,3500,6000,11
+2501,Saint Laurent,Hand Bag,3,2000,10000,9
+2506,Armani,Dress,7,500,20500,3
+2511,Dior,Hand Bag,2,3500,6000,1
+2516,Valentino,Pant Suit,0,500,2500,11
+2521,Louis Vuitton,Pant Suit,12,4500,6000,7
+2526,Gucci,Hand Bag,14,1000,5000,7
+2531,Burberry,Dress,13,1000,6000,1
+2536,Saint Laurent,Pant Suit,8,4500,2500,3
+2541,Armani,Hand Bag,12,1200,10000,4
+2546,Dior,Suit,4,500,6000,3
+2551,Valentino,Suit,12,2000,6000,5
+2556,Louis Vuitton,Pant Suit,7,2000,20500,8
+2561,Gucci,Pant Suit,12,1000,5000,12
+2566,Burberry,Accessories,1,2000,15500,1
+2571,Saint Laurent,Hand Bag,0,4500,2500,3
+2576,Armani,Hand Bag,13,1200,20500,11
+2581,Dior,Dress,11,1000,10000,12
+2586,Valentino,Accessories,6,500,10000,2
+2591,Louis Vuitton,Hand Bag,6,2000,5000,5
+2596,Gucci,Hand Bag,10,3500,2500,7
+2601,Burberry,Jeans,1,500,6000,8
+2606,Saint Laurent,Pant Suit,5,3500,10000,3
+2611,Armani,Suit,14,500,6000,2
+2616,Dior,Suit,14,1000,2500,6
+2621,Valentino,Suit,5,4500,2500,3
+2626,Louis Vuitton,Jeans,14,3500,5000,3
+2631,Gucci,Pant Suit,7,1000,6000,7
+2636,Burberry,Hand Bag,3,1200,2500,2
+2641,Saint Laurent,Dress,1,1000,6000,3
+2646,Armani,Suit,1,2000,20500,6
+2651,Dior,Pant Suit,2,4500,15500,2
+2656,Valentino,Pant Suit,13,1000,10000,10
+2661,Louis Vuitton,Dress,11,4500,2500,1
+2666,Gucci,Dress,14,4500,20500,2
+2671,Burberry,Hand Bag,1,1200,5000,6
+2676,Saint Laurent,Suit,1,1200,2500,1
+2681,Armani,Hand Bag,11,500,20500,2
+2686,Dior,Suit,5,3500,2500,1
+2691,Valentino,Hand Bag,5,1200,10000,8
+2696,Louis Vuitton,Suit,4,4500,10000,8
+2701,Gucci,Accessories,11,3500,6000,11
+2706,Burberry,Jeans,6,1000,15500,5
+2711,Saint Laurent,Jeans,9,500,20500,6
+2716,Armani,Hand Bag,0,1000,6000,4
+2721,Dior,Hand Bag,3,2000,15500,7
+2726,Valentino,Accessories,10,1000,15500,8
+2731,Louis Vuitton,Accessories,0,1200,10000,6
+2736,Gucci,Jeans,7,1000,5000,3
+2741,Burberry,Jeans,10,4500,5000,10
+2746,Saint Laurent,Hand Bag,13,4500,6000,11
+2751,Armani,Hand Bag,9,4500,20500,12
+2756,Dior,Hand Bag,6,1200,6000,1
+2761,Valentino,Hand Bag,1,4500,15500,7
+2766,Louis Vuitton,Jeans,6,2000,20500,7
+2771,Gucci,Dress,14,2000,2500,12
+2776,Burberry,Dress,7,500,2500,4
+2781,Saint Laurent,Dress,1,500,20500,1
+2786,Armani,Hand Bag,7,500,20500,6
+2791,Dior,Dress,1,2000,20500,9
+2796,Valentino,Accessories,11,4500,2500,4
+2801,Louis Vuitton,Jeans,5,1000,6000,10
+2806,Gucci,Pant Suit,10,4500,15500,12
+2811,Burberry,Accessories,12,3500,2500,3
+2816,Saint Laurent,Jeans,2,4500,5000,5
+2821,Armani,Suit,11,4500,2500,3
+2826,Dior,Dress,1,500,10000,1
+2831,Valentino,Dress,3,1000,15500,10
+2836,Louis Vuitton,Hand Bag,12,1000,20500,11
+2841,Gucci,Hand Bag,12,3500,2500,11
+2846,Burberry,Jeans,11,1000,15500,1
+2851,Saint Laurent,Accessories,13,500,2500,5
+2856,Armani,Suit,7,3500,2500,11
+2861,Dior,Jeans,15,1200,6000,2
+2866,Valentino,Hand Bag,7,1000,6000,12
+2871,Louis Vuitton,Jeans,2,1200,5000,11
+2876,Gucci,Dress,0,1000,6000,7
+2881,Burberry,Dress,14,500,6000,6
+2886,Saint Laurent,Hand Bag,8,500,15500,2
+2891,Armani,Pant Suit,2,3500,10000,9
+2896,Dior,Suit,1,1200,2500,9
+2901,Valentino,Hand Bag,2,4500,5000,5
+2906,Louis Vuitton,Hand Bag,0,500,5000,8
+2911,Gucci,Jeans,3,2000,5000,5
+2916,Burberry,Dress,15,1000,10000,12
+2921,Saint Laurent,Accessories,11,1000,20500,12
+2926,Armani,Jeans,5,1200,5000,3
+2931,Dior,Accessories,7,4500,6000,7
+2936,Valentino,Accessories,8,4500,10000,3
+2941,Louis Vuitton,Pant Suit,10,2000,5000,3
+2946,Gucci,Suit,13,3500,20500,5
+2951,Burberry,Hand Bag,4,1000,20500,1
+2956,Saint Laurent,Suit,12,1000,20500,5
+2961,Armani,Suit,6,3500,15500,7
+2966,Dior,Pant Suit,5,3500,15500,12
+2971,Valentino,Dress,15,500,5000,1
+2976,Louis Vuitton,Dress,9,500,2500,12
+2981,Gucci,Jeans,10,500,10000,10
+2986,Burberry,Pant Suit,9,1000,20500,1
+2991,Saint Laurent,Pant Suit,14,1200,20500,3
+2996,Armani,Dress,1,1000,6000,1
+3001,Dior,Accessories,10,1200,5000,1
+3006,Valentino,Jeans,10,500,6000,11
+3011,Louis Vuitton,Hand Bag,9,3500,20500,11
+3016,Gucci,Pant Suit,13,3500,15500,9
+3021,Burberry,Pant Suit,11,4500,5000,6
+3026,Saint Laurent,Jeans,11,4500,20500,5
+3031,Armani,Hand Bag,0,4500,5000,4
+3036,Dior,Jeans,3,3500,5000,2
+3041,Valentino,Suit,2,500,20500,11
+3046,Louis Vuitton,Dress,1,4500,2500,7
+3051,Gucci,Jeans,0,500,15500,3
+3056,Burberry,Jeans,4,500,6000,9
+3061,Saint Laurent,Hand Bag,6,1200,10000,1
+3066,Armani,Dress,10,2000,15500,11
+3071,Dior,Suit,4,1000,20500,4
+3076,Valentino,Suit,8,3500,6000,5
+3081,Louis Vuitton,Dress,8,3500,2500,4
+3086,Gucci,Accessories,15,3500,10000,12
+3091,Burberry,Suit,12,1200,10000,3
+3096,Saint Laurent,Jeans,7,500,15500,9
+3101,Armani,Jeans,14,1200,6000,9
+3106,Dior,Jeans,5,3500,2500,10
+3111,Valentino,Jeans,11,1200,6000,8
+3116,Louis Vuitton,Jeans,12,1000,5000,10
+3121,Gucci,Dress,10,1000,15500,11
+3126,Burberry,Accessories,7,500,15500,4
+3131,Saint Laurent,Jeans,0,2000,2500,5
+3136,Armani,Pant Suit,15,2000,2500,4
+3141,Dior,Accessories,12,2000,15500,11
+3146,Valentino,Dress,1,500,20500,7
+3151,Louis Vuitton,Accessories,5,500,6000,8
+3156,Gucci,Pant Suit,6,4500,10000,7
+3161,Burberry,Suit,2,500,15500,4
+3166,Saint Laurent,Pant Suit,8,1200,6000,4
+3171,Armani,Accessories,8,2000,20500,5
+3176,Dior,Dress,0,2000,2500,4
+3181,Valentino,Jeans,5,1200,10000,8
+3186,Louis Vuitton,Suit,0,500,5000,12
+3191,Gucci,Dress,15,1000,20500,9
+3196,Burberry,Suit,13,1200,2500,9
+3201,Saint Laurent,Accessories,9,3500,15500,1
+3206,Armani,Hand Bag,2,1200,15500,10
+3211,Dior,Jeans,6,4500,15500,7
+3216,Valentino,Jeans,4,500,10000,5
+3221,Louis Vuitton,Dress,2,2000,15500,6
+3226,Gucci,Hand Bag,14,1000,5000,12
+3231,Burberry,Dress,13,4500,2500,3
+3236,Saint Laurent,Dress,5,1200,6000,10
+3241,Armani,Pant Suit,3,500,10000,3
+3246,Dior,Jeans,3,4500,5000,8
+3251,Valentino,Suit,8,3500,6000,7
+3256,Louis Vuitton,Jeans,5,500,10000,8
+3261,Gucci,Jeans,2,4500,20500,7
+3266,Burberry,Dress,8,3500,10000,9
+3271,Saint Laurent,Suit,15,500,5000,8
+3276,Armani,Hand Bag,6,1000,20500,12
+3281,Dior,Suit,14,500,10000,6
+3286,Valentino,Jeans,6,1000,6000,5
+3291,Louis Vuitton,Accessories,15,1200,10000,3
+3296,Gucci,Pant Suit,11,3500,2500,8
+3301,Burberry,Suit,9,4500,15500,1
+3306,Saint Laurent,Dress,3,2000,15500,9
+3311,Armani,Pant Suit,8,4500,20500,2
+3316,Dior,Dress,13,1200,20500,11
+3321,Valentino,Hand Bag,3,4500,6000,6
+3326,Louis Vuitton,Dress,11,4500,15500,2
+3331,Gucci,Accessories,10,2000,2500,9
+3336,Burberry,Hand Bag,5,2000,15500,12
+3341,Saint Laurent,Dress,13,2000,20500,8
+3346,Armani,Pant Suit,3,4500,20500,1
+3351,Dior,Jeans,12,1200,20500,4
+3356,Valentino,Hand Bag,7,1200,5000,3
+3361,Louis Vuitton,Pant Suit,10,3500,20500,1
+3366,Gucci,Accessories,11,500,10000,12
+3371,Burberry,Jeans,4,2000,6000,4
+3376,Saint Laurent,Dress,2,4500,20500,11
+3381,Armani,Dress,3,2000,10000,11
+3386,Dior,Dress,13,4500,6000,9
+3391,Valentino,Accessories,13,3500,2500,12
+3396,Louis Vuitton,Accessories,1,1200,15500,10
+3401,Gucci,Suit,13,2000,20500,1
+3406,Burberry,Dress,10,4500,20500,9
+3411,Saint Laurent,Jeans,15,2000,6000,6
+3416,Armani,Dress,1,2000,2500,9
+3421,Dior,Hand Bag,1,1200,10000,4
+3426,Valentino,Dress,10,3500,15500,8
+3431,Louis Vuitton,Dress,15,3500,10000,10
+3436,Gucci,Jeans,13,3500,2500,2
+3441,Burberry,Accessories,9,4500,15500,1
+3446,Saint Laurent,Dress,8,3500,5000,3
+3451,Armani,Accessories,6,3500,15500,8
+3456,Dior,Hand Bag,13,3500,2500,10
+3461,Valentino,Suit,2,3500,2500,7
+3466,Louis Vuitton,Suit,14,1000,10000,2
+3471,Gucci,Jeans,13,3500,2500,3
+3476,Burberry,Accessories,10,2000,6000,5
+3481,Saint Laurent,Pant Suit,11,500,15500,2
+3486,Armani,Accessories,15,1200,10000,4
+3491,Dior,Dress,6,2000,20500,8
+3496,Valentino,Suit,15,3500,2500,12
+3501,Louis Vuitton,Hand Bag,14,1000,10000,11
+3506,Gucci,Hand Bag,7,500,2500,4
+3511,Burberry,Accessories,3,4500,2500,5
+3516,Saint Laurent,Dress,0,4500,20500,4
+3521,Armani,Accessories,11,1200,20500,2
+3526,Dior,Jeans,10,1000,5000,6
+3531,Valentino,Suit,12,500,20500,8
+3536,Louis Vuitton,Pant Suit,1,1000,5000,5
+3541,Gucci,Accessories,10,3500,20500,12
+3546,Burberry,Hand Bag,6,500,2500,8
+3551,Saint Laurent,Accessories,6,2000,15500,11
+3556,Armani,Hand Bag,1,3500,20500,1
+3561,Dior,Pant Suit,10,4500,6000,4
+3566,Valentino,Hand Bag,1,500,15500,1
+3571,Louis Vuitton,Jeans,7,1200,15500,8
+3576,Gucci,Accessories,9,500,20500,3
+3581,Burberry,Hand Bag,1,1200,10000,7
+3586,Saint Laurent,Hand Bag,7,2000,5000,6
+3591,Armani,Hand Bag,11,1200,6000,10
+3596,Dior,Pant Suit,1,2000,6000,4
+3601,Valentino,Jeans,9,4500,2500,10
+3606,Louis Vuitton,Jeans,3,1000,15500,1
+3611,Gucci,Hand Bag,10,3500,2500,11
+3616,Burberry,Suit,13,500,6000,2
+3621,Saint Laurent,Pant Suit,8,500,6000,8
+3626,Armani,Jeans,12,1200,2500,3
+3631,Dior,Suit,0,3500,15500,3
+3636,Valentino,Dress,6,1200,20500,7
+3641,Louis Vuitton,Pant Suit,4,500,15500,5
+3646,Gucci,Pant Suit,10,4500,20500,11
+3651,Burberry,Dress,12,4500,15500,1
+3656,Saint Laurent,Pant Suit,12,1200,6000,2
+3661,Armani,Hand Bag,1,1200,6000,5
+3666,Dior,Accessories,4,1200,15500,8
+3671,Valentino,Hand Bag,2,1000,5000,11
+3676,Louis Vuitton,Accessories,8,1200,5000,9
+3681,Gucci,Hand Bag,14,1200,10000,9
+3686,Burberry,Hand Bag,1,3500,5000,9
+3691,Saint Laurent,Accessories,0,2000,10000,2
+3696,Armani,Suit,13,1000,6000,5
+3701,Dior,Accessories,6,3500,20500,11
+3706,Valentino,Pant Suit,1,3500,5000,8
+3711,Louis Vuitton,Jeans,9,4500,15500,9
+3716,Gucci,Dress,5,3500,6000,6
+3721,Burberry,Jeans,10,1000,2500,1
+3726,Saint Laurent,Hand Bag,4,1000,10000,5
+3731,Armani,Suit,12,3500,6000,11
+3736,Dior,Dress,15,4500,5000,10
+3741,Valentino,Pant Suit,14,1000,2500,10
+3746,Louis Vuitton,Suit,8,500,20500,4
+3751,Gucci,Pant Suit,12,3500,10000,5
+3756,Burberry,Dress,3,3500,20500,3
+3761,Saint Laurent,Hand Bag,12,3500,10000,4
+3766,Armani,Jeans,6,1200,15500,7
+3771,Dior,Dress,9,1000,6000,2
+3776,Valentino,Jeans,14,1200,15500,3
+3781,Louis Vuitton,Accessories,4,1000,20500,1
+3786,Gucci,Hand Bag,10,3500,5000,3
+3791,Burberry,Dress,14,500,2500,4
+3796,Saint Laurent,Suit,11,3500,2500,8
+3801,Armani,Hand Bag,11,500,15500,3
+3806,Dior,Jeans,3,3500,10000,1
+3811,Valentino,Suit,6,4500,2500,12
+3816,Louis Vuitton,Suit,8,1200,10000,11
+3821,Gucci,Jeans,14,3500,2500,10
+3826,Burberry,Pant Suit,11,1200,5000,9
+3831,Saint Laurent,Suit,10,3500,5000,1
+3836,Armani,Pant Suit,14,500,20500,2
+3841,Dior,Suit,5,3500,10000,12
+3846,Valentino,Jeans,8,1000,5000,4
+3851,Louis Vuitton,Hand Bag,15,2000,6000,7
+3856,Gucci,Accessories,13,1000,6000,1
+3861,Burberry,Dress,7,500,2500,3
+3866,Saint Laurent,Dress,14,4500,5000,1
+3871,Armani,Suit,6,2000,5000,12
+3876,Dior,Hand Bag,11,3500,20500,12
+3881,Valentino,Accessories,5,500,5000,6
+3886,Louis Vuitton,Pant Suit,7,1200,10000,6
+3891,Gucci,Jeans,8,4500,6000,9
+3896,Burberry,Pant Suit,9,4500,20500,6
+3901,Saint Laurent,Suit,13,4500,10000,9
+3906,Armani,Suit,5,2000,5000,11
+3911,Dior,Pant Suit,15,1200,2500,8
+3916,Valentino,Accessories,13,3500,5000,2
+3921,Louis Vuitton,Hand Bag,7,3500,20500,4
+3926,Gucci,Suit,4,500,20500,11
+3931,Burberry,Accessories,6,1200,6000,12
+3936,Saint Laurent,Jeans,14,1000,6000,11
+3941,Armani,Accessories,12,1000,5000,8
+3946,Dior,Pant Suit,10,2000,5000,7
+3951,Valentino,Suit,3,4500,6000,9
+3956,Louis Vuitton,Hand Bag,10,1000,6000,11
+3961,Gucci,Dress,0,3500,5000,3
+3966,Burberry,Hand Bag,13,2000,15500,9
+3971,Saint Laurent,Dress,4,3500,10000,12
+3976,Armani,Hand Bag,12,2000,2500,7
+3981,Dior,Hand Bag,14,3500,5000,3
+3986,Valentino,Accessories,5,2000,6000,12
+3991,Louis Vuitton,Pant Suit,12,1000,10000,6
+3996,Gucci,Suit,1,1200,20500,12
+4001,Burberry,Hand Bag,7,1200,2500,1
+4006,Saint Laurent,Jeans,15,3500,6000,8
+4011,Armani,Hand Bag,0,1200,5000,2
+4016,Dior,Dress,8,1000,15500,10
+4021,Valentino,Suit,7,500,6000,5
+4026,Louis Vuitton,Jeans,13,3500,5000,9
+4031,Gucci,Pant Suit,15,2000,6000,2
+4036,Burberry,Accessories,7,500,6000,11
+4041,Saint Laurent,Dress,1,1000,10000,12
+4046,Armani,Jeans,15,2000,2500,2
+4051,Dior,Pant Suit,10,1000,5000,11
+4056,Valentino,Dress,14,1200,15500,11
+4061,Louis Vuitton,Pant Suit,10,1200,6000,9
+4066,Gucci,Pant Suit,2,1200,15500,5
+4071,Burberry,Accessories,12,1200,2500,8
+4076,Saint Laurent,Suit,6,1200,6000,1
+4081,Armani,Accessories,13,500,5000,12
+4086,Dior,Dress,11,1000,10000,1
+4091,Valentino,Pant Suit,9,3500,2500,10
+4096,Louis Vuitton,Jeans,4,4500,20500,5
+4101,Gucci,Suit,14,3500,10000,7
+4106,Burberry,Jeans,11,500,15500,11
+4111,Saint Laurent,Accessories,2,1000,10000,7
+4116,Armani,Hand Bag,6,500,10000,2
+4121,Dior,Pant Suit,12,1200,10000,12
+4126,Valentino,Jeans,14,2000,2500,10
+4131,Louis Vuitton,Hand Bag,9,1000,10000,11
+4136,Gucci,Pant Suit,3,2000,20500,8
+4141,Burberry,Hand Bag,4,3500,6000,1
+4146,Saint Laurent,Hand Bag,5,1200,5000,1
+4151,Armani,Hand Bag,7,2000,5000,9
+4156,Dior,Dress,9,2000,10000,12
+4161,Valentino,Dress,0,1000,2500,11
+4166,Louis Vuitton,Hand Bag,6,500,2500,3
+4171,Gucci,Suit,10,1000,15500,6
+4176,Burberry,Hand Bag,1,1200,2500,2
+4181,Saint Laurent,Accessories,14,4500,20500,9
+4186,Armani,Dress,4,4500,15500,2
+4191,Dior,Pant Suit,1,1000,15500,7
+4196,Valentino,Hand Bag,11,2000,6000,11
+4201,Louis Vuitton,Accessories,7,4500,15500,12
+4206,Gucci,Jeans,14,3500,10000,1
+4211,Burberry,Accessories,9,2000,15500,9
+4216,Saint Laurent,Jeans,9,4500,15500,8
+4221,Armani,Jeans,10,1000,10000,3
+4226,Dior,Hand Bag,12,1000,10000,6
+4231,Valentino,Pant Suit,9,4500,6000,5
+4236,Louis Vuitton,Dress,15,1000,20500,3
+4241,Gucci,Hand Bag,8,500,10000,1
+4246,Burberry,Suit,15,4500,20500,11
+4251,Saint Laurent,Pant Suit,15,1000,5000,10
+4256,Armani,Accessories,9,3500,20500,7
+4261,Dior,Jeans,0,1200,6000,3
+4266,Valentino,Dress,3,2000,10000,10
+4271,Louis Vuitton,Accessories,11,3500,2500,3
+4276,Gucci,Accessories,6,500,15500,2
+4281,Burberry,Pant Suit,12,4500,6000,12
+4286,Saint Laurent,Hand Bag,13,1200,6000,9
+4291,Armani,Suit,8,4500,15500,10
+4296,Dior,Pant Suit,8,500,10000,9
+4301,Valentino,Pant Suit,10,4500,10000,4
+4306,Louis Vuitton,Accessories,8,1200,10000,3
+4311,Gucci,Accessories,3,4500,15500,7
+4316,Burberry,Suit,15,4500,20500,3
+4321,Saint Laurent,Accessories,10,2000,10000,1
+4326,Armani,Pant Suit,6,3500,5000,2
+4331,Dior,Jeans,0,2000,5000,1
+4336,Valentino,Dress,2,1000,2500,11
+4341,Louis Vuitton,Hand Bag,13,3500,5000,12
+4346,Gucci,Dress,4,3500,15500,1
+4351,Burberry,Pant Suit,15,4500,10000,1
+4356,Saint Laurent,Hand Bag,1,2000,2500,3
+4361,Armani,Jeans,8,1000,2500,1
+4366,Dior,Hand Bag,5,3500,10000,12
+4371,Valentino,Dress,9,1200,15500,4
+4376,Louis Vuitton,Suit,6,2000,6000,11
+4381,Gucci,Accessories,4,2000,15500,1
+4386,Burberry,Dress,5,3500,15500,4
+4391,Saint Laurent,Hand Bag,11,4500,2500,10
+4396,Armani,Jeans,3,1200,5000,5
+4401,Dior,Dress,15,2000,15500,7
+4406,Valentino,Hand Bag,5,1000,20500,1
+4411,Louis Vuitton,Accessories,2,3500,20500,3
+4416,Gucci,Jeans,8,4500,20500,9
+4421,Burberry,Jeans,7,4500,5000,9
+4426,Saint Laurent,Dress,0,4500,2500,12
+4431,Armani,Pant Suit,8,3500,2500,9
+4436,Dior,Suit,11,1000,6000,9
+4441,Valentino,Dress,6,500,2500,10
+4446,Louis Vuitton,Hand Bag,14,1000,10000,4
+4451,Gucci,Jeans,9,1000,20500,10
+4456,Burberry,Jeans,10,1200,15500,8
+4461,Saint Laurent,Pant Suit,5,500,20500,8
+4466,Armani,Pant Suit,10,1000,2500,12
+4471,Dior,Suit,12,4500,2500,4
+4476,Valentino,Pant Suit,1,4500,6000,11
+4481,Louis Vuitton,Jeans,11,1000,6000,8
+4486,Gucci,Accessories,6,2000,5000,8
+4491,Burberry,Dress,2,1200,5000,12
+4496,Saint Laurent,Jeans,14,1000,15500,11
+4501,Armani,Dress,15,1000,2500,12
+4506,Dior,Dress,13,1200,2500,8
+4511,Valentino,Pant Suit,15,500,5000,7
+4516,Louis Vuitton,Pant Suit,10,1200,15500,6
+4521,Gucci,Suit,2,1200,20500,1
+4526,Burberry,Dress,13,2000,2500,2
+4531,Saint Laurent,Dress,5,1000,20500,5
+4536,Armani,Accessories,14,1000,15500,2
+4541,Dior,Suit,0,1200,15500,6
+4546,Valentino,Suit,4,1000,5000,12
+4551,Louis Vuitton,Hand Bag,0,1000,5000,5
+4556,Gucci,Hand Bag,5,1200,5000,8
+4561,Burberry,Dress,7,1200,2500,9
+4566,Saint Laurent,Dress,5,3500,15500,11
+4571,Armani,Dress,5,2000,5000,7
+4576,Dior,Hand Bag,7,4500,10000,5
+4581,Valentino,Jeans,4,3500,2500,2
+4586,Louis Vuitton,Pant Suit,6,3500,5000,7
+4591,Gucci,Accessories,8,1200,5000,6
+4596,Burberry,Pant Suit,13,1000,2500,11
+4601,Saint Laurent,Hand Bag,8,3500,15500,12
+4606,Armani,Pant Suit,2,500,6000,8
+4611,Dior,Suit,4,2000,15500,1
+4616,Valentino,Dress,1,500,20500,8
+4621,Louis Vuitton,Pant Suit,3,3500,6000,2
+4626,Gucci,Hand Bag,4,4500,6000,8
+4631,Burberry,Hand Bag,0,3500,15500,2
+4636,Saint Laurent,Jeans,15,4500,2500,12
+4641,Armani,Hand Bag,10,1000,10000,11
+4646,Dior,Accessories,10,1000,5000,8
+4651,Valentino,Hand Bag,6,4500,10000,5
+4656,Louis Vuitton,Pant Suit,2,3500,20500,3
+4661,Gucci,Jeans,14,1200,20500,10
+4666,Burberry,Suit,8,1200,5000,10
+4671,Saint Laurent,Dress,15,4500,2500,2
+4676,Armani,Hand Bag,8,500,5000,12
+4681,Dior,Hand Bag,5,2000,15500,3
+4686,Valentino,Hand Bag,6,1000,20500,2
+4691,Louis Vuitton,Jeans,13,3500,20500,6
+4696,Gucci,Dress,0,2000,20500,6
+4701,Burberry,Suit,13,2000,15500,12
+4706,Saint Laurent,Jeans,6,500,5000,8
+4711,Armani,Accessories,1,4500,5000,12
+4716,Dior,Jeans,2,2000,10000,6
+4721,Valentino,Dress,12,2000,6000,8
+4726,Louis Vuitton,Dress,9,500,20500,2
+4731,Gucci,Pant Suit,6,4500,15500,10
+4736,Burberry,Suit,6,3500,10000,7
+4741,Saint Laurent,Pant Suit,1,1000,5000,11
+4746,Armani,Hand Bag,6,4500,20500,9
+4751,Dior,Hand Bag,7,500,20500,11
+4756,Valentino,Pant Suit,12,2000,15500,11
+4761,Louis Vuitton,Suit,8,2000,5000,5
+4766,Gucci,Suit,3,3500,10000,8
+4771,Burberry,Suit,5,2000,10000,4
+4776,Saint Laurent,Pant Suit,1,3500,15500,2
+4781,Armani,Accessories,13,4500,10000,8
+4786,Dior,Hand Bag,2,4500,5000,3
+4791,Valentino,Dress,13,1200,10000,3
+4796,Louis Vuitton,Pant Suit,11,500,20500,4
+4801,Gucci,Suit,12,500,15500,2
+4806,Burberry,Accessories,14,4500,2500,1
+4811,Saint Laurent,Dress,6,1200,10000,7
+4816,Armani,Accessories,11,2000,10000,12
+4821,Dior,Suit,2,2000,6000,7
+4826,Valentino,Suit,14,2000,5000,2
+4831,Louis Vuitton,Jeans,15,1000,5000,2
+4836,Gucci,Pant Suit,9,500,15500,1
+4841,Burberry,Accessories,3,1200,6000,12
+4846,Saint Laurent,Accessories,5,500,2500,8
+4851,Armani,Accessories,10,2000,5000,8
+4856,Dior,Accessories,4,500,10000,11
+4861,Valentino,Pant Suit,15,4500,10000,3
+4866,Louis Vuitton,Accessories,8,500,20500,11
+4871,Gucci,Hand Bag,12,500,15500,1
+4876,Burberry,Dress,1,4500,2500,3
+4881,Saint Laurent,Pant Suit,5,2000,2500,10
+4886,Armani,Accessories,3,3500,20500,12
+4891,Dior,Suit,14,3500,2500,9
+4896,Valentino,Pant Suit,3,3500,6000,12
+4901,Louis Vuitton,Accessories,9,1200,15500,1
+4906,Gucci,Jeans,12,2000,15500,10
+4911,Burberry,Jeans,10,4500,2500,12
+4916,Saint Laurent,Pant Suit,2,1000,20500,7
+4921,Armani,Dress,10,2000,6000,12
+4926,Dior,Suit,5,1000,5000,11
+4931,Valentino,Suit,8,3500,10000,8
+4936,Louis Vuitton,Dress,7,1200,20500,10
+4941,Gucci,Pant Suit,8,3500,2500,9
+4946,Burberry,Pant Suit,3,2000,5000,3
+4951,Saint Laurent,Pant Suit,12,1200,2500,10
+4956,Armani,Dress,11,2000,20500,12
+4961,Dior,Accessories,1,2000,10000,9
+4966,Valentino,Pant Suit,7,500,2500,2
+4971,Louis Vuitton,Dress,14,2000,2500,10
+4976,Gucci,Pant Suit,0,3500,2500,3
+4981,Burberry,Accessories,3,2000,5000,7
+4986,Saint Laurent,Suit,0,1000,2500,2
+4991,Armani,Pant Suit,14,1000,20500,7
+4996,Dior,Dress,10,2000,5000,1
+5001,Valentino,Suit,10,3500,2500,3
+5006,Louis Vuitton,Pant Suit,14,1200,10000,11
+5011,Gucci,Dress,10,1200,15500,12
+5016,Burberry,Suit,10,500,5000,3
+5021,Saint Laurent,Dress,5,1200,2500,5
+5026,Armani,Hand Bag,11,3500,15500,11
+5031,Dior,Jeans,10,1000,15500,9
+5036,Valentino,Suit,2,3500,5000,12
+5041,Louis Vuitton,Accessories,4,1000,15500,11
+5046,Gucci,Pant Suit,4,4500,2500,2
+5051,Burberry,Suit,3,2000,15500,3
+5056,Saint Laurent,Accessories,10,3500,15500,2
+5061,Armani,Pant Suit,0,2000,10000,9
+5066,Dior,Pant Suit,12,2000,20500,8
+5071,Valentino,Jeans,1,3500,15500,7
+5076,Louis Vuitton,Pant Suit,1,3500,20500,7
+5081,Gucci,Suit,3,4500,5000,11
+5086,Burberry,Hand Bag,3,1200,5000,3
+5091,Saint Laurent,Jeans,8,1200,10000,8
+5096,Armani,Dress,14,4500,20500,8
+5101,Dior,Pant Suit,7,4500,2500,8
+5106,Valentino,Jeans,0,4500,6000,2
+5111,Louis Vuitton,Jeans,14,2000,6000,10
+5116,Gucci,Hand Bag,2,3500,6000,2
+5121,Burberry,Hand Bag,4,1200,2500,10
+5126,Saint Laurent,Pant Suit,9,3500,6000,5
+5131,Armani,Jeans,10,1000,6000,8
+5136,Dior,Dress,2,1000,20500,6
+5141,Valentino,Pant Suit,1,500,6000,11
+5146,Louis Vuitton,Suit,6,1000,10000,11
+5151,Gucci,Pant Suit,12,1200,15500,6
+5156,Burberry,Dress,8,500,6000,8
+5161,Saint Laurent,Dress,14,4500,5000,3
+5166,Armani,Hand Bag,0,4500,2500,1
+5171,Dior,Suit,0,500,2500,11
+5176,Valentino,Dress,9,500,20500,12
+5181,Louis Vuitton,Hand Bag,5,4500,15500,5
+5186,Gucci,Accessories,9,4500,15500,7
+5191,Burberry,Hand Bag,10,1000,2500,3
+5196,Saint Laurent,Suit,5,500,2500,7
+5201,Armani,Accessories,6,2000,6000,7
+5206,Dior,Dress,1,2000,2500,6
+5211,Valentino,Accessories,2,500,6000,3
+5216,Louis Vuitton,Suit,3,500,10000,9
+5221,Gucci,Pant Suit,2,1200,10000,3
+5226,Burberry,Suit,8,1200,10000,12
+5231,Saint Laurent,Hand Bag,8,1200,5000,5
+5236,Armani,Suit,10,4500,10000,4
+5241,Dior,Dress,4,1200,10000,7
+5246,Valentino,Suit,14,1000,20500,4
+5251,Louis Vuitton,Dress,11,4500,20500,2
+5256,Gucci,Accessories,1,500,2500,2
+5261,Burberry,Dress,4,3500,5000,2
+5266,Saint Laurent,Accessories,9,1200,5000,10
+5271,Armani,Dress,3,3500,20500,9
+5276,Dior,Hand Bag,10,2000,2500,7
+5281,Valentino,Suit,1,2000,15500,3
+5286,Louis Vuitton,Hand Bag,5,3500,10000,1
+5291,Gucci,Jeans,14,3500,2500,4
+5296,Burberry,Accessories,0,4500,20500,2
+5301,Saint Laurent,Dress,4,4500,5000,8
+5306,Armani,Pant Suit,15,3500,2500,9
+5311,Dior,Dress,5,3500,10000,4
+5316,Valentino,Hand Bag,14,4500,5000,7
+5321,Louis Vuitton,Jeans,5,1200,10000,2
+5326,Gucci,Pant Suit,4,1200,6000,12
+5331,Burberry,Accessories,11,2000,2500,12
+5336,Saint Laurent,Jeans,9,3500,5000,3
+5341,Armani,Pant Suit,2,2000,20500,8
+5346,Dior,Pant Suit,14,3500,15500,7
+5351,Valentino,Accessories,2,4500,5000,5
+5356,Louis Vuitton,Pant Suit,0,4500,6000,2
+5361,Gucci,Jeans,2,2000,15500,6
+5366,Burberry,Jeans,7,3500,15500,4
+5371,Saint Laurent,Hand Bag,6,4500,2500,12
+5376,Armani,Hand Bag,12,1000,10000,5
+5381,Dior,Jeans,3,1000,10000,11
+5386,Valentino,Pant Suit,1,500,2500,4
+5391,Louis Vuitton,Suit,0,4500,5000,3
+5396,Gucci,Pant Suit,10,4500,2500,11
+5401,Burberry,Dress,10,1000,5000,8
+5406,Saint Laurent,Jeans,6,3500,5000,2
+5411,Armani,Pant Suit,14,1200,2500,8
+5416,Dior,Dress,6,1200,6000,9
+5421,Valentino,Hand Bag,10,500,5000,6
+5426,Louis Vuitton,Jeans,0,2000,20500,11
+5431,Gucci,Suit,4,3500,10000,11
+5436,Burberry,Suit,8,1200,2500,10
+5441,Saint Laurent,Jeans,14,4500,6000,10
+5446,Armani,Dress,7,2000,6000,8
+5451,Dior,Suit,2,4500,15500,1
+5456,Valentino,Jeans,5,500,5000,10
+5461,Louis Vuitton,Suit,13,2000,5000,11
+5466,Gucci,Accessories,12,3500,2500,5
+5471,Burberry,Pant Suit,6,4500,15500,2
+5476,Saint Laurent,Dress,3,2000,10000,5
+5481,Armani,Jeans,14,500,20500,2
+5486,Dior,Pant Suit,4,500,5000,8
+5491,Valentino,Accessories,6,500,20500,8
+5496,Louis Vuitton,Hand Bag,9,1200,15500,8
+5501,Gucci,Suit,8,2000,10000,9
+5506,Burberry,Suit,0,2000,20500,4
+5511,Saint Laurent,Dress,14,1000,6000,2
+5516,Armani,Accessories,9,1200,15500,9
+5521,Dior,Suit,15,2000,6000,8
+5526,Valentino,Jeans,11,3500,2500,2
+5531,Louis Vuitton,Pant Suit,13,1000,2500,2
+5536,Gucci,Jeans,3,1200,6000,1
+5541,Burberry,Dress,7,2000,6000,7
+5546,Saint Laurent,Jeans,1,3500,10000,7
+5551,Armani,Accessories,4,2000,5000,6
+5556,Dior,Dress,4,1200,6000,10
+5561,Valentino,Jeans,6,3500,10000,4
+5566,Louis Vuitton,Jeans,3,500,20500,3
+5571,Gucci,Pant Suit,2,1200,6000,2
+5576,Burberry,Accessories,5,1200,6000,10
+5581,Saint Laurent,Accessories,13,2000,15500,12
+5586,Armani,Dress,8,4500,15500,7
+5591,Dior,Accessories,5,1200,2500,8
+5596,Valentino,Hand Bag,15,4500,15500,10
+5601,Louis Vuitton,Jeans,1,4500,5000,7
+5606,Gucci,Jeans,15,500,5000,8
+5611,Burberry,Pant Suit,5,500,10000,7
+5616,Saint Laurent,Accessories,15,2000,5000,4
+5621,Armani,Pant Suit,14,2000,10000,8
+5626,Dior,Jeans,9,1200,2500,11
+5631,Valentino,Accessories,8,1000,10000,10
+5636,Louis Vuitton,Dress,15,2000,10000,8
+5641,Gucci,Suit,3,3500,5000,3
+5646,Burberry,Suit,14,4500,15500,11
+5651,Saint Laurent,Accessories,6,1000,15500,7
+5656,Armani,Hand Bag,10,4500,6000,8
+5661,Dior,Pant Suit,5,3500,6000,4
+5666,Valentino,Dress,1,1000,5000,8
+5671,Louis Vuitton,Pant Suit,8,500,20500,2
+5676,Gucci,Hand Bag,14,1000,15500,5
+5681,Burberry,Pant Suit,0,1000,20500,2
+5686,Saint Laurent,Dress,14,1200,2500,12
+5691,Armani,Dress,3,3500,20500,9
+5696,Dior,Dress,12,3500,20500,10
+5701,Valentino,Jeans,7,500,6000,12
+5706,Louis Vuitton,Suit,8,4500,6000,4
+5711,Gucci,Dress,12,2000,5000,2
+5716,Burberry,Hand Bag,10,1000,5000,6
+5721,Saint Laurent,Dress,14,3500,10000,6
+5726,Armani,Accessories,14,2000,20500,6
+5731,Dior,Hand Bag,8,1000,2500,2
+5736,Valentino,Hand Bag,9,500,10000,12
+5741,Louis Vuitton,Hand Bag,6,1200,10000,12
+5746,Gucci,Suit,0,1000,10000,3
+5751,Burberry,Suit,11,2000,15500,5
+5756,Saint Laurent,Accessories,8,1000,5000,10
+5761,Armani,Accessories,12,1200,6000,4
+5766,Dior,Jeans,7,500,10000,5
+5771,Valentino,Suit,8,500,6000,1
+5776,Louis Vuitton,Pant Suit,2,3500,5000,3
+5781,Gucci,Pant Suit,6,1200,20500,2
+5786,Burberry,Dress,5,1000,10000,8
+5791,Saint Laurent,Dress,2,4500,2500,3
+5796,Armani,Jeans,1,3500,20500,11
+5801,Dior,Dress,2,1200,6000,11
+5806,Valentino,Hand Bag,0,3500,2500,11
+5811,Louis Vuitton,Dress,14,4500,10000,6
+5816,Gucci,Pant Suit,4,1000,10000,7
+5821,Burberry,Accessories,12,1000,10000,5
+5826,Saint Laurent,Suit,10,4500,6000,8
+5831,Armani,Accessories,1,500,2500,7
+5836,Dior,Suit,3,2000,15500,6
+5841,Valentino,Jeans,15,4500,2500,1
+5846,Louis Vuitton,Pant Suit,0,1200,2500,6
+5851,Gucci,Jeans,15,4500,5000,6
+5856,Burberry,Accessories,14,3500,6000,9
+5861,Saint Laurent,Dress,3,4500,10000,7
+5866,Armani,Suit,9,2000,10000,1
+5871,Dior,Dress,2,1000,10000,4
+5876,Valentino,Jeans,10,500,10000,10
+5881,Louis Vuitton,Jeans,12,2000,2500,10
+5886,Gucci,Pant Suit,8,1000,10000,8
+5891,Burberry,Accessories,5,4500,15500,4
+5896,Saint Laurent,Hand Bag,7,1000,15500,8
+5901,Armani,Hand Bag,0,1200,15500,1
+5906,Dior,Pant Suit,6,1200,5000,1
+5911,Valentino,Suit,1,1200,15500,9
+5916,Louis Vuitton,Jeans,1,500,15500,8
+5921,Gucci,Suit,15,2000,5000,8
+5926,Burberry,Jeans,6,1200,20500,12
+5931,Saint Laurent,Hand Bag,7,1000,2500,12
+5936,Armani,Dress,11,500,2500,4
+5941,Dior,Suit,8,500,5000,8
+5946,Valentino,Suit,5,3500,6000,7
+5951,Louis Vuitton,Dress,7,2000,15500,1
+5956,Gucci,Jeans,6,4500,5000,9
+5961,Burberry,Dress,5,1000,6000,4
+5966,Saint Laurent,Accessories,11,2000,10000,6
+5971,Armani,Accessories,11,1200,2500,11
+5976,Dior,Suit,15,3500,5000,4
+5981,Valentino,Accessories,10,2000,20500,8
+5986,Louis Vuitton,Suit,13,500,2500,11
+5991,Gucci,Dress,5,2000,2500,10
+5996,Burberry,Suit,15,1200,5000,12
+1001,Armani,Accessories,2,3500,10000,6
+1006,Dior,Hand Bag,14,3500,20500,11
+1011,Valentino,Jeans,5,4500,15500,12
+1016,Louis Vuitton,Accessories,12,500,2500,9
+1021,Gucci,Hand Bag,10,2000,5000,10
+1026,Burberry,Pant Suit,10,1200,5000,4
+1031,Saint Laurent,Pant Suit,15,1000,10000,7
+1036,Armani,Accessories,12,3500,5000,8
+1041,Dior,Dress,5,3500,2500,11
+1046,Valentino,Suit,8,2000,5000,8
+1051,Louis Vuitton,Hand Bag,7,500,20500,4
+1056,Gucci,Pant Suit,10,500,15500,6
+1061,Burberry,Suit,5,2000,15500,3
+1066,Saint Laurent,Hand Bag,5,3500,10000,4
+1071,Armani,Suit,9,500,6000,3
+1076,Dior,Jeans,10,4500,15500,7
+1081,Valentino,Accessories,7,4500,6000,8
+1086,Louis Vuitton,Dress,14,4500,10000,4
+1091,Gucci,Dress,6,1200,15500,12
+1096,Burberry,Pant Suit,12,1000,2500,7
+1101,Saint Laurent,Dress,7,3500,20500,7
+1106,Armani,Accessories,7,3500,10000,4
+1111,Dior,Dress,13,4500,15500,5
+1116,Valentino,Jeans,14,4500,5000,9
+1121,Louis Vuitton,Hand Bag,15,2000,2500,1
+1126,Gucci,Accessories,3,3500,6000,5
+1131,Burberry,Dress,11,4500,5000,11
+1136,Saint Laurent,Jeans,7,500,10000,12
+1141,Armani,Jeans,6,1000,15500,3
+1146,Dior,Jeans,6,3500,15500,10
+1151,Valentino,Pant Suit,9,2000,20500,12
+1156,Louis Vuitton,Hand Bag,1,3500,20500,5
+1161,Gucci,Hand Bag,14,500,20500,10
+1166,Burberry,Accessories,5,1000,15500,9
+1171,Saint Laurent,Accessories,15,500,10000,5
+1176,Armani,Jeans,8,2000,20500,10
+1181,Dior,Pant Suit,4,1000,5000,2
+1186,Valentino,Jeans,15,1000,15500,6
+1191,Louis Vuitton,Accessories,10,3500,10000,5
+1196,Gucci,Hand Bag,15,1200,2500,5
+1201,Burberry,Accessories,6,1200,6000,8
+1206,Saint Laurent,Suit,13,3500,5000,6
+1211,Armani,Pant Suit,12,2000,6000,2
+1216,Dior,Accessories,0,2000,5000,11
+1221,Valentino,Suit,0,4500,10000,9
+1226,Louis Vuitton,Pant Suit,1,3500,6000,12
+1231,Gucci,Suit,12,2000,6000,6
+1236,Burberry,Dress,11,4500,2500,6
+1241,Saint Laurent,Dress,12,4500,15500,8
+1246,Armani,Jeans,7,4500,20500,10
+1251,Dior,Accessories,4,1200,5000,10
+1256,Valentino,Dress,2,4500,20500,7
+1261,Louis Vuitton,Pant Suit,10,2000,15500,11
+1266,Gucci,Accessories,6,1200,2500,9
+1271,Burberry,Jeans,7,4500,5000,2
+1276,Saint Laurent,Suit,4,500,2500,1
+1281,Armani,Hand Bag,3,4500,5000,9
+1286,Dior,Accessories,1,2000,6000,7
+1291,Valentino,Hand Bag,6,1000,10000,8
+1296,Louis Vuitton,Hand Bag,14,2000,15500,4
+1301,Gucci,Accessories,9,4500,5000,5
+1306,Burberry,Accessories,1,500,15500,5
+1311,Saint Laurent,Pant Suit,10,1200,15500,11
+1316,Armani,Pant Suit,10,4500,2500,9
+1321,Dior,Dress,5,2000,20500,6
+1326,Valentino,Suit,15,500,20500,7
+1331,Louis Vuitton,Suit,1,1200,2500,2
+1336,Gucci,Suit,12,500,5000,7
+1341,Burberry,Pant Suit,2,1200,5000,4
+1346,Saint Laurent,Suit,0,4500,6000,5
+1351,Armani,Hand Bag,4,2000,6000,6
+1356,Dior,Suit,7,3500,2500,8
+1361,Valentino,Hand Bag,15,1200,6000,9
+1366,Louis Vuitton,Hand Bag,11,1000,2500,6
+1371,Gucci,Suit,13,2000,20500,4
+1376,Burberry,Accessories,3,2000,10000,11
+1381,Saint Laurent,Pant Suit,4,3500,15500,4
+1386,Armani,Accessories,2,1000,6000,1
+1391,Dior,Pant Suit,1,4500,2500,7
+1396,Valentino,Accessories,7,3500,20500,8
+1401,Louis Vuitton,Suit,4,1200,10000,10
+1406,Gucci,Jeans,0,2000,5000,11
+1411,Burberry,Jeans,9,1200,20500,12
+1416,Saint Laurent,Accessories,15,2000,10000,1
+1421,Armani,Jeans,0,2000,6000,9
+1426,Dior,Dress,6,4500,10000,3
+1431,Valentino,Suit,8,3500,15500,6
+1436,Louis Vuitton,Pant Suit,15,1000,20500,9
+1441,Gucci,Suit,11,2000,5000,8
+1446,Burberry,Dress,15,4500,2500,7
+1451,Saint Laurent,Pant Suit,5,500,20500,4
+1456,Armani,Suit,6,500,2500,8
+1461,Dior,Hand Bag,0,500,2500,7
+1466,Valentino,Dress,0,3500,20500,10
+1471,Louis Vuitton,Pant Suit,7,1000,10000,4
+1476,Gucci,Pant Suit,10,4500,6000,12
+1481,Burberry,Suit,5,3500,15500,11
+1486,Saint Laurent,Jeans,4,4500,10000,7
+1491,Armani,Pant Suit,5,4500,5000,9
+1496,Dior,Hand Bag,6,2000,10000,9
+1501,Valentino,Accessories,15,1200,10000,10
+1506,Louis Vuitton,Jeans,2,2000,5000,4
+1511,Gucci,Pant Suit,8,500,10000,8
+1516,Burberry,Suit,15,1000,5000,8
+1521,Saint Laurent,Suit,14,4500,6000,7
+1526,Armani,Dress,2,3500,20500,2
+1531,Dior,Pant Suit,15,1200,5000,4
+1536,Valentino,Pant Suit,13,1000,10000,1
+1541,Louis Vuitton,Hand Bag,9,3500,2500,5
+1546,Gucci,Accessories,9,1200,2500,6
+1551,Burberry,Hand Bag,7,2000,5000,1
+1556,Saint Laurent,Suit,12,3500,6000,6
+1561,Armani,Jeans,4,1000,5000,7
+1566,Dior,Dress,8,1000,2500,6
+1571,Valentino,Pant Suit,13,4500,2500,1
+1576,Louis Vuitton,Pant Suit,0,3500,2500,12
+1581,Gucci,Pant Suit,1,2000,15500,10
+1586,Burberry,Hand Bag,4,3500,20500,10
+1591,Saint Laurent,Dress,2,1000,6000,6
+1596,Armani,Accessories,6,3500,2500,7
+1601,Dior,Jeans,15,3500,15500,11
+1606,Valentino,Suit,6,2000,6000,10
+1611,Louis Vuitton,Suit,6,2000,15500,11
+1616,Gucci,Pant Suit,12,1200,15500,1
+1621,Burberry,Dress,2,500,6000,10
+1626,Saint Laurent,Jeans,14,2000,6000,8
+1631,Armani,Suit,15,500,5000,5
+1636,Dior,Pant Suit,9,3500,6000,11
+1641,Valentino,Dress,10,3500,10000,2
+1646,Louis Vuitton,Pant Suit,1,4500,10000,8
+1651,Gucci,Suit,8,1200,6000,1
+1656,Burberry,Pant Suit,11,2000,6000,11
+1661,Saint Laurent,Accessories,5,1000,2500,9
+1666,Armani,Hand Bag,13,3500,15500,5
+1671,Dior,Jeans,4,2000,10000,7
+1676,Valentino,Jeans,12,1200,5000,7
+1681,Louis Vuitton,Suit,5,3500,10000,11
+1686,Gucci,Accessories,4,2000,10000,8
+1691,Burberry,Suit,1,4500,10000,11
+1696,Saint Laurent,Accessories,3,4500,15500,7
+1701,Armani,Accessories,14,2000,5000,7
+1706,Dior,Suit,1,1000,10000,10
+1711,Valentino,Jeans,7,1000,20500,2
+1716,Louis Vuitton,Suit,5,3500,2500,6
+1721,Gucci,Suit,15,1000,15500,8
+1726,Burberry,Accessories,9,1000,6000,12
+1731,Saint Laurent,Pant Suit,13,4500,5000,8
+1736,Armani,Suit,7,2000,2500,12
+1741,Dior,Suit,0,1200,10000,3
+1746,Valentino,Dress,5,4500,20500,1
+1751,Louis Vuitton,Accessories,12,1200,10000,11
+1756,Gucci,Dress,11,3500,20500,3
+1761,Burberry,Pant Suit,1,1000,15500,1
+1766,Saint Laurent,Hand Bag,13,4500,2500,12
+1771,Armani,Pant Suit,8,500,6000,7
+1776,Dior,Accessories,2,4500,20500,12
+1781,Valentino,Dress,5,500,5000,8
+1786,Louis Vuitton,Pant Suit,2,3500,5000,9
+1791,Gucci,Accessories,5,2000,15500,10
+1796,Burberry,Dress,2,1000,2500,6
+1801,Saint Laurent,Pant Suit,6,4500,10000,1
+1806,Armani,Jeans,0,3500,10000,12
+1811,Dior,Jeans,1,1000,15500,11
+1816,Valentino,Suit,3,500,15500,9
+1821,Louis Vuitton,Jeans,4,1000,10000,1
+1826,Gucci,Accessories,7,3500,20500,5
+1831,Burberry,Pant Suit,4,2000,10000,5
+1836,Saint Laurent,Pant Suit,14,1200,5000,2
+1841,Armani,Dress,8,500,2500,12
+1846,Dior,Dress,8,2000,15500,4
+1851,Valentino,Dress,10,1000,5000,2
+1856,Louis Vuitton,Jeans,1,1200,6000,3
+1861,Gucci,Pant Suit,4,1000,20500,8
+1866,Burberry,Dress,4,3500,5000,3
+1871,Saint Laurent,Dress,3,2000,20500,5
+1876,Armani,Suit,5,4500,15500,6
+1881,Dior,Suit,13,1000,2500,8
+1886,Valentino,Pant Suit,11,500,20500,7
+1891,Louis Vuitton,Suit,12,4500,10000,10
+1896,Gucci,Hand Bag,11,1200,5000,3
+1901,Burberry,Hand Bag,7,4500,6000,2
+1906,Saint Laurent,Hand Bag,6,4500,6000,10
+1911,Armani,Suit,9,500,6000,1
+1916,Dior,Dress,14,1200,2500,9
+1921,Valentino,Accessories,1,3500,2500,9
+1926,Louis Vuitton,Accessories,4,2000,5000,1
+1931,Gucci,Pant Suit,13,1000,15500,9
+1936,Burberry,Jeans,4,2000,10000,5
+1941,Saint Laurent,Pant Suit,13,3500,2500,1
+1946,Armani,Accessories,2,500,6000,5
+1951,Dior,Suit,6,1200,20500,9
+1956,Valentino,Pant Suit,11,1200,2500,7
+1961,Louis Vuitton,Accessories,2,500,15500,11
+1966,Gucci,Suit,10,2000,15500,12
+1971,Burberry,Hand Bag,1,1000,6000,5
+1976,Saint Laurent,Hand Bag,10,1200,20500,11
+1981,Armani,Pant Suit,14,2000,10000,6
+1986,Dior,Accessories,11,1000,2500,10
+1991,Valentino,Hand Bag,9,4500,20500,10
+1996,Louis Vuitton,Suit,3,1000,2500,12
+2001,Gucci,Jeans,13,1200,5000,8
+2006,Burberry,Pant Suit,13,3500,2500,7
+2011,Saint Laurent,Jeans,5,3500,6000,5
+2016,Armani,Hand Bag,15,500,15500,5
+2021,Dior,Pant Suit,5,3500,6000,7
+2026,Valentino,Pant Suit,14,4500,5000,5
+2031,Louis Vuitton,Dress,7,500,6000,3
+2036,Gucci,Dress,7,3500,10000,8
+2041,Burberry,Accessories,3,2000,20500,3
+2046,Saint Laurent,Accessories,5,1200,10000,4
+2051,Armani,Accessories,10,3500,6000,6
+2056,Dior,Dress,11,4500,2500,3
+2061,Valentino,Jeans,6,1200,2500,5
+2066,Louis Vuitton,Suit,15,2000,5000,7
+2071,Gucci,Suit,8,3500,2500,8
+2076,Burberry,Jeans,15,1200,15500,1
+2081,Saint Laurent,Dress,12,1000,20500,12
+2086,Armani,Hand Bag,9,500,15500,5
+2091,Dior,Jeans,10,500,20500,10
+2096,Valentino,Jeans,6,1200,5000,1
+2101,Louis Vuitton,Accessories,14,2000,10000,9
+2106,Gucci,Pant Suit,5,3500,10000,2
+2111,Burberry,Dress,9,4500,10000,7
+2116,Saint Laurent,Dress,14,3500,5000,12
+2121,Armani,Hand Bag,4,4500,6000,9
+2126,Dior,Pant Suit,14,3500,20500,12
+2131,Valentino,Dress,11,2000,5000,5
+2136,Louis Vuitton,Accessories,13,4500,2500,8
+2141,Gucci,Jeans,4,1000,20500,3
+2146,Burberry,Jeans,12,2000,20500,4
+2151,Saint Laurent,Accessories,13,500,6000,11
+2156,Armani,Pant Suit,3,1000,2500,9
+2161,Dior,Suit,12,1000,2500,7
+2166,Valentino,Hand Bag,14,4500,5000,10
+2171,Louis Vuitton,Accessories,13,4500,10000,8
+2176,Gucci,Dress,13,1200,20500,6
+2181,Burberry,Dress,14,3500,15500,7
+2186,Saint Laurent,Hand Bag,15,4500,15500,6
+2191,Armani,Accessories,7,4500,2500,1
+2196,Dior,Suit,3,500,20500,6
+2201,Valentino,Pant Suit,6,2000,5000,11
+2206,Louis Vuitton,Suit,13,2000,2500,1
+2211,Gucci,Hand Bag,13,3500,5000,6
+2216,Burberry,Hand Bag,0,4500,15500,11
+2221,Saint Laurent,Pant Suit,3,3500,5000,7
+2226,Armani,Suit,8,2000,2500,10
+2231,Dior,Accessories,3,2000,15500,12
+2236,Valentino,Dress,0,2000,20500,2
+2241,Louis Vuitton,Dress,15,3500,6000,2
+2246,Gucci,Jeans,10,1200,15500,4
+2251,Burberry,Pant Suit,15,4500,20500,9
+2256,Saint Laurent,Accessories,3,1200,5000,5
+2261,Armani,Hand Bag,5,4500,15500,4
+2266,Dior,Accessories,7,4500,2500,10
+2271,Valentino,Pant Suit,9,2000,10000,8
+2276,Louis Vuitton,Hand Bag,13,4500,5000,4
+2281,Gucci,Accessories,14,4500,5000,10
+2286,Burberry,Hand Bag,5,2000,2500,2
+2291,Saint Laurent,Suit,10,500,10000,4
+2296,Armani,Pant Suit,6,1000,6000,2
+2301,Dior,Accessories,1,4500,10000,5
+2306,Valentino,Suit,11,500,6000,10
+2311,Louis Vuitton,Dress,7,1000,20500,8
+2316,Gucci,Hand Bag,4,500,15500,8
+2321,Burberry,Pant Suit,3,1200,10000,11
+2326,Saint Laurent,Hand Bag,8,2000,10000,2
+2331,Armani,Jeans,11,1200,15500,1
+2336,Dior,Pant Suit,7,1000,20500,6
+2341,Valentino,Accessories,1,1200,15500,10
+2346,Louis Vuitton,Pant Suit,1,2000,20500,5
+2351,Gucci,Jeans,12,2000,15500,5
+2356,Burberry,Dress,7,500,20500,7
+2361,Saint Laurent,Dress,12,4500,20500,2
+2366,Armani,Hand Bag,11,2000,6000,7
+2371,Dior,Dress,6,4500,15500,8
+2376,Valentino,Dress,2,500,5000,2
+2381,Louis Vuitton,Jeans,15,1000,15500,2
+2386,Gucci,Jeans,15,500,2500,11
+2391,Burberry,Hand Bag,0,2000,20500,12
+2396,Saint Laurent,Accessories,7,2000,20500,6
+2401,Armani,Hand Bag,0,500,10000,11
+2406,Dior,Suit,9,3500,15500,6
+2411,Valentino,Hand Bag,15,4500,5000,9
+2416,Louis Vuitton,Suit,10,1200,5000,3
+2421,Gucci,Hand Bag,14,2000,15500,8
+2426,Burberry,Suit,14,2000,5000,11
+2431,Saint Laurent,Dress,3,1200,20500,6
+2436,Armani,Dress,11,3500,6000,3
+2441,Dior,Hand Bag,3,3500,10000,3
+2446,Valentino,Dress,3,3500,20500,2
+2451,Louis Vuitton,Pant Suit,10,4500,2500,3
+2456,Gucci,Suit,5,3500,6000,6
+2461,Burberry,Accessories,9,3500,10000,11
+2466,Saint Laurent,Jeans,11,2000,20500,11
+2471,Armani,Jeans,7,2000,20500,5
+2476,Dior,Hand Bag,8,1200,15500,12
+2481,Valentino,Suit,2,2000,5000,8
+2486,Louis Vuitton,Jeans,13,1200,10000,6
+2491,Gucci,Suit,7,3500,2500,12
+2496,Burberry,Dress,9,1000,2500,8
+2501,Saint Laurent,Accessories,6,2000,15500,12
+2506,Armani,Suit,13,4500,2500,10
+2511,Dior,Accessories,3,500,15500,7
+2516,Valentino,Accessories,7,1000,15500,12
+2521,Louis Vuitton,Accessories,14,1200,5000,11
+2526,Gucci,Suit,1,4500,10000,8
+2531,Burberry,Dress,11,3500,15500,11
+2536,Saint Laurent,Jeans,14,1200,2500,10
+2541,Armani,Hand Bag,12,3500,20500,7
+2546,Dior,Suit,15,2000,20500,3
+2551,Valentino,Dress,2,4500,15500,6
+2556,Louis Vuitton,Suit,12,2000,6000,7
+2561,Gucci,Dress,8,4500,15500,3
+2566,Burberry,Accessories,15,3500,10000,5
+2571,Saint Laurent,Hand Bag,12,3500,2500,7
+2576,Armani,Suit,13,1000,20500,7
+2581,Dior,Dress,0,1200,15500,7
+2586,Valentino,Pant Suit,10,1200,15500,1
+2591,Louis Vuitton,Hand Bag,0,1000,6000,5
+2596,Gucci,Dress,1,1200,2500,4
+2601,Burberry,Dress,11,1200,2500,5
+2606,Saint Laurent,Suit,0,500,6000,5
+2611,Armani,Jeans,14,4500,5000,6
+2616,Dior,Hand Bag,13,1000,15500,8
+2621,Valentino,Accessories,1,3500,15500,2
+2626,Louis Vuitton,Accessories,4,3500,15500,12
+2631,Gucci,Hand Bag,5,1200,10000,3
+2636,Burberry,Suit,15,500,20500,9
+2641,Saint Laurent,Jeans,10,4500,5000,9
+2646,Armani,Accessories,4,1000,5000,2
+2651,Dior,Hand Bag,10,1000,10000,1
+2656,Valentino,Dress,3,3500,10000,11
+2661,Louis Vuitton,Accessories,1,4500,20500,3
+2666,Gucci,Accessories,1,3500,2500,12
+2671,Burberry,Accessories,7,4500,6000,10
+2676,Saint Laurent,Accessories,8,500,2500,11
+2681,Armani,Suit,15,500,2500,6
+2686,Dior,Pant Suit,2,500,15500,9
+2691,Valentino,Jeans,1,2000,6000,10
+2696,Louis Vuitton,Jeans,15,500,2500,9
+2701,Gucci,Jeans,10,3500,6000,5
+2706,Burberry,Accessories,10,4500,15500,11
+2711,Saint Laurent,Jeans,8,1200,5000,12
+2716,Armani,Pant Suit,15,2000,5000,9
+2721,Dior,Dress,9,4500,5000,6
+2726,Valentino,Dress,11,3500,6000,12
+2731,Louis Vuitton,Accessories,5,2000,20500,7
+2736,Gucci,Accessories,0,1000,5000,6
+2741,Burberry,Hand Bag,3,2000,2500,5
+2746,Saint Laurent,Suit,6,3500,15500,3
+2751,Armani,Accessories,12,4500,10000,1
+2756,Dior,Hand Bag,7,4500,20500,7
+2761,Valentino,Jeans,5,1000,2500,8
+2766,Louis Vuitton,Jeans,10,1200,20500,3
+2771,Gucci,Dress,2,1200,10000,4
+2776,Burberry,Accessories,14,1000,20500,10
+2781,Saint Laurent,Jeans,11,4500,15500,1
+2786,Armani,Suit,14,3500,15500,6
+2791,Dior,Hand Bag,3,4500,20500,12
+2796,Valentino,Accessories,3,2000,20500,7
+2801,Louis Vuitton,Pant Suit,7,3500,2500,5
+2806,Gucci,Jeans,14,2000,2500,12
+2811,Burberry,Suit,9,1000,6000,9
+2816,Saint Laurent,Pant Suit,15,3500,5000,5
+2821,Armani,Suit,4,500,20500,7
+2826,Dior,Suit,7,1200,10000,4
+2831,Valentino,Jeans,2,1200,15500,12
+2836,Louis Vuitton,Accessories,5,3500,20500,4
+2841,Gucci,Pant Suit,1,3500,5000,4
+2846,Burberry,Accessories,6,2000,20500,5
+2851,Saint Laurent,Suit,1,1200,6000,9
+2856,Armani,Jeans,8,500,20500,8
+2861,Dior,Suit,2,4500,10000,10
+2866,Valentino,Jeans,10,3500,15500,4
+2871,Louis Vuitton,Pant Suit,14,3500,5000,8
+2876,Gucci,Pant Suit,1,2000,6000,12
+2881,Burberry,Dress,12,1000,2500,5
+2886,Saint Laurent,Jeans,11,1000,10000,1
+2891,Armani,Accessories,3,500,5000,8
+2896,Dior,Pant Suit,2,3500,20500,3
+2901,Valentino,Pant Suit,4,1200,15500,8
+2906,Louis Vuitton,Accessories,6,500,15500,1
+2911,Gucci,Accessories,0,2000,5000,8
+2916,Burberry,Dress,5,1200,15500,10
+2921,Saint Laurent,Jeans,2,4500,20500,1
+2926,Armani,Hand Bag,13,4500,6000,11
+2931,Dior,Jeans,5,500,20500,10
+2936,Valentino,Hand Bag,3,2000,20500,9
+2941,Louis Vuitton,Pant Suit,5,1200,6000,5
+2946,Gucci,Dress,5,3500,5000,5
+2951,Burberry,Pant Suit,8,4500,15500,9
+2956,Saint Laurent,Hand Bag,6,500,10000,11
+2961,Armani,Dress,1,2000,10000,3
+2966,Dior,Jeans,13,2000,20500,1
+2971,Valentino,Suit,4,2000,6000,11
+2976,Louis Vuitton,Accessories,8,2000,5000,5
+2981,Gucci,Jeans,2,2000,10000,8
+2986,Burberry,Jeans,12,500,5000,7
+2991,Saint Laurent,Hand Bag,0,500,5000,1
+2996,Armani,Pant Suit,11,2000,20500,2
+3001,Dior,Suit,12,4500,2500,5
+3006,Valentino,Pant Suit,9,2000,20500,7
+3011,Louis Vuitton,Pant Suit,11,4500,5000,6
+3016,Gucci,Hand Bag,10,1200,6000,3
+3021,Burberry,Accessories,5,2000,5000,11
+3026,Saint Laurent,Jeans,5,3500,6000,3
+3031,Armani,Accessories,13,4500,10000,5
+3036,Dior,Accessories,13,1000,15500,6
+3041,Valentino,Hand Bag,15,3500,5000,10
+3046,Louis Vuitton,Jeans,1,1000,10000,10
+3051,Gucci,Accessories,6,1000,6000,6
+3056,Burberry,Dress,1,3500,5000,10
+3061,Saint Laurent,Jeans,12,1200,10000,9
+3066,Armani,Jeans,7,1000,15500,8
+3071,Dior,Jeans,5,1200,5000,11
+3076,Valentino,Suit,2,1200,10000,3
+3081,Louis Vuitton,Accessories,10,4500,6000,3
+3086,Gucci,Hand Bag,5,3500,6000,5
+3091,Burberry,Accessories,1,2000,5000,6
+3096,Saint Laurent,Jeans,10,1000,15500,7
+3101,Armani,Accessories,0,1000,6000,2
+3106,Dior,Accessories,12,500,10000,1
+3111,Valentino,Suit,0,1000,20500,9
+3116,Louis Vuitton,Pant Suit,2,2000,6000,5
+3121,Gucci,Dress,15,4500,15500,4
+3126,Burberry,Pant Suit,5,2000,20500,1
+3131,Saint Laurent,Accessories,4,500,10000,7
+3136,Armani,Jeans,0,3500,10000,4
+3141,Dior,Accessories,8,3500,10000,8
+3146,Valentino,Hand Bag,14,1000,20500,10
+3151,Louis Vuitton,Pant Suit,3,500,6000,10
+3156,Gucci,Pant Suit,13,500,5000,5
+3161,Burberry,Pant Suit,7,4500,10000,4
+3166,Saint Laurent,Jeans,13,4500,2500,12
+3171,Armani,Accessories,10,4500,20500,4
+3176,Dior,Hand Bag,13,2000,6000,5
+3181,Valentino,Suit,1,4500,10000,1
+3186,Louis Vuitton,Accessories,1,2000,5000,7
+3191,Gucci,Suit,1,1000,6000,2
+3196,Burberry,Hand Bag,1,2000,6000,11
+3201,Saint Laurent,Jeans,8,2000,2500,10
+3206,Armani,Hand Bag,1,1200,20500,3
+3211,Dior,Pant Suit,11,4500,20500,10
+3216,Valentino,Hand Bag,11,4500,6000,8
+3221,Louis Vuitton,Suit,1,500,20500,5
+3226,Gucci,Jeans,1,4500,5000,7
+3231,Burberry,Suit,1,500,20500,9
+3236,Saint Laurent,Accessories,8,4500,6000,2
+3241,Armani,Dress,1,2000,15500,8
+3246,Dior,Suit,9,500,2500,10
+3251,Valentino,Dress,3,1200,5000,4
+3256,Louis Vuitton,Hand Bag,5,3500,5000,9
+3261,Gucci,Suit,11,2000,20500,10
+3266,Burberry,Dress,5,1000,15500,10
+3271,Saint Laurent,Jeans,10,2000,2500,6
+3276,Armani,Pant Suit,10,2000,6000,7
+3281,Dior,Hand Bag,5,3500,6000,5
+3286,Valentino,Suit,10,4500,2500,10
+3291,Louis Vuitton,Dress,12,1000,6000,4
+3296,Gucci,Accessories,0,3500,6000,9
+3301,Burberry,Suit,8,4500,10000,7
+3306,Saint Laurent,Accessories,12,1200,6000,3
+3311,Armani,Hand Bag,12,1200,2500,3
+3316,Dior,Accessories,6,500,10000,10
+3321,Valentino,Accessories,4,1000,15500,3
+3326,Louis Vuitton,Jeans,12,2000,15500,9
+3331,Gucci,Accessories,4,2000,6000,11
+3336,Burberry,Jeans,3,4500,20500,6
+3341,Saint Laurent,Suit,12,1000,15500,8
+3346,Armani,Jeans,9,3500,5000,2
+3351,Dior,Suit,6,3500,15500,11
+3356,Valentino,Hand Bag,4,1000,2500,12
+3361,Louis Vuitton,Pant Suit,13,2000,20500,8
+3366,Gucci,Suit,13,1200,15500,12
+3371,Burberry,Pant Suit,8,2000,10000,5
+3376,Saint Laurent,Accessories,4,4500,6000,5
+3381,Armani,Hand Bag,11,2000,10000,6
+3386,Dior,Jeans,10,1200,2500,3
+3391,Valentino,Jeans,7,3500,6000,1
+3396,Louis Vuitton,Hand Bag,3,1000,5000,11
+3401,Gucci,Suit,8,500,5000,11
+3406,Burberry,Hand Bag,0,3500,20500,6
+3411,Saint Laurent,Accessories,13,2000,10000,2
+3416,Armani,Accessories,0,1200,6000,9
+3421,Dior,Hand Bag,6,1000,10000,10
+3426,Valentino,Jeans,2,2000,5000,10
+3431,Louis Vuitton,Dress,10,2000,6000,5
+3436,Gucci,Hand Bag,0,1200,5000,5
+3441,Burberry,Hand Bag,9,4500,20500,10
+3446,Saint Laurent,Pant Suit,8,4500,2500,4
+3451,Armani,Jeans,10,4500,20500,5
+3456,Dior,Hand Bag,10,500,5000,2
+3461,Valentino,Jeans,8,1000,20500,4
+3466,Louis Vuitton,Suit,2,1200,10000,12
+3471,Gucci,Accessories,15,1000,5000,3
+3476,Burberry,Dress,14,4500,10000,10
+3481,Saint Laurent,Hand Bag,6,1000,5000,8
+3486,Armani,Accessories,4,1200,15500,2
+3491,Dior,Accessories,9,500,20500,12
+3496,Valentino,Suit,5,3500,10000,5
+3501,Louis Vuitton,Jeans,6,1000,20500,5
+3506,Gucci,Jeans,12,4500,6000,9
+3511,Burberry,Pant Suit,12,1000,10000,5
+3516,Saint Laurent,Dress,13,2000,2500,6
+3521,Armani,Dress,2,3500,15500,1
+3526,Dior,Accessories,8,2000,15500,9
+3531,Valentino,Hand Bag,1,1200,6000,2
+3536,Louis Vuitton,Suit,0,3500,15500,1
+3541,Gucci,Suit,6,1000,20500,10
+3546,Burberry,Dress,3,2000,20500,3
+3551,Saint Laurent,Dress,4,1200,20500,1
+3556,Armani,Dress,2,2000,10000,3
+3561,Dior,Jeans,12,2000,20500,11
+3566,Valentino,Hand Bag,15,1000,2500,1
+3571,Louis Vuitton,Hand Bag,3,4500,5000,1
+3576,Gucci,Dress,14,2000,10000,8
+3581,Burberry,Dress,9,2000,15500,12
+3586,Saint Laurent,Suit,6,500,5000,3
+3591,Armani,Jeans,1,4500,5000,6
+3596,Dior,Pant Suit,3,1200,5000,5
+3601,Valentino,Accessories,2,2000,15500,10
+3606,Louis Vuitton,Jeans,4,500,10000,12
+3611,Gucci,Hand Bag,11,3500,15500,10
+3616,Burberry,Jeans,6,3500,10000,11
+3621,Saint Laurent,Jeans,1,1000,20500,9
+3626,Armani,Hand Bag,12,500,6000,8
+3631,Dior,Jeans,10,4500,2500,10
+3636,Valentino,Accessories,0,3500,2500,1
+3641,Louis Vuitton,Accessories,6,1000,6000,8
+3646,Gucci,Suit,15,3500,15500,11
+3651,Burberry,Jeans,4,4500,2500,1
+3656,Saint Laurent,Pant Suit,8,4500,5000,7
+3661,Armani,Suit,8,4500,15500,2
+3666,Dior,Jeans,0,1200,2500,8
+3671,Valentino,Pant Suit,2,4500,6000,3
+3676,Louis Vuitton,Hand Bag,0,4500,20500,10
+3681,Gucci,Hand Bag,13,3500,20500,10
+3686,Burberry,Pant Suit,9,1000,20500,4
+3691,Saint Laurent,Jeans,14,1000,10000,3
+3696,Armani,Hand Bag,14,3500,15500,3
+3701,Dior,Pant Suit,5,500,15500,11
+3706,Valentino,Dress,14,1000,10000,3
+3711,Louis Vuitton,Pant Suit,15,3500,10000,11
+3716,Gucci,Pant Suit,7,500,10000,11
+3721,Burberry,Jeans,2,3500,6000,8
+3726,Saint Laurent,Hand Bag,1,2000,15500,1
+3731,Armani,Hand Bag,11,1000,20500,8
+3736,Dior,Dress,9,3500,10000,8
+3741,Valentino,Hand Bag,10,500,15500,5
+3746,Louis Vuitton,Dress,1,4500,5000,12
+3751,Gucci,Pant Suit,14,1200,5000,6
+3756,Burberry,Dress,3,3500,5000,1
+3761,Saint Laurent,Jeans,14,3500,15500,4
+3766,Armani,Suit,4,3500,5000,1
+3771,Dior,Accessories,6,4500,10000,2
+3776,Valentino,Pant Suit,2,500,15500,9
+3781,Louis Vuitton,Accessories,7,4500,20500,11
+3786,Gucci,Pant Suit,15,4500,10000,10
+3791,Burberry,Dress,3,3500,20500,11
+3796,Saint Laurent,Dress,12,3500,6000,2
+3801,Armani,Accessories,10,3500,6000,11
+3806,Dior,Suit,2,1000,15500,8
+3811,Valentino,Pant Suit,14,4500,5000,7
+3816,Louis Vuitton,Dress,12,500,10000,11
+3821,Gucci,Jeans,15,500,15500,12
+3826,Burberry,Hand Bag,5,2000,20500,7
+3831,Saint Laurent,Suit,4,3500,5000,11
+3836,Armani,Accessories,14,500,10000,5
+3841,Dior,Suit,11,500,10000,7
+3846,Valentino,Suit,13,3500,5000,4
+3851,Louis Vuitton,Jeans,9,1200,15500,1
+3856,Gucci,Dress,5,1000,2500,8
+3861,Burberry,Accessories,0,2000,2500,3
+3866,Saint Laurent,Suit,5,4500,6000,2
+3871,Armani,Pant Suit,8,2000,15500,5
+3876,Dior,Jeans,5,4500,10000,4
+3881,Valentino,Dress,12,3500,2500,8
+3886,Louis Vuitton,Dress,4,1200,6000,4
+3891,Gucci,Suit,5,3500,2500,4
+3896,Burberry,Accessories,6,2000,5000,11
+3901,Saint Laurent,Dress,9,500,6000,8
+3906,Armani,Hand Bag,10,500,10000,12
+3911,Dior,Suit,12,500,6000,4
+3916,Valentino,Dress,2,3500,15500,4
+3921,Louis Vuitton,Suit,9,500,6000,1
+3926,Gucci,Accessories,1,1200,2500,10
+3931,Burberry,Jeans,13,2000,15500,10
+3936,Saint Laurent,Hand Bag,4,1200,5000,1
+3941,Armani,Dress,7,3500,20500,6
+3946,Dior,Accessories,9,3500,10000,2
+3951,Valentino,Pant Suit,3,2000,20500,10
+3956,Louis Vuitton,Dress,3,1000,5000,11
+3961,Gucci,Suit,10,3500,20500,10
+3966,Burberry,Suit,8,1000,10000,10
+3971,Saint Laurent,Accessories,14,500,5000,5
+3976,Armani,Suit,8,2000,6000,12
+3981,Dior,Accessories,10,4500,10000,7
+3986,Valentino,Hand Bag,10,1000,2500,11
+3991,Louis Vuitton,Hand Bag,3,2000,6000,11
+3996,Gucci,Jeans,4,2000,5000,1
+4001,Burberry,Accessories,13,500,6000,10
+4006,Saint Laurent,Pant Suit,13,1200,15500,5
+4011,Armani,Dress,7,1200,2500,2
+4016,Dior,Hand Bag,11,1000,10000,8
+4021,Valentino,Suit,6,2000,6000,6
+4026,Louis Vuitton,Pant Suit,11,1200,2500,10
+4031,Gucci,Jeans,14,1200,20500,9
+4036,Burberry,Hand Bag,12,2000,20500,6
+4041,Saint Laurent,Dress,9,500,20500,1
+4046,Armani,Pant Suit,7,1200,5000,1
+4051,Dior,Pant Suit,1,3500,5000,5
+4056,Valentino,Suit,4,2000,15500,10
+4061,Louis Vuitton,Suit,6,3500,20500,5
+4066,Gucci,Dress,11,4500,15500,11
+4071,Burberry,Hand Bag,13,3500,15500,1
+4076,Saint Laurent,Pant Suit,11,3500,20500,10
+4081,Armani,Suit,11,3500,2500,7
+4086,Dior,Hand Bag,13,4500,6000,3
+4091,Valentino,Hand Bag,7,1000,5000,5
+4096,Louis Vuitton,Dress,3,1000,2500,1
+4101,Gucci,Jeans,4,4500,6000,7
+4106,Burberry,Pant Suit,13,500,10000,2
+4111,Saint Laurent,Hand Bag,1,4500,20500,12
+4116,Armani,Accessories,0,500,5000,10
+4121,Dior,Hand Bag,11,1000,6000,6
+4126,Valentino,Pant Suit,5,1000,2500,12
+4131,Louis Vuitton,Pant Suit,6,500,10000,1
+4136,Gucci,Hand Bag,6,1000,10000,6
+4141,Burberry,Dress,11,1200,6000,8
+4146,Saint Laurent,Hand Bag,15,3500,6000,1
+4151,Armani,Dress,11,1200,2500,9
+4156,Dior,Jeans,15,3500,5000,5
+4161,Valentino,Pant Suit,13,500,15500,2
+4166,Louis Vuitton,Accessories,7,1000,15500,10
+4171,Gucci,Accessories,10,3500,6000,7
+4176,Burberry,Dress,5,1000,20500,8
+4181,Saint Laurent,Suit,4,2000,5000,2
+4186,Armani,Suit,10,4500,20500,1
+4191,Dior,Pant Suit,14,4500,6000,5
+4196,Valentino,Jeans,11,4500,2500,1
+4201,Louis Vuitton,Jeans,4,1200,5000,3
+4206,Gucci,Accessories,1,3500,5000,8
+4211,Burberry,Pant Suit,9,500,2500,2
+4216,Saint Laurent,Hand Bag,1,1200,20500,2
+4221,Armani,Dress,4,1000,15500,3
+4226,Dior,Pant Suit,3,3500,15500,6
+4231,Valentino,Accessories,4,1000,10000,4
+4236,Louis Vuitton,Accessories,8,4500,20500,2
+4241,Gucci,Suit,7,1000,10000,2
+4246,Burberry,Hand Bag,14,4500,5000,5
+4251,Saint Laurent,Jeans,14,4500,6000,6
+4256,Armani,Jeans,11,1000,5000,8
+4261,Dior,Dress,6,1200,2500,5
+4266,Valentino,Jeans,7,500,20500,10
+4271,Louis Vuitton,Hand Bag,7,2000,10000,6
+4276,Gucci,Dress,13,3500,6000,4
+4281,Burberry,Hand Bag,12,1200,5000,10
+4286,Saint Laurent,Hand Bag,0,500,2500,2
+4291,Armani,Suit,13,1200,2500,11
+4296,Dior,Suit,11,500,6000,10
+4301,Valentino,Dress,14,1000,6000,3
+4306,Louis Vuitton,Dress,4,1200,15500,8
+4311,Gucci,Dress,1,1200,6000,5
+4316,Burberry,Pant Suit,11,2000,15500,11
+4321,Saint Laurent,Dress,8,1000,5000,1
+4326,Armani,Accessories,0,2000,5000,3
+4331,Dior,Dress,8,3500,6000,7
+4336,Valentino,Suit,13,4500,20500,2
+4341,Louis Vuitton,Suit,1,1000,10000,1
+4346,Gucci,Hand Bag,4,1000,6000,11
+4351,Burberry,Hand Bag,6,2000,5000,10
+4356,Saint Laurent,Accessories,7,3500,10000,11
+4361,Armani,Accessories,10,1200,5000,6
+4366,Dior,Suit,13,3500,6000,8
+4371,Valentino,Dress,5,2000,2500,8
+4376,Louis Vuitton,Pant Suit,11,3500,5000,5
+4381,Gucci,Suit,4,1000,20500,4
+4386,Burberry,Accessories,4,1000,2500,1
+4391,Saint Laurent,Suit,4,4500,15500,3
+4396,Armani,Pant Suit,10,2000,5000,5
+4401,Dior,Pant Suit,5,3500,10000,2
+4406,Valentino,Jeans,15,1000,6000,3
+4411,Louis Vuitton,Accessories,5,1000,2500,8
+4416,Gucci,Hand Bag,12,1200,20500,6
+4421,Burberry,Dress,7,4500,15500,1
+4426,Saint Laurent,Pant Suit,7,3500,10000,10
+4431,Armani,Accessories,8,500,15500,11
+4436,Dior,Accessories,9,1000,20500,3
+4441,Valentino,Pant Suit,3,500,20500,9
+4446,Louis Vuitton,Suit,14,4500,20500,1
+4451,Gucci,Pant Suit,13,2000,15500,4
+4456,Burberry,Jeans,15,4500,5000,7
+4461,Saint Laurent,Jeans,9,4500,6000,4
+4466,Armani,Hand Bag,3,500,5000,7
+4471,Dior,Dress,3,3500,2500,3
+4476,Valentino,Pant Suit,0,3500,20500,10
+4481,Louis Vuitton,Suit,10,500,6000,4
+4486,Gucci,Suit,5,1200,20500,4
+4491,Burberry,Hand Bag,13,1200,6000,12
+4496,Saint Laurent,Accessories,1,3500,10000,2
+4501,Armani,Jeans,4,500,20500,8
+4506,Dior,Hand Bag,10,1000,10000,2
+4511,Valentino,Accessories,9,500,10000,1
+4516,Louis Vuitton,Pant Suit,11,3500,5000,11
+4521,Gucci,Accessories,0,1000,20500,6
+4526,Burberry,Suit,1,500,5000,9
+4531,Saint Laurent,Accessories,9,1000,6000,3
+4536,Armani,Accessories,15,1200,10000,12
+4541,Dior,Hand Bag,13,1200,15500,9
+4546,Valentino,Jeans,5,4500,15500,1
+4551,Louis Vuitton,Suit,14,4500,2500,7
+4556,Gucci,Pant Suit,14,2000,2500,12
+4561,Burberry,Jeans,12,3500,20500,9
+4566,Saint Laurent,Accessories,7,500,5000,11
+4571,Armani,Jeans,12,2000,10000,11
+4576,Dior,Jeans,3,1000,15500,6
+4581,Valentino,Hand Bag,10,500,6000,10
+4586,Louis Vuitton,Pant Suit,1,500,10000,3
+4591,Gucci,Suit,10,3500,2500,1
+4596,Burberry,Suit,0,500,10000,10
+4601,Saint Laurent,Pant Suit,15,1200,2500,1
+4606,Armani,Jeans,12,1200,5000,4
+4611,Dior,Jeans,11,500,2500,2
+4616,Valentino,Pant Suit,5,1200,5000,3
+4621,Louis Vuitton,Accessories,15,2000,15500,4
+4626,Gucci,Accessories,1,3500,20500,7
+4631,Burberry,Jeans,10,2000,15500,11
+4636,Saint Laurent,Jeans,9,4500,2500,8
+4641,Armani,Pant Suit,12,1000,15500,5
+4646,Dior,Jeans,13,1000,2500,11
+4651,Valentino,Suit,9,1000,5000,2
+4656,Louis Vuitton,Hand Bag,14,1000,15500,12
+4661,Gucci,Jeans,1,1200,6000,2
+4666,Burberry,Hand Bag,10,3500,10000,7
+4671,Saint Laurent,Jeans,11,1200,6000,1
+4676,Armani,Hand Bag,14,4500,15500,10
+4681,Dior,Pant Suit,7,4500,10000,10
+4686,Valentino,Suit,11,4500,5000,5
+4691,Louis Vuitton,Jeans,5,4500,10000,3
+4696,Gucci,Suit,15,1000,5000,11
+4701,Burberry,Suit,8,3500,10000,11
+4706,Saint Laurent,Hand Bag,1,3500,5000,8
+4711,Armani,Pant Suit,15,2000,20500,4
+4716,Dior,Jeans,5,3500,5000,8
+4721,Valentino,Jeans,12,500,20500,4
+4726,Louis Vuitton,Jeans,12,1200,15500,9
+4731,Gucci,Hand Bag,7,2000,10000,9
+4736,Burberry,Hand Bag,11,2000,6000,8
+4741,Saint Laurent,Suit,12,500,10000,5
+4746,Armani,Hand Bag,5,1200,20500,9
+4751,Dior,Accessories,5,500,20500,11
+4756,Valentino,Pant Suit,9,500,15500,5
+4761,Louis Vuitton,Accessories,14,4500,20500,8
+4766,Gucci,Dress,4,3500,5000,5
+4771,Burberry,Suit,10,3500,10000,10
+4776,Saint Laurent,Dress,5,2000,10000,5
+4781,Armani,Suit,7,1200,6000,6
+4786,Dior,Dress,10,500,2500,2
+4791,Valentino,Hand Bag,13,500,6000,4
+4796,Louis Vuitton,Hand Bag,12,2000,5000,2
+4801,Gucci,Hand Bag,6,4500,15500,12
+4806,Burberry,Accessories,11,4500,6000,5
+4811,Saint Laurent,Accessories,4,1000,6000,6
+4816,Armani,Pant Suit,10,500,20500,3
+4821,Dior,Suit,2,500,6000,12
+4826,Valentino,Accessories,14,3500,5000,9
+4831,Louis Vuitton,Suit,9,4500,10000,11
+4836,Gucci,Hand Bag,11,3500,10000,7
+4841,Burberry,Dress,7,2000,6000,8
+4846,Saint Laurent,Accessories,7,3500,10000,12
+4851,Armani,Pant Suit,4,4500,6000,12
+4856,Dior,Jeans,2,2000,5000,5
+4861,Valentino,Pant Suit,15,4500,5000,3
+4866,Louis Vuitton,Suit,11,3500,2500,3
+4871,Gucci,Suit,3,2000,20500,10
+4876,Burberry,Hand Bag,14,1200,2500,8
+4881,Saint Laurent,Accessories,3,500,6000,11
+4886,Armani,Suit,10,4500,15500,9
+4891,Dior,Jeans,3,2000,15500,1
+4896,Valentino,Dress,12,1200,20500,1
+4901,Louis Vuitton,Accessories,1,500,15500,3
+4906,Gucci,Accessories,3,4500,10000,9
+4911,Burberry,Jeans,4,4500,5000,5
+4916,Saint Laurent,Suit,2,2000,10000,8
+4921,Armani,Suit,4,500,2500,5
+4926,Dior,Suit,7,500,5000,7
+4931,Valentino,Accessories,13,1200,6000,3
+4936,Louis Vuitton,Dress,6,1000,15500,10
+4941,Gucci,Jeans,2,1000,15500,8
+4946,Burberry,Suit,6,1200,20500,11
+4951,Saint Laurent,Pant Suit,7,2000,20500,6
+4956,Armani,Accessories,3,4500,15500,11
+4961,Dior,Accessories,10,2000,2500,1
+4966,Valentino,Accessories,0,3500,10000,4
+4971,Louis Vuitton,Pant Suit,5,500,15500,3
+4976,Gucci,Suit,11,4500,15500,6
+4981,Burberry,Dress,0,2000,2500,12
+4986,Saint Laurent,Hand Bag,7,500,5000,1
+4991,Armani,Pant Suit,4,4500,20500,12
+4996,Dior,Hand Bag,10,500,10000,11
+5001,Valentino,Jeans,5,1200,5000,10
+5006,Louis Vuitton,Jeans,13,500,15500,5
+5011,Gucci,Dress,3,2000,2500,8
+5016,Burberry,Dress,13,2000,6000,8
+5021,Saint Laurent,Accessories,15,1200,2500,10
+5026,Armani,Jeans,8,4500,15500,11
+5031,Dior,Hand Bag,5,1000,2500,1
+5036,Valentino,Pant Suit,15,1000,5000,1
+5041,Louis Vuitton,Accessories,2,1000,20500,4
+5046,Gucci,Dress,3,1200,15500,9
+5051,Burberry,Suit,11,1200,15500,5
+5056,Saint Laurent,Suit,11,3500,2500,1
+5061,Armani,Pant Suit,5,1000,5000,9
+5066,Dior,Pant Suit,12,4500,20500,8
+5071,Valentino,Accessories,2,2000,6000,10
+5076,Louis Vuitton,Jeans,9,4500,10000,2
+5081,Gucci,Hand Bag,4,1200,5000,9
+5086,Burberry,Hand Bag,5,4500,5000,5
+5091,Saint Laurent,Jeans,11,4500,20500,1
+5096,Armani,Jeans,11,3500,5000,12
+5101,Dior,Dress,14,1200,20500,4
+5106,Valentino,Dress,5,1200,20500,1
+5111,Louis Vuitton,Hand Bag,7,3500,5000,1
+5116,Gucci,Accessories,9,1200,5000,10
+5121,Burberry,Hand Bag,13,1200,6000,12
+5126,Saint Laurent,Pant Suit,2,500,15500,3
+5131,Armani,Hand Bag,10,500,15500,10
+5136,Dior,Suit,6,4500,20500,4
+5141,Valentino,Pant Suit,8,1000,2500,12
+5146,Louis Vuitton,Accessories,0,2000,10000,11
+5151,Gucci,Suit,4,1000,20500,2
+5156,Burberry,Suit,0,4500,2500,4
+5161,Saint Laurent,Pant Suit,0,1200,5000,10
+5166,Armani,Hand Bag,13,500,6000,12
+5171,Dior,Dress,2,2000,15500,1
+5176,Valentino,Hand Bag,1,500,20500,3
+5181,Louis Vuitton,Hand Bag,11,500,20500,2
+5186,Gucci,Jeans,11,2000,6000,6
+5191,Burberry,Hand Bag,12,1000,6000,10
+5196,Saint Laurent,Suit,3,500,5000,10
+5201,Armani,Hand Bag,13,1000,10000,1
+5206,Dior,Dress,1,2000,5000,2
+5211,Valentino,Suit,2,1200,20500,5
+5216,Louis Vuitton,Suit,7,1200,20500,4
+5221,Gucci,Hand Bag,13,1200,20500,10
+5226,Burberry,Suit,13,1200,5000,6
+5231,Saint Laurent,Dress,15,3500,15500,8
+5236,Armani,Hand Bag,13,1000,10000,6
+5241,Dior,Accessories,2,500,6000,12
+5246,Valentino,Pant Suit,4,1000,20500,8
+5251,Louis Vuitton,Hand Bag,14,500,6000,5
+5256,Gucci,Accessories,7,500,20500,10
+5261,Burberry,Accessories,12,1200,6000,6
+5266,Saint Laurent,Dress,11,1000,15500,12
+5271,Armani,Suit,1,1200,5000,9
+5276,Dior,Suit,10,2000,5000,11
+5281,Valentino,Hand Bag,2,3500,2500,6
+5286,Louis Vuitton,Accessories,11,500,2500,10
+5291,Gucci,Accessories,0,2000,6000,3
+5296,Burberry,Hand Bag,0,500,10000,3
+5301,Saint Laurent,Dress,7,500,5000,1
+5306,Armani,Jeans,13,1200,15500,2
+5311,Dior,Suit,1,3500,20500,1
+5316,Valentino,Suit,9,500,20500,4
+5321,Louis Vuitton,Pant Suit,13,4500,5000,5
+5326,Gucci,Hand Bag,15,1200,6000,9
+5331,Burberry,Suit,10,2000,2500,9
+5336,Saint Laurent,Accessories,1,3500,15500,5
+5341,Armani,Pant Suit,8,1200,15500,6
+5346,Dior,Pant Suit,12,2000,20500,4
+5351,Valentino,Hand Bag,4,2000,5000,4
+5356,Louis Vuitton,Suit,11,1200,20500,5
+5361,Gucci,Jeans,4,1200,5000,2
+5366,Burberry,Jeans,4,1000,20500,3
+5371,Saint Laurent,Suit,0,2000,15500,5
+5376,Armani,Pant Suit,9,3500,5000,7
+5381,Dior,Hand Bag,3,3500,5000,2
+5386,Valentino,Jeans,6,4500,20500,8
+5391,Louis Vuitton,Hand Bag,6,1000,2500,3
+5396,Gucci,Accessories,5,1000,10000,10
+5401,Burberry,Pant Suit,14,4500,6000,1
+5406,Saint Laurent,Hand Bag,2,1200,6000,1
+5411,Armani,Pant Suit,8,2000,5000,3
+5416,Dior,Suit,4,500,6000,2
+5421,Valentino,Dress,11,2000,20500,4
+5426,Louis Vuitton,Pant Suit,0,1200,6000,5
+5431,Gucci,Jeans,15,1200,10000,5
+5436,Burberry,Dress,4,3500,2500,4
+5441,Saint Laurent,Dress,2,1200,10000,1
+5446,Armani,Suit,7,2000,2500,4
+5451,Dior,Pant Suit,2,1200,6000,5
+5456,Valentino,Suit,12,1000,5000,8
+5461,Louis Vuitton,Hand Bag,1,1000,6000,6
+5466,Gucci,Dress,12,1000,2500,7
+5471,Burberry,Dress,0,4500,15500,9
+5476,Saint Laurent,Suit,1,500,20500,6
+5481,Armani,Jeans,1,2000,20500,5
+5486,Dior,Hand Bag,0,4500,20500,9
+5491,Valentino,Accessories,15,3500,6000,1
+5496,Louis Vuitton,Dress,8,3500,15500,6
+5501,Gucci,Jeans,15,3500,20500,2
+5506,Burberry,Pant Suit,2,500,10000,8
+5511,Saint Laurent,Pant Suit,5,4500,6000,6
+5516,Armani,Dress,9,2000,10000,6
+5521,Dior,Jeans,1,3500,10000,4
+5526,Valentino,Suit,14,3500,2500,9
+5531,Louis Vuitton,Suit,12,1000,10000,9
+5536,Gucci,Dress,0,4500,5000,12
+5541,Burberry,Dress,0,1000,5000,4
+5546,Saint Laurent,Accessories,3,1000,20500,6
+5551,Armani,Accessories,2,1000,2500,5
+5556,Dior,Pant Suit,3,1000,6000,11
+5561,Valentino,Jeans,14,1000,15500,11
+5566,Louis Vuitton,Jeans,7,500,2500,8
+5571,Gucci,Suit,5,3500,20500,9
+5576,Burberry,Accessories,9,1200,6000,9
+5581,Saint Laurent,Jeans,11,3500,10000,3
+5586,Armani,Dress,10,500,15500,12
+5591,Dior,Pant Suit,6,3500,10000,10
+5596,Valentino,Jeans,5,4500,20500,4
+5601,Louis Vuitton,Suit,3,4500,15500,9
+5606,Gucci,Hand Bag,7,1000,6000,10
+5611,Burberry,Suit,2,1000,15500,3
+5616,Saint Laurent,Jeans,10,500,20500,12
+5621,Armani,Accessories,15,3500,6000,7
+5626,Dior,Jeans,8,1000,10000,6
+5631,Valentino,Accessories,13,1200,5000,1
+5636,Louis Vuitton,Jeans,11,1000,5000,4
+5641,Gucci,Pant Suit,11,4500,15500,11
+5646,Burberry,Accessories,8,4500,15500,9
+5651,Saint Laurent,Dress,11,1200,10000,4
+5656,Armani,Pant Suit,15,1000,6000,3
+5661,Dior,Suit,14,1000,15500,3
+5666,Valentino,Accessories,4,1200,2500,7
+5671,Louis Vuitton,Jeans,9,2000,2500,9
+5676,Gucci,Dress,12,1000,20500,8
+5681,Burberry,Suit,8,4500,2500,6
+5686,Saint Laurent,Suit,2,3500,20500,8
+5691,Armani,Accessories,14,3500,6000,4
+5696,Dior,Jeans,13,2000,15500,3
+5701,Valentino,Pant Suit,7,4500,6000,11
+5706,Louis Vuitton,Jeans,14,2000,6000,2
+5711,Gucci,Jeans,5,1000,10000,10
+5716,Burberry,Jeans,4,1200,2500,11
+5721,Saint Laurent,Jeans,9,1000,6000,12
+5726,Armani,Accessories,2,500,2500,7
+5731,Dior,Suit,7,3500,5000,1
+5736,Valentino,Accessories,3,2000,5000,8
+5741,Louis Vuitton,Jeans,5,2000,6000,7
+5746,Gucci,Accessories,12,1000,20500,8
+5751,Burberry,Pant Suit,3,500,6000,9
+5756,Saint Laurent,Hand Bag,4,1200,20500,10
+5761,Armani,Dress,0,2000,5000,1
+5766,Dior,Pant Suit,4,3500,6000,12
+5771,Valentino,Jeans,6,1200,5000,6
+5776,Louis Vuitton,Jeans,3,2000,20500,9
+5781,Gucci,Dress,4,2000,20500,1
+5786,Burberry,Dress,7,500,2500,7
+5791,Saint Laurent,Dress,4,2000,15500,7
+5796,Armani,Pant Suit,6,3500,2500,5
+5801,Dior,Suit,3,1200,20500,7
+5806,Valentino,Hand Bag,14,1000,5000,2
+5811,Louis Vuitton,Dress,0,1000,15500,2
+5816,Gucci,Hand Bag,9,1200,2500,7
+5821,Burberry,Suit,9,3500,15500,8
+5826,Saint Laurent,Suit,1,1200,20500,8
+5831,Armani,Hand Bag,2,1000,2500,1
+5836,Dior,Hand Bag,9,2000,10000,10
+5841,Valentino,Accessories,6,1200,10000,8
+5846,Louis Vuitton,Jeans,15,1200,6000,6
+5851,Gucci,Dress,4,2000,10000,2
+5856,Burberry,Accessories,8,4500,20500,12
+5861,Saint Laurent,Accessories,1,1000,2500,8
+5866,Armani,Hand Bag,0,3500,20500,4
+5871,Dior,Dress,5,1000,5000,11
+5876,Valentino,Accessories,12,4500,6000,1
+5881,Louis Vuitton,Pant Suit,8,500,20500,2
+5886,Gucci,Hand Bag,12,2000,10000,10
+5891,Burberry,Jeans,6,3500,10000,9
+5896,Saint Laurent,Jeans,0,2000,15500,7
+5901,Armani,Dress,6,1000,20500,2
+5906,Dior,Dress,6,3500,6000,8
+5911,Valentino,Suit,1,1200,15500,7
+5916,Louis Vuitton,Hand Bag,5,1200,15500,7
+5921,Gucci,Jeans,3,1000,5000,8
+5926,Burberry,Suit,11,1000,2500,3
+5931,Saint Laurent,Dress,11,4500,5000,1
+5936,Armani,Suit,9,4500,2500,12
+5941,Dior,Suit,13,1200,20500,12
+5946,Valentino,Dress,9,4500,15500,8
+5951,Louis Vuitton,Accessories,0,4500,2500,7
+5956,Gucci,Jeans,13,500,20500,5
+5961,Burberry,Suit,11,2000,6000,5
+5966,Saint Laurent,Accessories,12,500,6000,12
+5971,Armani,Pant Suit,9,500,6000,3
+5976,Dior,Accessories,10,2000,2500,6
+5981,Valentino,Jeans,6,1200,5000,9
+5986,Louis Vuitton,Accessories,2,3500,10000,1
+5991,Gucci,Dress,2,500,15500,1
+5996,Burberry,Dress,10,4500,2500,5
+
